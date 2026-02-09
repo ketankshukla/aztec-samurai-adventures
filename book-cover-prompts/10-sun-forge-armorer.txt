@@ -1,0 +1,35 @@
+A stunning 9:16 portrait book cover rendered in ultra-high-resolution photorealistic style with cinematic color grading. SUBJECT — POWERFUL CRAFTSMAN PORTRAIT (MALE MASTER ARMORER): A powerfully built man of indigenous Mesoamerican descent, 28 years old, positioned in the lower-right quadrant of the image (his face centered around 65-75% down from the top, offset slightly right of center). He is captured at the climactic moment of creation — hammer raised high and blazing with golden sun-fire, about to strike a blade on his sacred anvil, sparks already erupting in anticipation. His broad-shouldered body is tensed with focused power, muscles defined beneath burn-scarred skin. His face is lit from below by forge-fire, eyes fixed on his work with the intensity of an artist who knows this blade will save lives — the expression of a man who sees souls in steel.
+
+His face radiates weathered beauty and grounded strength — the look of a creator who has forged himself as thoroughly as his blades. His deep bronze skin bears the marks of his craft — burn scars across his forearms and hands, soot-smudged cheeks that seem permanent, the honest wear of decades at the forge. His face is captured with hyper-real detail — a strong jaw, kind eyes, the slight furrow of concentration, copper wire tying back work-roughened hair. He is not conventionally pretty — he is something better: utterly real.
+
+His eyes are extraordinary — large, deep brown irises that glow with reflected forge-fire, as if the sun itself burns behind his gaze. Golden striations radiate outward like sunbursts. Natural catchlights — two sharp, luminous reflections — sit in the upper portion of each iris, giving his eyes a warm, steady, almost paternal gleam. His lashes are short and practical, his eyebrows heavy with focus. His lips are set in a line of pure concentration — the face of someone who speaks more to metal than to people.
+
+He is handsome in a solid, eternal way — the beauty of mountains and ancient trees. His skin is bathed in warm forge-fire from below, creating dramatic golden highlights on his face and chest, while cooler turquoise ambient light from glyph-work on his tools rims his silhouette. Every micro-detail is rendered — the way sweat and soot mingle on his skin, the copper wire in his hair, his portable forge pack visible behind him, the hammer engraved with sun glyphs that blaze during the strike.
+
+His hammer is a relic in itself — sun-glyph engravings that channel solar energy into every blow. His anvil is sacred, passed down through generations of sun-forge masters. His leather apron bears decades of burn marks and repairs. Beside him, the blade he forges glows white-hot — and seems to sing.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT: The man's face must be positioned entirely BELOW the subtitle text area and ABOVE the author name. His face occupies roughly the 55%-82% vertical zone of the image. The top 45% of the image (where the title and subtitle text will be placed) must contain ONLY the background elements and open space — absolutely NO part of his face, hair, or hammer may enter the top 35% of the image.
+
+BACKGROUND — THE FORGE OF LEGENDS: Behind him and slightly out of focus, the background depicts his sacred forge-temple. Blades hang on racks, each one a masterwork waiting for a worthy wielder. The portable forge blazes with turquoise-gold fire. Glyph-threads dangle from the ceiling, each knot preserving a forging technique. Through open temple doors, a battle rages in the distance — and warriors wield his creations. The scene shows the heart of an army — the place where victory is born.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED WITH UNIFORM PLACEMENT. DO NOT ALTER IN ANY WAY:
+
+All text placement percentages below are measured from the TOP of the image and must be followed precisely to ensure uniform placement across all covers in the series.
+
+Line 1 (exactly 3% from top): "AZTEC SAMURAI ADVENTURES" — small elegant Trajan Pro font, centered horizontally, turquoise color (#40E0D0), letter-spacing 0.15em, approximately 14pt equivalent.
+
+Line 2 (exactly 6% from top): "BOOK VII" — Trajan Pro font, centered, gold color (#FFD700), letter-spacing 0.2em, approximately 12pt equivalent. Flanked on the left and right by thin horizontal gold lines extending outward from the text.
+
+Lines 3-4 (title block, exactly 10-22% from top): "THE STARLESS CROWN" — large, elegant Trajan Pro font, centered, white/cream with subtle golden warmth. "STARLESS" and "CROWN" rendered largest, "THE" smaller. Arranged as:
+Line 3: "THE STARLESS"
+Line 4: "CROWN"
+
+Decorative ornamental line (exactly 24% from top): An elegant gold and turquoise ornamental filigree divider — a thin horizontal line that blooms into Aztec-inspired geometric scrollwork and hammer-and-anvil motifs at the center, with symmetrical flame patterns tapering to fine points at each end. Rendered in gold (#FFD700) with turquoise (#40E0D0) accents.
+
+Line 5 (exactly 26% from top): "Every Hero Needs a Blade — He Forges Destinies" — smaller italic Trajan Pro, centered, light cream/gold color.
+
+Decorative ornamental line (exactly 28% from top): An identical gold and turquoise ornamental filigree divider matching the one above.
+
+Line 6 (exactly 92% from top): "KETAN SHUKLA" — large Trajan Pro font, centered, white/cream, generous letter-spacing approximately 0.2em.
+
+OVERALL MOOD: Cinematic, powerful, blazing with creative fire — golden forge-light against turquoise magic and the smoke of sacred creation. The feeling of witnessing the birth of legend — the moment when raw metal becomes a hero's hope. Photorealistic, inspiring quality, suitable for a bestselling YA epic fantasy book cover.
