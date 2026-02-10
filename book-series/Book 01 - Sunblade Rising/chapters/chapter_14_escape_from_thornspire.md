@@ -1,12 +1,8 @@
-# Chapter 14 — ESCAPE FROM THORNSPIRE
-
-_POV: Kaelen_
-
----
+Chapter 14 - ESCAPE FROM THORNSPIRE
 
 They were two hours south of Thornspire when Kaelen heard the dogs.
 
-Not literal dogs — Dominion tracking beasts, a hybrid of wolf and something darker that had been bred for pursuit. They made a sound halfway between a howl and a scream, pitched at a frequency that traveled for miles and put ice in the blood of anyone who recognized it.
+Not literal dogs - Dominion tracking beasts, a hybrid of wolf and something darker that had been bred for pursuit. They made a sound halfway between a howl and a scream, pitched at a frequency that traveled for miles and put ice in the blood of anyone who recognized it.
 
 He stopped. Raised a fist. The group froze.
 
@@ -14,11 +10,11 @@ He stopped. Raised a fist. The group froze.
 
 Itzil was beside him in three steps. "How long?"
 
-He listened. Counted the howls. Estimated distance based on sound propagation and terrain. "Thirty minutes. Maybe less. They've got our scent from the perimeter — the ward-stones would have recorded our biological signatures when we passed through."
+He listened. Counted the howls. Estimated distance based on sound propagation and terrain. "Thirty minutes. Maybe less. They've got our scent from the perimeter - the ward-stones would have recorded our biological signatures when we passed through."
 
 "I thought Torvane's disruptor suppressed the wards."
 
-"It suppressed the detection alarm. The recording function operates on a different frequency." He kept his voice neutral, but internally he was recalculating. He'd known the ward-stones had a recording function — it was in his intelligence files. He'd assessed the risk as manageable because the recordings required manual retrieval, which typically happened during the weekly maintenance cycle. Someone had checked early.
+"It suppressed the detection alarm. The recording function operates on a different frequency." He kept his voice neutral, but internally he was recalculating. He'd known the ward-stones had a recording function - it was in his intelligence files. He'd assessed the risk as manageable because the recordings required manual retrieval, which typically happened during the weekly maintenance cycle. Someone had checked early.
 
 "Options," Itzil said. Not panicking. Good.
 
@@ -42,45 +38,41 @@ He listened. Counted the howls. Estimated distance based on sound propagation an
 
 Itzil made the call in two seconds. "River. Now."
 
----
-
 The water was brutal.
 
-Late autumn runoff from the mountain snowmelt had swollen the river to twice its normal width and pushed the current to a speed that turned wading into a fight. The water reached Kaelen's chest — for Neyla, who was shorter, it reached her chin. Tuli, with her bad shoulder, couldn't use both arms to brace against the current.
+Late autumn runoff from the mountain snowmelt had swollen the river to twice its normal width and pushed the current to a speed that turned wading into a fight. The water reached Kaelen's chest - for Neyla, who was shorter, it reached her chin. Tuli, with her bad shoulder, couldn't use both arms to brace against the current.
 
 Jagren, to his credit, positioned himself upstream of Tuli and used his body as a break. The current split around him and created a pocket of calmer water in his wake. She walked in his shadow, one hand gripping the strap of his pack.
 
-Torvane had waterproofed his equipment in advance — his pack was sealed with waxed canvas and the critical devices were wrapped in oilcloth. Of course he had. Torvane planned for everything, including hypothetical river crossings that no one had discussed.
+Torvane had waterproofed his equipment in advance - his pack was sealed with waxed canvas and the critical devices were wrapped in oilcloth. Of course he had. Torvane planned for everything, including hypothetical river crossings that no one had discussed.
 
-They moved downstream for twenty minutes. Kaelen counted the distance by landmarks — specific trees, rock formations, bends in the river. One mile. Far enough that the tracking beasts would lose the scent trail and have to cast in circles to reacquire.
+They moved downstream for twenty minutes. Kaelen counted the distance by landmarks - specific trees, rock formations, bends in the river. One mile. Far enough that the tracking beasts would lose the scent trail and have to cast in circles to reacquire.
 
 "Out," he said. "Far bank."
 
-They emerged on the opposite shore, dripping and shivering. Neyla immediately checked Tuli's shoulder — the cold water had reduced the swelling but the exertion had pulled at the healing tissue.
+They emerged on the opposite shore, dripping and shivering. Neyla immediately checked Tuli's shoulder - the cold water had reduced the swelling but the exertion had pulled at the healing tissue.
 
 "She needs rest," Neyla said.
 
 "She can rest when we're clear." Kaelen scanned the far bank through his spyglass. No pursuit visible yet. "We move south through the forest. The canopy will block aerial observation, and the undergrowth will slow mounted pursuit."
 
-They moved. Wet, cold, exhausted, but alive and undetected. Behind them, the tracking beasts howled — frustrated, confused, circling at the point where the scent trail vanished into the river.
+They moved. Wet, cold, exhausted, but alive and undetected. Behind them, the tracking beasts howled - frustrated, confused, circling at the point where the scent trail vanished into the river.
 
 Kaelen allowed himself a moment of satisfaction. Brief. Professional. Then he pushed ahead, scouting the route, reading the forest, staying fifty yards in front where the silence was his and the danger was personal.
 
----
+By afternoon, they'd put fifteen miles between themselves and Thornspire. The pursuit sounds had faded. Either the tracking team had lost them entirely or had been recalled - the Dominion was efficient, and maintaining a pursuit team in the field cost resources. If the quarry had successfully broken contact, standing operational doctrine was to report the incursion and shift to alert status rather than continue a diminishing-returns chase.
 
-By afternoon, they'd put fifteen miles between themselves and Thornspire. The pursuit sounds had faded. Either the tracking team had lost them entirely or had been recalled — the Dominion was efficient, and maintaining a pursuit team in the field cost resources. If the quarry had successfully broken contact, standing operational doctrine was to report the incursion and shift to alert status rather than continue a diminishing-returns chase.
+They made camp in a defensible position - a rock overhang that Kaelen had used before during his solitary scouting. It was dry, sheltered from wind, and invisible from any approach except the one he controlled.
 
-They made camp in a defensible position — a rock overhang that Kaelen had used before during his solitary scouting. It was dry, sheltered from wind, and invisible from any approach except the one he controlled.
-
-The team collapsed. Not gracefully — they dropped packs, sat heavily, and entered the particular state of exhaustion that follows sustained adrenaline: shaky, nauseous, and deeply grateful to be stationary.
+The team collapsed. Not gracefully - they dropped packs, sat heavily, and entered the particular state of exhaustion that follows sustained adrenaline: shaky, nauseous, and deeply grateful to be stationary.
 
 Itzil organized the recovery. She had Neyla treat Tuli's shoulder, Torvane check his equipment for water damage, and Venn start a concealed fire for warmth. She assigned watch rotations. She reviewed the stolen intelligence again, making notes in the margins of Amalura's map.
 
 She did all of this while wet, cold, and visibly exhausted. She did it because it needed doing, and no one else was going to do it.
 
-Kaelen watched from his perch at the overhang's entrance. He watched the way she moved — the deliberate steadiness, the refusal to sit down until everyone else was settled. He watched the way the junior warriors responded to her — not with the obedience of soldiers following rank, but with the trust of people following someone who'd earned it.
+Kaelen watched from his perch at the overhang's entrance. He watched the way she moved - the deliberate steadiness, the refusal to sit down until everyone else was settled. He watched the way the junior warriors responded to her - not with the obedience of soldiers following rank, but with the trust of people following someone who'd earned it.
 
-She hadn't earned it through speeches or charisma. She'd earned it by making calls. The river. The timing. The decision to prioritize Tuli's safety over speed. Each call had been right — not obviously right, not dramatically right, but quietly, practically right in the way that mattered when lives were at stake.
+She hadn't earned it through speeches or charisma. She'd earned it by making calls. The river. The timing. The decision to prioritize Tuli's safety over speed. Each call had been right - not obviously right, not dramatically right, but quietly, practically right in the way that mattered when lives were at stake.
 
 He'd served under officers who made louder decisions. He'd never served under one who made better ones.
 
@@ -96,15 +88,15 @@ He shrugged. "That's what scouts do."
 
 "That's not what you did. You trusted my plan. You executed it perfectly. And when the pursuit came, you had three options ready before I asked." She held his gaze. "You stayed when you could have run."
 
-He didn't have a sarcastic comeback for that. He looked for one — scanned his usual inventory of deflections and dismissals — and found the shelf empty. She'd said something true, and the truth of it bypassed his defenses the way the ward-disruptor had bypassed Thornspire's detection field.
+He didn't have a sarcastic comeback for that. He looked for one - scanned his usual inventory of deflections and dismissals - and found the shelf empty. She'd said something true, and the truth of it bypassed his defenses the way the ward-disruptor had bypassed Thornspire's detection field.
 
-He had stayed. He could have run — alone, he could outpace any pursuit team the Dominion deployed. He could have taken the intelligence and disappeared into the wilderness, survived on his own the way he'd survived for three months. He'd stayed because the team needed him. Because she needed him.
+He had stayed. He could have run - alone, he could outpace any pursuit team the Dominion deployed. He could have taken the intelligence and disappeared into the wilderness, survived on his own the way he'd survived for three months. He'd stayed because the team needed him. Because she needed him.
 
 That was new. That was terrifying in a way that Dominion soldiers and tracking beasts were not.
 
 "Don't make it weird," he said.
 
-Something flickered across her face — surprise, then something warmer. She didn't push. She turned back to her maps.
+Something flickered across her face - surprise, then something warmer. She didn't push. She turned back to her maps.
 
 He turned back to the perimeter. Watched the forest. Listened to the silence.
 
