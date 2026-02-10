@@ -20,9 +20,9 @@ Line 1 (exactly 3% from top): "AZTEC SAMURAI ADVENTURES" — small elegant Traja
 
 Line 2 (exactly 6% from top): "THE WHITE-MANE DOMINION" — Trajan Pro font, centered, silver color (#C0C0C0), letter-spacing 0.2em, approximately 12pt equivalent. Flanked on the left and right by thin horizontal silver lines extending outward from the text.
 
-Lines 3-4 (title block, exactly 10-22% from top): "DUCHESS SABLE" — large, elegant Trajan Pro font, centered, white with silver-mirror undertones. Arranged as:
+Lines 3-4 (title block, exactly 10-22% from top): "DUCHESS MIRATHANE" — large, elegant Trajan Pro font, centered, white with silver-mirror undertones. Arranged as:
 Line 3: "DUCHESS"
-Line 4: "SABLE"
+Line 4: "MIRATHANE"
 
 Decorative ornamental line (exactly 24% from top): An elegant silver and black ornamental filigree divider — a thin horizontal line that blooms into fractured mirror-shard scrollwork at the center, with symmetrical blade designs tapering to fine points at each end. Rendered in silver (#C0C0C0) with black accents.
 

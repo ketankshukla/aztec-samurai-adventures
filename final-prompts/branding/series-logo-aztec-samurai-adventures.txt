@@ -1,0 +1,43 @@
+SERIES: AZTEC SAMURAI ADVENTURES
+TYPE: Series Logo / Branding Element
+DIMENSIONS: 2000 x 2000 pixels (square), 300 DPI, sRGB with transparent background option
+
+---
+
+A razor-sharp photorealistic emblem rendered at 2000x2000 pixels, 300 DPI, on a deep obsidian-black background. This must look like a real physical artifact — a metalwork emblem photographed under studio lighting with photographic precision. ABSOLUTELY NO oil painting, NO watercolor, NO painterly texture, NO soft-focus, NO canvas grain. Every surface must have the tactile realism of actual carved metal, polished stone, and inlaid gemstone.
+
+THE EMBLEM:
+
+A circular medallion approximately 1400 pixels in diameter, centered in the frame. The medallion is constructed from multiple layered materials, each rendered with obsessive tactile realism:
+
+OUTER RING: A broad ring of polished volcanic obsidian — glossy black with the characteristic conchoidal fracture patterns visible in the surface, catching light in sharp curved reflections. The obsidian ring is 120 pixels wide and carved with an intricate continuous band of Mesoamerican geometric patterns — stepped-pyramid frets, interlocking spiral motifs, and stylized jaguar glyphs. The carved channels are filled with gold inlay — actual gold, rendered with the warm luster and subtle granularity of real hammered gold leaf. The inlay catches the studio lighting unevenly, some portions brighter where the gold is thicker, creating natural variation that screams authenticity. At the four cardinal points (top, bottom, left, right), turquoise cabochon gemstones are set into the obsidian ring — each one a slightly different shade of blue-green, each with the natural matrix veining and waxy luster of genuine turquoise. The stones are held in place by tiny gold prongs that are individually visible.
+
+INNER FIELD: Within the obsidian ring, the inner circle is a disc of pale jade-green nephrite — smooth, translucent at the edges where it thins, with the characteristic fibrous internal structure of real jade visible as subtle directional streaks beneath the polished surface. The jade disc is back-lit with a faint golden warmth that makes it glow from within.
+
+CENTRAL DEVICE: Positioned vertically in the center of the jade disc is a katana — rendered as a three-dimensional metalwork element that appears to be mounted on top of the jade surface, casting a tiny shadow. The blade is forged jade-green steel with a visible hamon line — the wavy temper pattern running along its edge. The blade catches light in a sharp linear reflection. The tsuba (hand guard) is a miniature sun-disc — a circle of polished gold with radiating triangular rays extending outward, each ray individually carved and catching light at slightly different angles. The tsuba is the visual center of the entire emblem — the point where Mesoamerican solar symbolism and Japanese blade craft literally intersect. The grip below the tsuba is wrapped in dark cord over ray-skin, with a tiny jade jaguar-head pommel cap — details visible but small. Above the tsuba, the blade extends upward to nearly touch the inner edge of the obsidian ring.
+
+Radiating outward from the sun-disc tsuba, eight thin golden lines extend to the edge of the jade disc — like the rays of a compass rose or the beams of a stylized sun. These lines are engraved into the jade surface and filled with gold, connecting the central katana to the surrounding obsidian ring and creating a sense of radiant energy emanating from the weapon.
+
+LIGHTING AND RENDERING:
+
+The emblem is lit by two studio light sources — a primary warm golden light from the upper-right (creating the main highlights and shadows) and a secondary cooler turquoise fill light from the lower-left (adding color contrast and filling the shadows with blue-green tones). This dual-lighting setup makes every material pop — the obsidian reflects the gold light in sharp bright curves, the jade glows with internal turquoise luminance, the gold inlay burns warm and rich, and the turquoise gemstones seem to pulse with their own cool light.
+
+A very subtle ambient glow emanates from the entire emblem — as though it is a real magical artifact with residual energy. This glow is warm golden at the center (around the sun-disc tsuba) and transitions to cool turquoise at the edges (around the turquoise gemstones). The glow is restrained and realistic — not a fantasy blur, but the kind of faint luminance you might see from phosphorescent minerals under UV light.
+
+The obsidian-black background is not perfectly flat — it has the very subtle texture of dark velvet or museum display fabric, barely visible but adding depth. A very faint circular vignette darkens the extreme corners of the image.
+
+TEXT (rendered below the emblem):
+
+Positioned at approximately 78% from the top of the image, centered horizontally:
+
+Line 1: "AZTEC SAMURAI ADVENTURES" — elegant Trajan Pro font, gold (#FFD700) with a subtle warm glow and very faint turquoise (#40E0D0) drop shadow offset 2 pixels down and right. Letter-spacing 0.15em, approximately 36pt equivalent. The text must be crisp and perfectly kerned.
+
+Line 2 (approximately 85% from top): "BY KETAN SHUKLA" — Trajan Pro font, turquoise (#40E0D0) with subtle luminous glow. Letter-spacing 0.12em, approximately 18pt equivalent.
+
+Both text lines are centered beneath the emblem with comfortable spacing.
+
+OVERALL QUALITY:
+
+This must look like a photograph of a real artifact — something you could reach out and touch. The obsidian should look like obsidian. The gold should look like gold. The jade should look like jade. The turquoise should look like turquoise. No stylization, no abstraction, no artistic interpretation. Pure photorealistic material rendering at the highest possible quality.
+
+ABSOLUTELY NO oil painting, NO watercolor, NO painterly style, NO traditional media aesthetic. Photorealistic studio product photography of a fantasy artifact.

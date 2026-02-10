@@ -20,9 +20,9 @@ Line 1 (exactly 3% from top): "AZTEC SAMURAI ADVENTURES" — small elegant Traja
 
 Line 2 (exactly 6% from top): "THE WHITE-MANE DOMINION" — Trajan Pro font, centered, silver color (#C0C0C0), letter-spacing 0.2em, approximately 12pt equivalent. Flanked on the left and right by thin horizontal silver lines extending outward from the text.
 
-Lines 3-4 (title block, exactly 10-22% from top): "LADY NACRE" — large, elegant Trajan Pro font, centered, white with pearlescent undertones that shift between pink and blue. Arranged as:
+Lines 3-4 (title block, exactly 10-22% from top): "LADY PEARLVAINE" — large, elegant Trajan Pro font, centered, white with pearlescent undertones that shift between pink and blue. Arranged as:
 Line 3: "LADY"
-Line 4: "NACRE"
+Line 4: "PEARLVAINE"
 
 Decorative ornamental line (exactly 24% from top): An elegant silver and pearlescent ornamental filigree divider — a thin horizontal line that blooms into shell-spiral scrollwork and wave motifs at the center, with symmetrical pearl designs tapering to fine points at each end. Rendered in silver (#C0C0C0) with pearlescent pink (#FFE4E1) accents.
 

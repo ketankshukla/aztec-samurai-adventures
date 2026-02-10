@@ -1,0 +1,59 @@
+BOOK 1: SUNBLADE RISING - A BLADE FORGED IN LIGHT
+TYPE: Social Media / Marketing Banners
+FORMATS: Facebook/Twitter Landscape (1200x628), Instagram Square (1080x1080)
+
+===================================================================
+FORMAT A: LANDSCAPE BANNER (Facebook / Twitter / Website Header)
+DIMENSIONS: 1200 x 628 pixels, 72-300 DPI, sRGB
+===================================================================
+
+A cinematic photorealistic landscape banner rendered at 1200x628 pixels with sharp digital precision and dramatic volumetric lighting. ABSOLUTELY NO oil painting, NO watercolor, NO painterly texture. This must look like a widescreen movie still — razor-sharp, cinematically graded, photographic in quality.
+
+SCENE: A sweeping wide-angle shot of the Sun-Blade temple complex at the exact moment of dawn — the sun breaking over the horizon line in the right third of the frame, sending horizontal shafts of molten golden light through the massive stone columns of the temple's ceremonial colonnade. The columns are enormous — forty feet tall, carved from pale limestone, their surfaces etched with warrior-god reliefs and celestial serpent motifs that catch the golden light in sharp relief. Between the columns, the light creates alternating bands of brilliant gold and deep shadow, each band thick with floating golden dust motes and turquoise magical particles.
+
+In the center-left of the frame, standing at the top of a broad ceremonial staircase that descends toward the viewer, is the silhouette of a woman — Itzil. She is rendered as a dramatic figure against the blazing sunrise — her outline sharp and defined, her warrior braids and quetzal-feather crest visible in profile. In her right hand, raised vertically before her, is her katana — and the blade is not silhouetted. It blazes with golden sunfire, a vertical column of radiant light that cuts through the dawn like a second sun. The light from the blade casts her face in warm golden illumination — just enough detail visible to see the determined set of her jaw and the glint of fire in her eyes. Golden embers and turquoise particles swirl around her figure.
+
+The right third of the frame opens beyond the colonnade into a vast panorama — jade-green jungle canopy stretching to distant blue mountains, with the golden sun sitting on the mountain ridge, its light flooding the world. The sky is layered — deep coral and amber near the sun, transitioning to soft turquoise and then deep indigo in the upper-left corner.
+
+TEXT (rendered on the left third of the image, vertically centered, with comfortable margins):
+
+Line 1: "AZTEC SAMURAI ADVENTURES" — small Trajan Pro, turquoise (#40E0D0), letter-spacing 0.15em. Subtle glow.
+Line 2: "BOOK I" — small Trajan Pro, gold (#FFD700), letter-spacing 0.2em.
+Line 3: [small vertical gap]
+Line 4: "SUNBLADE" — large bold Trajan Pro, white/cream with golden warmth. Dominant text element.
+Line 5: "RISING" — medium Trajan Pro, white/cream, slightly smaller than Line 4.
+Line 6: [small vertical gap]
+Line 7: "A Blade Forged in Light" — small italic Trajan Pro, cream/gold.
+Line 8: [small vertical gap]
+Line 9: "BY KETAN SHUKLA" — small Trajan Pro, gold (#FFD700).
+Line 10: "AVAILABLE NOW" — small bold Trajan Pro, turquoise (#40E0D0).
+
+All text left-aligned within the left third, positioned to sit against the darker shadow areas between columns for maximum readability. Text should have a very subtle dark drop shadow for legibility.
+
+MOOD: Epic dawn, the birth of a legend. Golden warmth, ancient power, the promise of adventure. Sharp cinematic rendering — absolutely no painterly or traditional media aesthetic.
+
+===================================================================
+FORMAT B: INSTAGRAM SQUARE
+DIMENSIONS: 1080 x 1080 pixels, 72-300 DPI, sRGB
+===================================================================
+
+A cinematic photorealistic square image rendered at 1080x1080 pixels with sharp digital precision. NO oil painting, NO watercolor, NO painterly texture.
+
+SCENE: A tightly composed vertical portrait of Itzil from the waist up, centered in the frame. She faces the viewer at a three-quarter angle, her blazing Sun-Blade held diagonally across her body — the blade's golden fire illuminating her face, armor, and the space around her with warm radiant light. Her expression is fierce, beautiful, and magnetic — obsidian eyes burning with golden striations, full lips set with determination, bronze skin glowing in the firelight. Her warrior braids and quetzal-feather crest frame her face. Behind her, the temple columns and golden-hour sky are visible but blurred into a cinematic bokeh of warm amber and cool turquoise tones.
+
+The composition is tight and impactful — designed for immediate visual punch at thumbnail size on a phone screen.
+
+TEXT (rendered on the image):
+
+Top 15% (centered):
+"AZTEC SAMURAI ADVENTURES" — small Trajan Pro, turquoise (#40E0D0).
+"BOOK I" — small Trajan Pro, gold (#FFD700).
+
+Bottom 20% (centered):
+"SUNBLADE RISING" — large bold Trajan Pro, white/cream with golden glow.
+"A Blade Forged in Light" — small italic, cream/gold.
+"KETAN SHUKLA" — small Trajan Pro, gold.
+
+All text with subtle dark drop shadow for legibility against the bright background.
+
+MOOD: Intimate, powerful, beautiful. A warrior goddess in golden firelight. Designed to stop a scrolling thumb. Photorealistic — no traditional media styles.

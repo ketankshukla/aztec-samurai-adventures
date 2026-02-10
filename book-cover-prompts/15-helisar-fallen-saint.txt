@@ -20,9 +20,9 @@ Line 1 (exactly 3% from top): "AZTEC SAMURAI ADVENTURES" — small elegant Traja
 
 Line 2 (exactly 6% from top): "THE WHITE-MANE DOMINION" — Trajan Pro font, centered, silver color (#C0C0C0), letter-spacing 0.2em, approximately 12pt equivalent. Flanked on the left and right by thin horizontal silver lines extending outward from the text.
 
-Lines 3-4 (title block, exactly 10-22% from top): "BROTHER HELIOS" — large, elegant Trajan Pro font, centered, white with golden luminous undertones. "HELIOS" rendered with subtle golden glow. Arranged as:
+Lines 3-4 (title block, exactly 10-22% from top): "BROTHER HELISAR" — large, elegant Trajan Pro font, centered, white with golden luminous undertones. "HELISAR" rendered with subtle golden glow. Arranged as:
 Line 3: "BROTHER"
-Line 4: "HELIOS"
+Line 4: "HELISAR"
 
 Decorative ornamental line (exactly 24% from top): An elegant gold and white ornamental filigree divider — a thin horizontal line that blooms into sun-ray scrollwork and blessing-hand motifs at the center, with symmetrical halo designs tapering to fine points at each end. Rendered in soft gold (#FFD700) with white accents.
 
