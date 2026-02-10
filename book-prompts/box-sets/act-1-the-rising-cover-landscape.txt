@@ -41,17 +41,17 @@ TEXT — RENDERED EXACTLY AS SPECIFIED FOR LANDSCAPE FORMAT:
 
 ALL text lines EXCEPT the author name are clustered at the TOP of the image. ONLY the author name appears at the BOTTOM. There is NO text whatsoever between 18% and 90% from the top.
 
-Line 1 (3% from top, left-aligned at 5% from left): "AZTEC SAMURAI ADVENTURES" — small Trajan Pro, turquoise (#40E0D0), letter-spacing 0.15em.
+Line 1 (3% from top, centered horizontally): "AZTEC SAMURAI ADVENTURES" — small Trajan Pro, turquoise (#40E0D0), letter-spacing 0.15em.
 
-Line 2 (6% from top, left-aligned at 5%): "ACT I — THE RISING" — Trajan Pro, gold (#FFD700), letter-spacing 0.2em.
+Line 2 (6% from top, centered horizontally): "ACT I — THE RISING" — Trajan Pro, gold (#FFD700), letter-spacing 0.2em.
 
-Line 3 (9% from top, left-aligned at 5%): "BOOKS 1-4" — large bold Trajan Pro, white/cream with golden glow.
+Line 3 (9% from top, centered horizontally): "BOOKS 1-4" — large bold Trajan Pro, white/cream with golden glow.
 
-Decorative ornamental line (12% from top, left-aligned at 5%, extending ~40% width): Gold/turquoise Aztec filigree divider — horizontal, elegant.
+Decorative ornamental line (12% from top, centered horizontally): Gold/turquoise Aztec filigree divider — horizontal, elegant.
 
-Line 4 (14% from top, left-aligned at 5%): "Sunblade Rising | The Mirror Siege | Ash Oaths | The Starless Crown" — small Trajan Pro, cream/gold.
+Line 4 (14% from top, centered horizontally): "Sunblade Rising | The Mirror Siege | Ash Oaths | The Starless Crown" — small Trajan Pro, cream/gold.
 
-Line 5 (17% from top, left-aligned at 5%): "Discovery. Alliance. First Victories. And the Darkness That Follows." — small italic Trajan Pro, cream.
+Line 5 (17% from top, centered horizontally): "Discovery. Alliance. First Victories. And the Darkness That Follows." — small italic Trajan Pro, cream.
 
 Line 6 (93% from top, centered horizontally): "KETAN SHUKLA" — large Trajan Pro, white/cream with golden warmth, letter-spacing 0.2em.
 
