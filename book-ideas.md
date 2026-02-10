@@ -4,13 +4,13 @@
 
 ## 🎯 SERIES VISION
 
-**20 books. 24 chapters each. 480 chapters total.**
-**~1,500 words per chapter (STRICT — never fall short). ~36,000 words per book. ~720,000 words total.**
+**12 books. 24 chapters each. 288 chapters total.**
+**~1,500 words per chapter (STRICT — never fall short). ~36,000 words per book. ~432,000 words total.**
 
 A massive YA epic fantasy saga where an Aztec-descended warrior-leader trained in a samurai code forges an alliance of spear, steel, and sun-magic against pale-haired warlords, sorcerers, and demons who seek to conquer, enslave, and erase.
 
 **Series Tagline:**
-_A twenty-book saga of obsidian blades, demon gates, and the warriors who refuse to kneel._
+_A twelve-book saga of obsidian blades, demon gates, and the warriors who refuse to kneel._
 
 ---
 
@@ -20,9 +20,9 @@ These four principles govern **every decision** in this series:
 
 ### 🔵 1. CONTINUITY
 
-- **Every event, character arc, and power level must track across all 20 books**
+- **Every event, character arc, and power level must track across all 12 books**
 - A wound in Book 3 is still a scar in Book 12
-- A promise in Book 1 must be fulfilled or broken by Book 20
+- A promise in Book 1 must be fulfilled or broken by Book 12
 - No retcons, no contradictions, no "forgetting" what happened
 - **We need a Series Bible document that tracks all of this**
 
@@ -36,7 +36,7 @@ These four principles govern **every decision** in this series:
 
 ### 🟡 3. CONSISTENCY
 
-- **Tone, voice, power rules, and character behavior must feel the same across all 20 books**
+- **Tone, voice, power rules, and character behavior must feel the same across all 12 books**
 - Sun-Blade Arts always work the same way
 - Dominion sorcery always follows the same rules
 - Character speech patterns stay recognizable
@@ -44,10 +44,10 @@ These four principles govern **every decision** in this series:
 
 ### 🔴 4. COHERENCY
 
-- **The overall 20-book arc must feel like ONE story told in 20 parts**
+- **The overall 12-book arc must feel like ONE story told in 12 parts**
 - Each book is a complete adventure with a beginning, middle, and end
 - But each book is also a chapter in the larger war
-- The stakes escalate logically from local (Book 1) to cosmic (Book 20)
+- The stakes escalate logically from local (Book 1) to cosmic (Book 12)
 - **We need a Master Arc Outline that maps the full journey**
 
 ---
@@ -71,83 +71,75 @@ The saga is organized as **three major acts** with clear escalation:
 
 ---
 
-### 🏛️ ACT I — THE RISING (Books 1–7)
+### 🏛️ ACT I — THE RISING (Books 1–4)
 
 **Theme: Discovery, Alliance, First Victories**
 _The heroes discover the threat, unite, learn their powers, and win their first major battles — but at great cost._
 
-| Book | Title                  | Focus Character    | Core Conflict                                                             |
-| ---- | ---------------------- | ------------------ | ------------------------------------------------------------------------- |
-| 1    | **Sunblade Rising**    | Itzil (Commander)  | Village raid, stolen relic, first demon gate, reluctant alliance          |
-| 2    | **The Mirror Siege**   | Coil (Scout)       | Dominion attacks through mirrors, spy infiltration, first major loss      |
-| 3    | **Ash Oaths**          | Xipilli (Diplomat) | Contract magic enslaves families, undercover in Dominion court            |
-| 4    | **Hawk and Jaguar**    | Jaguar (Duelist)   | Internal rivalry threatens alliance, demon-hound devastation              |
-| 5    | **The Relic Storm**    | Acatl (Engineer)   | Sacred sites weaponized, artifact quest, underwater temple                |
-| 6    | **Gates of Night**     | Miyako (Sensei)    | Multiple gates open, reality thins, mentor sacrifice, true Sun-Blade form |
-| 7    | **The Starless Crown** | Nenetl (Healer)    | First confrontation with VASTRIX, liberation uprising, pyrrhic victory    |
+| Book | Title                  | Focus Character   | Core Conflict                                                                                       |
+| ---- | ---------------------- | ----------------- | --------------------------------------------------------------------------------------------------- |
+| 1    | **Sunblade Rising**    | Itzil (Commander) | Village raid, stolen relic, first demon gate, reluctant alliance forms, Kaelen introduced           |
+| 2    | **The Mirror Siege**   | Kaelen (Scout)    | Dominion attacks through mirrors, spy infiltration, first major loss, contract magic revealed       |
+| 3    | **Ash Oaths**          | Zariel (Diplomat) | Contract magic enslaves families, undercover in Dominion court, internal rivalry threatens alliance |
+| 4    | **The Starless Crown** | Jagren (Duelist)  | First confrontation with VASTRIX, liberation uprising, pyrrhic victory — war has barely begun       |
 
 **Act I ends with:** A major victory that costs them dearly — they defeat the Dominion's first wave but VASTRIX reveals himself as something far beyond what they imagined. The war is not over. It has barely begun.
 
 ---
 
-### ⚔️ ACT II — THE BREAKING (Books 8–14)
+### ⚔️ ACT II — THE BREAKING (Books 5–8)
 
 **Theme: Escalation, Loss, Fracture, Transformation**
 _The Dominion strikes back harder. Heroes are separated, tested individually, broken and reforged. New allies and enemies emerge. The war goes global._
 
-| Book | Title (Suggested)        | Focus Character        | Core Conflict                                                                              |
-| ---- | ------------------------ | ---------------------- | ------------------------------------------------------------------------------------------ |
-| 8    | **The Serpent's Gambit** | Coil (Scout)           | Coil goes deep undercover alone inside the Dominion, identity crisis                       |
-| 9    | **Rain of Obsidian**     | Rain-Dancer (Mystic)   | Water sources corrupted by demon magic, Rain-Dancer must awaken ancient water spirits      |
-| 10   | **The Burning Codex**    | Acatl (Engineer)       | Ancient blueprints for a super-weapon discovered — build it or destroy it?                 |
-| 11   | **Feathers and Bone**    | Sky-Eagle (Hawk Rider) | Aerial war escalates, Sky-Eagle captured, escape from a sky-prison                         |
-| 12   | **The Wolf's Teeth**     | Jaguar (Duelist)       | Vezaro launches a continental hunt, Jaguar must become the predator                        |
-| 13   | **Names Written in Ash** | Xipilli (Diplomat)     | The Choir of Ash erases memories of the alliance — Xipilli must rebuild trust from nothing |
-| 14   | **The Shattered Blade**  | Itzil (Commander)      | Itzil's katana breaks. Sun-Forge must reforge it. Itzil faces her deepest doubt.           |
+| Book | Title                    | Focus Character     | Core Conflict                                                                                        |
+| ---- | ------------------------ | ------------------- | ---------------------------------------------------------------------------------------------------- |
+| 5    | **The Serpent's Gambit** | Kaelen (Scout)      | Kaelen goes deep undercover alone inside the Dominion, identity crisis, sacred sites weaponized      |
+| 6    | **Rain of Obsidian**     | Rainara (Mystic)    | Water sources corrupted by demon magic, Rainara awakens ancient water spirits, aerial war escalates  |
+| 7    | **Feathers and Bone**    | Skyren (Hawk Rider) | Skyren captured, escape from a sky-prison, Gravok launches a continental hunt                        |
+| 8    | **The Shattered Blade**  | Itzil (Commander)   | Itzil's katana breaks. Solkren must reforge it. Itzil faces her deepest doubt. Everything seems lost |
 
 **Act II ends with:** The heroes are scattered, some captured, some changed. Itzil's blade is reforged but she is not the same person. The Dominion controls 70% of the known world. VASTRIX opens the Great Gate. Everything seems lost.
 
 ---
 
-### 👑 ACT III — THE RECKONING (Books 15–20)
+### 👑 ACT III — THE RECKONING (Books 9–12)
 
 **Theme: Reunion, Final War, Sacrifice, Legacy**
 _The heroes reunite, forge impossible alliances, confront every villain, and face VASTRIX in a war that will determine the fate of all worlds._
 
-| Book | Title (Suggested)           | Focus Character     | Core Conflict                                                                       |
-| ---- | --------------------------- | ------------------- | ----------------------------------------------------------------------------------- |
-| 15   | **The Forge of Souls**      | Sun-Forge (Armorer) | Sun-Forge builds the ultimate weapons for the final war, tempted by forbidden power |
-| 16   | **The Mirror Queen**        | Nenetl (Healer)     | Nenetl confronts Duchess Sable in the mirror-realm, healing vs. memory-killing      |
-| 17   | **The Last Contract**       | Xipilli (Diplomat)  | Breaking the Dominion's contract magic system from within, courtroom of the gods    |
-| 18   | **The Choir's Silence**     | Miyako (Sensei)     | Miyako vs. the Choir of Ash and Brother Helios — discipline vs. corruption          |
-| 19   | **Crown of Stars**          | Itzil (Commander)   | The allied army storms the Dominion capital, every villain confronted               |
-| 20   | **The Sun That Never Sets** | ALL CHARACTERS      | Final battle with VASTRIX, the Great Gate, choosing the future of all worlds        |
+| Book | Title                       | Focus Character   | Core Conflict                                                                     |
+| ---- | --------------------------- | ----------------- | --------------------------------------------------------------------------------- |
+| 9    | **The Forge of Souls**      | Solkren (Armorer) | Solkren builds the ultimate weapons for the final war, tempted by forbidden power |
+| 10   | **The Mirror Queen**        | Neyla (Healer)    | Neyla confronts Mirathane in the mirror-realm, healing vs. memory-killing         |
+| 11   | **Crown of Stars**          | Itzil (Commander) | The allied army storms the Dominion capital, every villain confronted             |
+| 12   | **The Sun That Never Sets** | ALL CHARACTERS    | Final battle with VASTRIX, the Great Gate, choosing the future of all worlds      |
 
-**Act III ends with:** VASTRIX defeated (or transcended), the Great Gate sealed (or transformed), the Dominion broken, and the heroes choosing what kind of world to build. Not a fairy-tale ending — a earned, bittersweet, powerful conclusion.
+**Act III ends with:** VASTRIX defeated (or transcended), the Great Gate sealed (or transformed), the Dominion broken, and the heroes choosing what kind of world to build. Not a fairy-tale ending — an earned, bittersweet, powerful conclusion.
 
 ---
 
-## 🔄 CONSTANT THREADS ACROSS ALL 20 BOOKS
+## 🔄 CONSTANT THREADS ACROSS ALL 12 BOOKS
 
 As you specified, these elements remain **constant throughout every book**:
 
 ### 🌟 Itzil (Protagonist Leader) — Present in EVERY book
 
 - Even when she's not the focus character, she drives the overall war strategy
-- Her arc: "I must be perfect" → "I must be true" (spans all 20 books)
+- Her arc: "I must be perfect" → "I must be true" (spans all 12 books)
 - She grows from reluctant commander to legendary war-leader to wise peace-builder
 
-### 💀 Lord Albérico (Antagonist Leader) — Present in EVERY book
+### 💀 Volzentar (Antagonist Leader) — Present in EVERY book
 
-- Even when other villains take center stage, Albérico is the political mastermind
+- Even when other villains take center stage, Volzentar is the political mastermind
 - His arc: Theatrical conqueror → desperate tyrant → tragic figure who chose power over humanity
 - He and Itzil are mirrors of each other — both leaders, both burdened, opposite choices
 
 ### 🔥 The Escalating War
 
-- Books 1–7: Local/regional conflict
-- Books 8–14: Continental/global conflict
-- Books 15–20: Cosmic/multidimensional conflict
+- Books 1–4: Local/regional conflict
+- Books 5–8: Continental/global conflict
+- Books 9–12: Cosmic/multidimensional conflict
 
 ---
 
@@ -182,14 +174,14 @@ book-series/
 │       └── book_01_cover_prompts.md
 ├── Aztec Samurai Adventures Book 02 - The Mirror Siege/
 │   └── ... (same structure)
-└── ... (20 book folders total)
+└── ... (12 book folders total)
 ```
 
 ### 📋 ADAPTED FROM THE REFERENCE PROJECT
 
 | Element                   | That Project                                                               | This Project (Adapted)                                         |
 | ------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| **Books**                 | 5 books, 10 chapters each                                                  | 20 books, 24 chapters each                                     |
+| **Books**                 | 5 books, 10 chapters each                                                  | 12 books, 24 chapters each                                     |
 | **Chapter length**        | ~2,000-3,000 words (non-fiction)                                           | ~1,500 words STRICT (YA fiction — fast pace, never fall short) |
 | **Front matter**          | 6 files (copyright, dedication, epigraph, preface, introduction, prologue) | 6 files (same structure, adapted for fiction)                  |
 | **Back matter**           | Epilogue with "Coming Next" hook                                           | Epilogue with cliffhanger + "Coming Next" hook                 |
@@ -206,7 +198,7 @@ book-series/
 
 ### ⚠️ WHY WE NEED TO REDO THE 20 PROMPTS
 
-The 20 character prompts we already created were done **before** we decided on the 20-book structure. Now that each book has a specific focus character and a specific story, the cover prompts need to:
+The 20 character prompts we already created were done **before** we decided on the 12-book structure. Now that each book has a specific focus character and a specific story, the cover prompts need to:
 
 1. **Match the specific book they belong to** (correct book number, correct title)
 2. **Depict a scene or moment from THAT book's story** (not generic character poses)
@@ -268,9 +260,9 @@ Every book ending must make the reader **immediately want to buy the next book**
 ### 💬 SAMPLE VOICE TARGETS
 
 - **Itzil:** Calm, decisive, uses "we" — _"We don't retreat. We reposition."_
-- **Coil:** Playful, slangy, daring — _"So the plan is 'don't die,' yeah?"_
-- **Jaguar:** Bold, teasing, proud — _"Stand behind me, cubs. I'll show you how it's done."_
-- **Albérico:** Grand, theatrical, cruel — _"You call this resistance? I call it entertainment."_
+- **Kaelen:** Playful, slangy, daring — _“So the plan is ‘don’t die,’ yeah?”_
+- **Jagren:** Bold, teasing, proud — _“Stand behind me, cubs. I’ll show you how it’s done.”_
+- **Volzentar:** Grand, theatrical, cruel — _“You call this resistance? I call it entertainment.”_
 
 ---
 
@@ -280,35 +272,35 @@ Every book ending must make the reader **immediately want to buy the next book**
 
 - [ ] **Character Name Registry** — Rename ALL characters with pronounceable, memorable names
 - [ ] **Elder Character Design** — Create 2+ hero elders and 2+ villain elders with full profiles
-- [ ] **Series Bible expansion** — Expand the PDF bible to cover all 20 books
-- [ ] **Master Arc Outline** — The full 20-book story arc with key beats per book
+- [ ] **Series Bible expansion** — Expand the PDF bible to cover all 12 books
+- [ ] **Master Arc Outline** — The full 12-book story arc with key beats per book
 - [ ] **Character Arc Tracker** — Where each character starts, changes, and ends (including death schedule)
 - [ ] **Magic System Rules** — Definitive rules for Sun-Blade Arts and Dominion Sorcery
-- [ ] **Chapter Outline for all 20 books** — 24 chapter titles + one-line descriptions per book
+- [ ] **Chapter Outline for all 12 books** — 24 chapter titles + one-line descriptions per book
 - [ ] **Cliffhanger Map** — What cliffhanger ends each chapter and each book
 - [ ] **Villain Defeat Schedule** — Which villain is defeated in which book (and how)
 - [ ] **Romance Arc Plan** — Which characters pair up, when, and how it develops
 
 ### 🟡 PHASE 2 — STRUCTURE (Creating the folders and framework)
 
-- [ ] **Create all 20 book folders** with the full subfolder structure
+- [ ] **Create all 12 book folders** with the full subfolder structure
 - [ ] **Create front matter templates** adapted for YA fiction
 - [ ] **Create back matter templates** with cliffhanger + "Coming Next" hooks
 - [ ] **Create book description templates** for retail/back-cover
 
 ### 🟢 PHASE 3 — CONTENT (Writing the actual chapters)
 
-- [ ] **Write all 480 chapters** (~1,500 words each — STRICT, never fall short)
-- [ ] **Write all 480 chapter summaries**
-- [ ] **Write all 20 book summaries** (5-minute video scripts)
-- [ ] **Write all front matter** (120 files: 6 per book × 20 books)
-- [ ] **Write all back matter** (20 epilogues)
-- [ ] **Write all book descriptions** (20 descriptions)
+- [ ] **Write all 288 chapters** (~1,500 words each — STRICT, never fall short)
+- [ ] **Write all 288 chapter summaries**
+- [ ] **Write all 12 book summaries** (5-minute video scripts)
+- [ ] **Write all front matter** (72 files: 6 per book × 12 books)
+- [ ] **Write all back matter** (12 epilogues)
+- [ ] **Write all book descriptions** (12 descriptions)
 
 ### 🔵 PHASE 4 — COVER ART (Image prompts)
 
-- [ ] **Redo cover prompts** to match the 20-book structure
-- [ ] **5 variant prompts per book** (100 prompts total)
+- [ ] **Redo cover prompts** to match the 12-book structure
+- [ ] **5 variant prompts per book** (60 prompts total)
 - [ ] **Rename existing prompts folder** to `character-reference-prompts`
 
 ---
@@ -317,11 +309,11 @@ Every book ending must make the reader **immediately want to buy the next book**
 
 ### 1. 🗺️ CREATE A "WORLD MAP" DOCUMENT
 
-A markdown document describing the geography, cities, temples, and territories. This helps maintain the 4Cs when characters travel between locations across 20 books.
+A markdown document describing the geography, cities, temples, and territories. This helps maintain the 4Cs when characters travel between locations across 12 books.
 
 ### 2. 📅 CREATE A TIMELINE DOCUMENT
 
-A chronological timeline of events across all 20 books. This prevents continuity errors and helps track how much time passes in the story.
+A chronological timeline of events across all 12 books. This prevents continuity errors and helps track how much time passes in the story.
 
 ### 3. 🧬 CREATE A "POWER PROGRESSION" CHART
 
@@ -329,7 +321,7 @@ Track how each hero's abilities grow across the series. Prevents power creep and
 
 ### 4. 🤝 CREATE A "RELATIONSHIP WEB" DOCUMENT
 
-Track all character relationships and how they evolve. The PDF already suggests some (Itzil & Jaguar, Coil & Xipilli, etc.) — we expand this across 20 books.
+Track all character relationships and how they evolve. The PDF already suggests some (Itzil & Kaelen, Jagren & Skyren, etc.) — we expand this across 12 books.
 
 ### 5. 📝 CREATE A "PREVIOUSLY ON..." SECTION FOR EACH BOOK
 
@@ -342,7 +334,7 @@ Instead of defeating all villains in the final book, spread villain defeats acro
 - Some villains are defeated early but return transformed
 - Some villains switch sides
 - Some villains die heroically defending something they care about
-- VASTRIX is the only villain who lasts until Book 20
+- VASTRIX is the only villain who lasts until Book 12
 
 ### 7. 🌟 ADD "INTERLUDE" CHAPTERS
 
@@ -511,42 +503,42 @@ This ensures the 4Cs — every name is consistent, clear, and coherent across al
 
 ### 🎯 THE STRATEGY: GRADUATED LOSS
 
-Here's how to handle character deaths across 20 books without losing readers:
+Here's how to handle character deaths across 12 books without losing readers:
 
-**Books 1–7 (Act I): NO major hero deaths.**
+**Books 1–4 (Act I): NO major hero deaths.**
 
 - Minor allies and side characters can die to establish that war has consequences
 - One or two **close calls** where a hero almost dies — this trains the reader to fear for them
 - Villain defeats (not deaths) begin — some villains are captured, banished, or humiliated
 - **Reader investment is being built.** Don't cash it in yet.
 
-**Books 8–14 (Act II): ONE hero death, maximum TWO.**
+**Books 5–8 (Act II): ONE hero death, maximum TWO.**
 
-- The first hero death should happen around **Book 10–12** — deep enough that the reader is devastated
+- The first hero death should happen around **Book 7–8** — deep enough that the reader is devastated
 - Choose a hero who has completed a meaningful arc and whose death transforms the survivors
 - **Best candidates for Act II death:** Characters whose arc is about sacrifice (the healer, the sensei, or the armorer — someone whose death feels like they CHOSE it to save others)
 - This death should be **the most emotional moment in the entire series so far**
-- A second death could happen at the end of Act II (Book 14) as part of the "everything is lost" moment
+- A second death could happen at the end of Act II (Book 8) as part of the "everything is lost" moment
 
-**Books 15–20 (Act III): ONE to TWO more hero deaths.**
+**Books 9–12 (Act III): ONE to TWO more hero deaths.**
 
 - These deaths happen in the final war and feel like the ultimate price of victory
 - **Best candidates for Act III death:** Characters whose arc is about legacy — they die knowing the world they fought for will survive
-- The FINAL book (Book 20) can have a death, but it should NOT be the protagonist (Itzil survives — she must carry the weight of everyone she lost)
-- **Total hero deaths across 20 books: 2–4 maximum**
+- The FINAL book (Book 12) can have a death, but it should NOT be the protagonist (Itzil survives — she must carry the weight of everyone she lost)
+- **Total hero deaths across 12 books: 2–4 maximum**
 
 ### 🛡️ CHARACTERS WHO SHOULD NEVER DIE
 
 - **Itzil** — she is the heart of the series. She survives but carries the scars.
-- **The romantic interest** — killing a love interest feels punishing, not meaningful
+- **Kaelen (the romantic interest)** — killing a love interest feels punishing, not meaningful
 - **The comic relief character** — their death would feel like the series lost its soul
 
 ### ⚰️ CHARACTERS WHO COULD DIE (candidates, not confirmed)
 
 - **The Sensei (Miyako)** — classic mentor sacrifice, deeply emotional, transforms the students into masters
-- **The Armorer (Sun-Forge)** — dies forging the ultimate weapon, his life's work complete
-- **The Healer (Nenetl)** — dies saving someone who "shouldn't" have been saved, proving compassion is strength
-- **The Scout (Coil)** — dies on a mission, alone, the way he always feared — but this time, by choice
+- **The Armorer (Solkren)** — dies forging the ultimate weapon, his life's work complete
+- **The Healer (Neyla)** — dies saving someone who "shouldn't" have been saved, proving compassion is strength
+- **The Scout (Kaelen)** — REMOVED FROM CANDIDATES (confirmed as Itzil's love interest — romantic interest should not die)
 
 ### 💡 THE GOLDEN RULE
 
@@ -616,329 +608,153 @@ There are **two different kinds** of image prompts we use, and they serve differ
 | **Character arc stage?** | Default/introduction         | Where they are in THAT book      |
 | **Background?**          | Generic atmosphere           | Specific to that book's conflict |
 | **Book title on cover?** | Placeholder/generic          | Exact correct title and number   |
-| **How many?**            | 1 per character (20 total)   | 5 per book (100 total)           |
+| **How many?**            | 1 per character (20 total)   | 5 per book (60 total)            |
 | **Purpose?**             | Visual reference & marketing | Actual published book cover      |
 
 ---
 
-## 🔢 SERIES LENGTH — 20 BOOKS vs 12 BOOKS (UNDER DISCUSSION)
+## ✅ SERIES LENGTH — 12 BOOKS (CONFIRMED)
 
-### ❓ THE QUESTION
+**Decision:** 12 books, 4 per act. This was chosen over 20 books for tighter pacing, less filler risk, cleaner 3-act structure (4+4+4), and sequel series potential. The Percy Jackson model — finish a series, then launch a new one in the same world — is the strategy.
 
-Is 20 books too many? Will readers lose interest in a series that long? Should we reduce to 12 (4 books per act)?
+**The numbers:**
 
-### 📊 MY ANALYSIS & RECOMMENDATION
-
-**Here's the honest breakdown:**
-
-**Successful YA series lengths for reference:**
-
-- Harry Potter — **7 books** (1,084,000 words total)
-- Percy Jackson — **5 books** (each series), plus multiple spin-off series
-- Hunger Games — **3 books** (+ prequel)
-- Divergent — **3 books**
-- Throne of Glass — **8 books** (Sarah J. Maas)
-- Shadow and Bone — **6 books** across 2 trilogies
-- Wings of Fire — **15 books** (but each is short, and it's middle grade)
-- Warriors (cats) — **30+ books** across sub-series
-
-**The case for 12 books (4 per act):**
-
-- ✅ Clean 3-act structure: 4 + 4 + 4
-- ✅ More manageable for teen readers — feels achievable, not overwhelming
-- ✅ 12 × 24 chapters × 1,500 words = **432,000 words total** — substantial but not insane
-- ✅ Each book is ~36,000 words (~120-150 pages) — perfect YA length
-- ✅ Tighter pacing — less risk of "filler" books
-- ✅ Box set of 12 is more attractive than box set of 20
-- ✅ If readers love it, you launch a **sequel series** — more revenue, fresh excitement
-- ✅ From a publishing schedule standpoint: 12 books is ambitious but realistic
-
-**The case for 20 books:**
-
-- ✅ More room for character development and world-building
-- ✅ More books = more individual sales opportunities
-- ✅ Epic scope — 20 books feels MASSIVE and impressive
-- ❌ Risk of reader fatigue — teens have TikTok, games, streaming competing for attention
-- ❌ More books with filler risk — harder to keep every book essential
-- ❌ Commitment feels scary — a teen in a bookstore may hesitate at "Book 1 of 20"
-- ❌ Harder to maintain the 4Cs across 20 books vs 12
-
-**🏆 MY RECOMMENDATION: 12 BOOKS (4 per act)**
-
-Here's why:
-
-1. **Percy Jackson model** — Rick Riordan did 5-book series, then launched NEW series in the same world (Heroes of Olympus, Trials of Apollo, Magnus Chase). Each series felt fresh. Readers followed across ALL of them.
-2. **"Leave them wanting more"** — It's better to end a series with readers begging for a sequel than to drag it until they stop caring
-3. **Sequel series potential** — After the 12-book saga, launch a next-generation series with new characters (children of the heroes, or same generation facing a new cosmic threat). The world-building carries over. Fans of the parents want to see the children.
-4. **4 books per act is CLEAN:**
-   - **Act I (Books 1–4):** The Rising — discovery, alliance, first battles
-   - **Act II (Books 5–8):** The Breaking — escalation, loss, transformation
-   - **Act III (Books 9–12):** The Reckoning — reunion, final war, legacy
-
-**If you go with 12, the numbers become:**
-
-- 12 books × 24 chapters × 1,500 words = **432,000 words**
+- 12 books × 24 chapters × 1,500 words = **432,000 words total**
 - 288 total chapters
 - ~36,000 words per book (~120-150 pages each)
-- Still a MASSIVE saga — longer than the entire Lord of the Rings trilogy
-
-### ⏳ DECISION NEEDED
-
-What do you prefer? I can restructure the entire plan for either 12 or 20. The 3-act structure works for both.
+- Still longer than the entire Lord of the Rings trilogy
+- After this 12-book saga, a **sequel series** with next-generation characters is the plan
 
 ---
 
-## 📖 BOOK TITLES — PHILOSOPHY & EXPLANATIONS (UNDER DISCUSSION)
+## ✅ BOOK TITLES — EVOCATIVE TITLE + CLEAR SUBTITLE (CONFIRMED)
 
-### ❓ THE QUESTION
+**Decision:** Every book uses a **two-part title system** — evocative main title + clear subtitle. The user likes how this looks on the cover.
 
-Should book titles be obvious so readers know what to expect? Or is mystery better?
+**Format:** `[Series Name] Book [N]: [Main Title] — [Subtitle]`
 
-### 💡 MY RECOMMENDATION: EVOCATIVE TITLE + CLEAR SUBTITLE
+**Current 12-book titles (subtitles to be finalized when chapter outlines are complete):**
 
-The sweet spot for YA is a **two-part title system:**
-
-- **Main title** = evocative, intriguing, sounds epic (makes them pick the book up)
-- **Subtitle** = clear, tells them what the book is about (makes them buy it)
-
-**Examples from successful series:**
-
-- "Harry Potter and **The Philosopher's Stone**" — you don't know what it is, but it sounds magical
-- "Percy Jackson and **The Lightning Thief**" — intriguing + hints at the plot
-- "The Hunger Games: **Catching Fire**" — evocative + hints at escalation
-
-### 📋 CURRENT TITLES EXPLAINED (with suggested subtitles)
-
-Here's what each current title means, plus a subtitle option to make it clearer:
-
-| #   | Current Title      | What It Means                                                                 | Suggested Title + Subtitle                                         |
-| --- | ------------------ | ----------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| 1   | Sunblade Rising    | Itzil's Sun-Blade weapon/power awakens for the first time                     | **Sunblade Rising:** The First Battle for the Sacred Flame         |
-| 2   | The Mirror Siege   | The Dominion attacks through magical mirrors across multiple cities           | **The Mirror Siege:** When the Enemy Strikes from Every Reflection |
-| 3   | Ash Oaths          | Villains use "contract magic" — oaths written in ash that enslave people      | **Ash Oaths:** The Contracts That Bind the Living                  |
-| 4   | Hawk and Jaguar    | Two heroes (Sky-Eagle and Jaguar) whose rivalry threatens the alliance        | **Hawk and Jaguar:** A Brotherhood Forged in Fire                  |
-| 5   | The Relic Storm    | Sacred artifacts are weaponized, causing destruction like a storm             | **The Relic Storm:** When Sacred Ground Becomes a Battlefield      |
-| 6   | Gates of Night     | Multiple demon gates open across the world, plunging everything into darkness | **Gates of Night:** The Darkness That Swallowed the Sky            |
-| 7   | The Starless Crown | First confrontation with VASTRIX, the Crown-Demon who devours starlight       | **The Starless Crown:** Face to Face with the End of All Light     |
-
-**However** — these titles were designed for the old 7-book structure. If we go to 12 books, we'll redesign ALL titles from scratch with the same philosophy: **epic main title + clear subtitle**.
-
-### ⏳ DECISION NEEDED
-
-Do you like the Title + Subtitle approach? Should all titles follow this pattern?
+| Book | Main Title                  | Focus Character     |
+| ---- | --------------------------- | ------------------- |
+| 1    | **Sunblade Rising**         | Itzil (Commander)   |
+| 2    | **The Mirror Siege**        | Kaelen (Scout)      |
+| 3    | **Ash Oaths**               | Zariel (Diplomat)   |
+| 4    | **The Starless Crown**      | Jagren (Duelist)    |
+| 5    | **The Serpent's Gambit**    | Kaelen (Scout)      |
+| 6    | **Rain of Obsidian**        | Rainara (Mystic)    |
+| 7    | **Feathers and Bone**       | Skyren (Hawk Rider) |
+| 8    | **The Shattered Blade**     | Itzil (Commander)   |
+| 9    | **The Forge of Souls**      | Solkren (Armorer)   |
+| 10   | **The Mirror Queen**        | Neyla (Healer)      |
+| 11   | **Crown of Stars**          | Itzil (Commander)   |
+| 12   | **The Sun That Never Sets** | ALL CHARACTERS      |
 
 ---
 
-## 🎭 CHARACTER INTRODUCTION → COVER PLACEMENT (UNDER DISCUSSION)
+## ✅ CHARACTER INTRODUCTION → COVER PLACEMENT (CONFIRMED)
 
-### ❓ THE QUESTION
+**Decision:** Use the **"Debut → Spotlight" pattern** — a character introduced in Book N gets the cover and focus in Book N+1. This builds anticipation and reader investment.
 
-Should a newly introduced character be on the cover of the NEXT book?
+**Rules:**
 
-### 💡 MY RECOMMENDATION: YES, BUT NOT AS A RIGID RULE
-
-Here's the strategy I suggest:
-
-**The "Debut → Spotlight" pattern:**
-
-1. A new character is **introduced** in Book N as a supporting character — readers get curious about them
-2. That character gets **the cover and focus** in Book N+1 — readers are already invested
-
-**Why this works:**
-
-- Builds anticipation — "I can't wait to see more of this character!"
-- The reader already knows them when they see the cover — instant connection
-- Creates a natural pipeline of "next book" excitement
-
-**When NOT to follow this rule:**
-
-- If the story demands a different character on the cover — story always wins
-- If the character was introduced 3+ books ago — they've already been established
-- Itzil (protagonist) can appear on multiple covers since she's the constant
-
-**Example flow (if 12 books):**
-
-- Book 1: Itzil on cover (introduced + spotlighted in same book)
-- Book 2: A character introduced in Book 1 gets the spotlight
-- Book 3: A NEW character introduced in Book 2 gets the spotlight + a new character is introduced
-- And so on...
-
-### ⏳ DECISION NEEDED
-
-Does this "Debut → Spotlight" flow appeal to you?
+- Story always wins over the pattern — if the plot demands a different cover character, so be it
+- Itzil (protagonist) can appear on multiple covers as the series constant
+- Characters introduced 3+ books ago are already established and don't need this pattern
 
 ---
 
-## 🏁 SERIES ENDING & EPILOGUE (UNDER DISCUSSION)
+## ✅ SERIES ENDING & EPILOGUE (CONFIRMED)
 
-### ❓ THE QUESTION
+**Decision:** Definitive conclusion + sequel series door. The series epilogue combines three approaches:
 
-Should the series end conclusively, or stay open for more books? What should the epilogue look like?
+### 🎬 THE EPILOGUE FORMULA (Book 12)
 
-### 💡 MY RECOMMENDATION: DEFINITIVE CONCLUSION + SEQUEL SERIES DOOR
+1. **⏩ Time Skip** — Flash forward 5-10 years. Show the world Itzil and the survivors built. New cities, a monument to the fallen, Itzil at peace.
+2. **🔥 Passing the Torch** — Itzil encounters a young person who reminds her of herself. The cycle continues. The flame is passed.
+3. **📬 Letter to the Reader** — Author's note that empowers the reader, shares lessons learned, and teases the sequel series.
 
-**The ending of this saga must be:**
+### 📢 WHAT EVERY EPILOGUE DOES
 
-- ✅ **Conclusive** — the main conflict (VASTRIX, the Dominion) is RESOLVED. No ambiguity.
-- ✅ **Inspiring** — lessons learned, empowerment, the cost of freedom and the value of courage
-- ✅ **Emotional** — readers should feel the weight of everything these characters went through
-- ✅ **Hopeful** — the world is saved, but it's not perfect — it's REAL
-- ❌ NOT a cliffhanger — the series finale earns its ending. No "to be continued."
+- **Every book's epilogue** (Books 1–11) = cliffhanger + "What Comes Next" tease for the next book
+- **The series finale epilogue** (Book 12) = inspiring conclusion + sequel series tease
+- **Every Amazon book description** = "Where We Have Been" + "What This Book Covers" + "Where We're Headed"
 
-**BUT the epilogue opens a door to the future** without undermining the conclusion.
+### 🎯 SERIES CONCLUSION REQUIREMENTS
 
-### 🎬 SERIES EPILOGUE IDEAS — 5 APPROACHES
-
-Here are five approaches for the final book's epilogue. We can combine several:
-
-**1. ⏩ THE TIME SKIP**
-Flash forward 5-10 years. Show the world Itzil and the survivors built. New cities rising from the ruins. A monument to the fallen. Itzil is older, scarred, at peace. She looks out over the world she saved and we see it was worth every sacrifice.
-
-- _Tone: Bittersweet, powerful, earned_
-
-**2. 🔥 PASSING THE TORCH**
-Itzil encounters a young person — maybe a child, maybe a student — who reminds her of herself at the beginning. The young person asks: "What do I do when the darkness comes?" Itzil gives them the same advice her elder mentor once gave her. The cycle continues. The flame is passed.
-
-- _Tone: Hopeful, full-circle, deeply satisfying_
-
-**3. 🌌 ONE LAST MYSTERY**
-Everything is resolved. The world is at peace. But in the very last paragraph, something small and unexplained happens — a distant light in the sky, a door that wasn't there before, a whispered name on the wind. Not a threat — a WONDER. The reader closes the book knowing the adventure isn't over for this world.
-
-- _Tone: Mysterious, exciting, sequel-bait without feeling cheap_
-
-**4. 📜 THE LEGEND**
-The epilogue is narrated by someone telling the story of Itzil's saga to a new generation. "Let me tell you the story of the warrior who held the sun in her blade..." It frames the entire series as a legend that will be passed down forever. Ends with: "But that... is a story for another age."
-
-- _Tone: Epic, mythic, timeless_
-
-**5. 📬 LETTER TO THE READER**
-Itzil (or the author) writes directly to the reader. Reflects on the journey. Thanks them for being part of it. Shares the lessons: courage, sacrifice, loyalty, the power of choosing to fight for what matters. Tells them: "Your story is just beginning." Then teases: "And if you want to know what happened next in our world... stay tuned."
-
-- _Tone: Personal, empowering, direct connection to the reader_
-
-**🏆 MY RECOMMENDATION: Combine #1 + #2 + #5**
-
-- Time skip to show the world they built
-- Passing the torch moment with a young person
-- A short author's note / letter that empowers the reader and teases the sequel series
-
-### 📢 WHAT THE EPILOGUE TELLS THE READER
-
-Just like every book's epilogue tells the reader what's coming next, the **series epilogue** tells the reader:
-
-- What the characters accomplished and what it cost them
-- The lessons and themes of the entire saga (courage, sacrifice, identity, unity)
-- **What to look forward to next** — "The story of Itzil's war is complete. But the world she saved has new heroes rising. Their story begins soon." This directly sets up the sequel series.
-
-### ⏳ DECISION NEEDED
-
-Which epilogue approach(es) do you prefer?
+- **Inspiring** — the reader finishes the last page feeling empowered
+- **Full of lessons learned** — courage, sacrifice, unity, identity, the cost of freedom
+- **Emotionally satisfying** — every character arc resolved, every promise fulfilled
+- **Earned and bittersweet** — not saccharine, not a fairy tale
+- **NOT a cliffhanger** — the main conflict is RESOLVED conclusively
 
 ---
 
-## 🏷️ CHARACTER NAMING — UPDATED PHILOSOPHY (UNDER DISCUSSION)
+## ✅ CHARACTER NAMES — ALL FINALIZED (CONFIRMED)
 
-### ⚠️ UPDATED REQUIREMENT FROM PROMPT #5
+### 🏷️ NAMING PHILOSOPHY
 
-**No accented characters in names.** Names must be:
+- No accented characters. Phonetically smooth and flowing.
+- Villain names: hard consonants, endings like -ar, -thar, -zar, -ix — sound like thunder and conquest
+- Hero names: smooth + strong consonants, endings like -il, -en, -ra — sound like dawn and steel
+- The name alone should paint a picture of the character
 
-- Phonetically smooth and flowing — they feel good to SAY out loud
-- Pirate/Scandinavian/fantasy-inspired endings for villains (often ending in **-ar, -thar, -zar, -ix**)
-- Cool, exotic, memorable for heroes — Aztec-samurai fusion that rolls off the tongue
-- NO names that sound like "a guy who sells tacos" (looking at you, Albérico)
-- NOT simple English names (no John, no Mary)
-- The name alone should paint a picture of the character in the reader's mind
+### 🗡️ VILLAINS (FINALIZED)
 
-### 🗡️ VILLAIN NAMING STYLE
+| New Name       | Role                  | Old Name              |
+| -------------- | --------------------- | --------------------- |
+| **Volzentar**  | Imperial Warlord      | Lord Albérico         |
+| **Nightshade** | Blood Orator          | Vesper Nightshade     |
+| **Mirathane**  | Mirrorcraft Assassin  | Duchess Sable Requiem |
+| **Gravok**     | Beast Commander       | General Vezaro        |
+| **Helisar**    | Fallen Saint          | Brother Helios        |
+| **Relicara**   | Relic Collector       | Countess Vitra        |
+| **Dalrignon**  | Demon Portal Engineer | Señor Kharon          |
+| **Ashvanar**   | Sorcerer Brothers     | The Choir of Ash      |
+| **Pearlvaine** | Demon Diplomat        | Lady Nacre            |
+| **VASTRIX**    | Crown-Demon (stays)   | VASTRIX               |
 
-Villain names should sound like **thunder, iron, and conquest:**
+### 🌟 HEROES (FINALIZED)
 
-- Endings like: **-ar, -thar, -zar, -ix, -or, -ak, -ren**
-- Hard consonants: **D, K, V, Z, TH, X**
-- Examples of the VIBE we want: Dalenthar, Volzentar, Gravok, Mordrix, Sekthar, Vyrendar
-- They should sound like someone you do NOT want to meet in a dark corridor
+| New Name    | Role                | Old Name               |
+| ----------- | ------------------- | ---------------------- |
+| **Itzil**   | Sun-Blade Commander | Xochitl                |
+| **Kaelen**  | Shadow-Spear Scout  | Itzcóatl "Coil"        |
+| **Torvane** | Temple Engineer     | Acatl Yaretzi          |
+| **Jagren**  | Frontline Duelist   | Tecuani "Jaguar" Olin  |
+| **Neyla**   | Battle Healer       | Nenetl                 |
+| **Skyren**  | Hawk Rider          | Cuauhtli "Sky-Eagle"   |
+| **Miyako**  | Exile Sensei        | Miyako (stays)         |
+| **Rainara** | Water-Knot Mystic   | Tlalocan "Rain-Dancer" |
+| **Zariel**  | Diplomat-Spymaster  | Xipilli "Gold-Laugh"   |
+| **Solkren** | Armorer             | Tonatiuh "Sun-Forge"   |
 
-**Preliminary villain name ideas (for discussion):**
+### 💕 ROMANCE — CONFIRMED
 
-| Old Name              | Suggested New Name                            | Why It Works                                                      |
-| --------------------- | --------------------------------------------- | ----------------------------------------------------------------- |
-| Lord Albérico         | **Volzentar** or **Dalrenthar**               | Sounds like a warlord who crushes civilizations, not a pasta chef |
-| Vesper Nightshade     | **Seravix** or **Noctara**                    | Sounds seductive and venomous — a blood orator                    |
-| Duchess Sable Requiem | **Mirathane** or **Sablethar**                | Sounds sharp, silent, and lethal — a mirror assassin              |
-| General Vezaro        | **Gravok** or **Wulfenthar**                  | Sounds bestial and military — a wolf-skull beast commander        |
-| Brother Helios        | **Helisar** or **Sancthar**                   | Sounds holy yet corrupted — a fallen saint                        |
-| Countess Vitra        | **Relicara** or **Vithrenne**                 | Sounds obsessive and elegant — a relic collector                  |
-| Señor Kharon          | **Kharzek** or **Gathendar**                  | Sounds like a mad engineer who tears holes in reality             |
-| The Choir of Ash      | **The Ashborn** or **The Choir of Ashenthar** | Sounds like a trio of sorcerer-brothers                           |
-| Lady Nacre            | **Nacrethar** or **Pearlvaine**               | Sounds diplomatically dangerous                                   |
-| VASTRIX               | **VASTRIX** (stays)                           | Already perfect — cosmic, final, terrifying                       |
+**Kaelen is Itzil's love interest.** Their romance arc builds slowly:
 
-### 🌟 HERO NAMING STYLE
+- **Act I:** Mutual respect, tension, the careful strategist drawn to the daring rogue
+- **Act II:** Growing trust, vulnerability, tested by separation and danger
+- **Act III:** Full partnership — romantic + tactical. They fight and lead together.
 
-Hero names should sound like **dawn, steel, and fire:**
-
-- Smooth consonants mixed with strong ones: **K, Z, L, R, N, T**
-- Endings like: **-il, -en, -ra, -ko, -el, -an, -ai**
-- They should sound cool when shouted across a battlefield
-- Examples of the VIBE: Itzil, Kaelen, Rindara, Ashiko, Torvane, Lumara
-
-**Preliminary hero name ideas (for discussion):**
-
-| Old Name               | Suggested New Name         | Why It Works                                          |
-| ---------------------- | -------------------------- | ----------------------------------------------------- |
-| Xochitl                | **Itzil** (CONFIRMED)      | Short, sharp, powerful — sounds like a blade striking |
-| Itzcóatl "Coil"        | **Kaelen** or **Serrik**   | Fast-sounding, scout-like, easy to remember           |
-| Acatl Yaretzi          | **Torvane** or **Ashiko**  | Sounds like an inventor/engineer, grounded and clever |
-| Tecuani "Jaguar" Olin  | **Jagren** or **Tekaro**   | Bold, punchy, warrior-duelist energy                  |
-| Nenetl                 | **Lumara** or **Neyla**    | Gentle, luminous, healer energy                       |
-| Cuauhtli "Sky-Eagle"   | **Skyren** or **Haelion**  | Sounds like wind and height — a hawk rider            |
-| Miyako                 | **Miyako** (may keep)      | Already pronounceable and has a Japanese sensei feel  |
-| Tlalocan "Rain-Dancer" | **Rainara** or **Tidelan** | Sounds fluid, mystical — a water mystic               |
-| Xipilli "Gold-Laugh"   | **Zariel** or **Xipren**   | Sounds diplomatic, golden, charismatic                |
-| Tonatiuh "Sun-Forge"   | **Solkren** or **Forgan**  | Sounds like a forge, heat, metal — an armorer         |
-
-### ⏳ DECISION NEEDED
-
-Review these name suggestions. Which ones do you like? Which need alternatives? We can finalize all names before creating anything.
+Kaelen is on the **"never die"** list per the character death strategy.
 
 ---
 
-## 🗣️ NARRATION STYLE — FIRST PERSON vs THIRD PERSON (UNDER DISCUSSION)
+## ✅ NARRATION STYLE — THIRD PERSON LIMITED, CLOSE POV (CONFIRMED)
 
-### ❓ THE QUESTION
-
-Should the story be told in first person ("I drew my blade") or third person ("She drew her blade")?
-
-### 📊 COMPARISON FOR YA AUDIENCES
-
-| Aspect               | First Person ("I")                                                           | Third Person Limited ("She/He")                         |
-| -------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------- |
-| **Intimacy**         | Maximum — reader IS the character                                            | High — reader is very close to the character            |
-| **Multiple POVs**    | Awkward — switching "I" between chapters confuses some readers               | Smooth — switching POV characters is natural            |
-| **Villain POV**      | Very difficult — "I plotted to destroy them" feels weird for heroes' readers | Easy — villain chapters work perfectly                  |
-| **YA examples**      | Hunger Games, Divergent, Percy Jackson, Maze Runner                          | Harry Potter, Throne of Glass, Eragon, Shadow and Bone  |
-| **Emotional impact** | Intense and immediate                                                        | Deep but with slight distance                           |
-| **Mystery/suspense** | Limited — the narrator knows what they know                                  | More flexible — can withhold information more naturally |
-
-### 🏆 MY RECOMMENDATION: THIRD PERSON LIMITED, CLOSE POV
-
-**Why:**
-
-1. **We need villain POV chapters** — first person villain chapters are jarring for YA readers
-2. **We have multiple hero POVs** — switching "I" between Itzil, Kaelen, Jagren etc. across chapters is confusing
-3. **Third person limited** can be written SO close that it reads almost like first person — you're deep inside the character's thoughts and feelings
-4. **Harry Potter proved it works** — the most successful YA series of all time uses third person limited
+**Decision:** Third person limited with close POV. This gives us the emotional intensity of first person with the flexibility to switch between hero and villain chapters.
 
 **What "close POV" means in practice:**
 
 - ❌ Distant: _"Itzil swung her blade. She felt angry."_
 - ✅ Close: _"The blade sang as Itzil brought it down. Her blood burned. Not today. Not while she still had breath."_
 
-The close third person gives us all the emotional intensity of first person with the flexibility to switch between heroes AND villains per chapter.
+**Why this was chosen:**
 
-### ⏳ DECISION NEEDED
-
-Does third person limited (close) work for you, or do you prefer first person?
+- We need villain POV chapters — first person villain chapters are jarring for YA
+- Multiple hero POVs switch smoothly in third person
+- Harry Potter, Throne of Glass, Shadow and Bone all use this successfully
 
 ---
 
@@ -1076,11 +892,9 @@ Amazon's algorithm ranks books based on:
 
 ---
 
-## 📦 BOX SET STRATEGY (UNDER DISCUSSION)
+## ✅ BOX SET STRATEGY (CONFIRMED)
 
-### 💡 BOX SET OPTIONS
-
-If we go with **12 books**, here are the box set configurations:
+**Decision:** Do ALL THREE box set types.
 
 **Option A — Act-Based Box Sets (3 sets of 4):**
 
@@ -1091,20 +905,13 @@ If we go with **12 books**, here are the box set configurations:
 **Option B — Complete Series Box Set:**
 
 - "The Complete Aztec Samurai Adventures" (all 12 books) — $14.99–$19.99
-- MASSIVE value proposition — readers save 50%+ vs buying individually
-- This becomes the #1 revenue driver once the series is complete
 
 **Option C — Starter Set:**
 
 - "The First Three Books" (Books 1–3) — $4.99
-- Low-risk entry point for new readers
-- If they love it, they buy the rest
-
-**🏆 RECOMMENDATION:** Do ALL THREE. Release act-based box sets as each act completes. Release the complete set when all 12 books are done. Release the starter set early to hook new readers.
 
 **Box set covers:**
 
-- Each box set gets its own unique cover prompt showing MULTIPLE characters together
 - Act I cover: the core hero team together
 - Act II cover: heroes vs villains dramatic showdown
 - Act III cover: the final battle — all characters, epic scale
@@ -1112,11 +919,7 @@ If we go with **12 books**, here are the box set configurations:
 
 ---
 
-## 🖼️ COVER IMAGE REQUIREMENTS — UPDATED (UNDER DISCUSSION)
-
-### ⚠️ CRITICAL UPDATE FROM PROMPT #5
-
-**The current cover prompts produce backgrounds that look like oil paintings.** This must be fixed.
+## ✅ COVER IMAGE REQUIREMENTS (CONFIRMED)
 
 ### ❌ WHAT WE DON'T WANT
 
@@ -1128,14 +931,14 @@ If we go with **12 books**, here are the box set configurations:
 ### ✅ WHAT WE DO WANT
 
 - **Sharp, photorealistic backgrounds** with crisp detail
-- **Clear, visible battles** happening behind the main characters — soldiers clashing, spells flying, buildings crumbling
-- **Super detailed environments** — you can see individual warriors, weapons, explosions, architecture
+- **Clear, visible battles** happening behind the main characters
+- **Super detailed environments** — individual warriors, weapons, explosions, architecture
 - **High contrast** — foreground characters POP against the detailed background
-- **Cinematic realism** — think movie poster quality, not watercolor
+- **Cinematic realism** — movie poster quality, not watercolor
 
 ### 📝 TEXT STRUCTURE — DO NOT ALTER
 
-The text layout from the existing prompts is **fantastic** and must remain consistent across ALL covers. The structure follows the same pattern as the reference prompts in:
+The text layout follows the same pattern as reference prompts in:
 
 - `E:\reality-without-belief\reality-prompts\`
 - `E:\repetition-mother-of-mastery\golden-prompts-v2\`
@@ -1151,37 +954,75 @@ Specifically:
 - All text uses elegant font (Trajan Pro for this series)
 - Turquoise + obsidian + gold color scheme
 
-### 🔧 PROMPT FIX NEEDED
+### 🔧 PROMPT FIX — REQUIRED LANGUAGE
 
-When we redo the cover prompts, we must explicitly include language like:
+All cover prompts must explicitly include:
 
 - _"Ultra-high-resolution photorealistic style, NOT oil painting, NOT watercolor, NOT canvas texture"_
-- _"Background rendered with sharp photorealistic detail — every element in the background is clearly visible and distinct"_
-- _"Cinematic depth of field with the background slightly less sharp than the foreground characters but still clearly detailed and fully rendered — NOT blurred, NOT impressionistic"_
+- _"Background rendered with sharp photorealistic detail — every element clearly visible and distinct"_
+- _"Cinematic depth of field — background slightly less sharp than foreground but still clearly detailed — NOT blurred, NOT impressionistic"_
 
 ---
 
-## 🏁 SERIES CONCLUSION REQUIREMENTS
+## � AMAZON A+ CONTENT & BRANDING (UNDER DISCUSSION)
 
-### ⚠️ CONFIRMED REQUIREMENT
+### ❓ THE QUESTION
 
-The conclusion of the series must be:
+Should you brand as yourself (personal name) or as **Metronagon** (your self-publishing company)? Should you create a new KDP account?
 
-- **Inspiring** — the reader finishes the last page feeling empowered
-- **Full of lessons learned** — courage, sacrifice, unity, identity, the cost of freedom
-- **Empowering** — the reader should feel like THEY can face their own battles
-- **Emotionally satisfying** — every character arc is resolved, every promise fulfilled
-- **Not saccharine** — it's earned, bittersweet, real — not a fairy tale
+### ⚠️ DO NOT CREATE A NEW KDP ACCOUNT
 
-### 📢 EVERY BOOK EPILOGUE TELLS THE READER WHAT'S NEXT
+**Amazon's Terms of Service allow only ONE KDP account per person.** Creating a second risks having BOTH accounts banned permanently. Instead:
 
-This is confirmed across the entire series:
+- **Use your existing KDP account**
+- Publish the Aztec Samurai Adventures under **Metronagon** as the **publisher/imprint name** (KDP allows this per-book)
+- Your personal name (or a pen name) stays as the **author name**
+- Result: `Published by Metronagon | Author: [Your Name or Pen Name]`
+- Your existing books under your own name stay exactly as they are
 
-- **Every book's epilogue** = cliffhanger + "What Comes Next" tease for the next book
-- **The series finale epilogue** = inspiring conclusion + "What to look forward to" tease for the sequel series
-- **Every Amazon book description** = "Where We Have Been" + "What This Book Covers" + "Where We're Headed"
+### 💡 RECOMMENDATION: METRONAGON AS IMPRINT + AUTHOR NAME CHOICE
 
-This ensures that whether someone reads the book OR just sees it on Amazon, they always know the full picture.
+**Use Metronagon as the publisher/imprint** — it's professional, brandable, and memorable. It appears:
+
+- In the book's copyright page
+- On the Amazon detail page (publisher field)
+- In A+ Content branding modules
+- On invoices and business documents
+
+**For the author name, you have two options:**
+
+**Option 1: Use your real name**
+
+- ✅ Builds on existing reader base from your other published books
+- ✅ One identity = simpler to manage
+- ❌ If your existing books are a completely different genre, readers may be confused
+
+**Option 2: Use a pen name**
+
+- ✅ Clean separation between your existing books and this YA fantasy series
+- ✅ Creates a fresh brand specifically for fiction
+- ✅ Allows you to market to teens without them seeing your non-fiction catalog
+- ❌ Requires building a new author following from scratch
+
+**🏆 If your existing books are non-fiction or a different genre → use a pen name.**
+**🏆 If your existing books are also fiction → use your real name.**
+
+### 📊 A+ CONTENT STRATEGY
+
+Amazon A+ Content (available after brand registry or KDP enrollment) allows enhanced product pages. Strategy:
+
+1. **Brand Story Module** — Metronagon branding: mission, visual identity, "who we are"
+2. **Character Showcase Module** — Hero and villain images with brief descriptions (use character reference art)
+3. **Series Reading Order Module** — Visual guide showing all 12 books in order with covers
+4. **Comparison Chart Module** — "If you liked Percy Jackson / Eragon / Shadow and Bone, you'll love this"
+5. **Author Bio Module** — Professional photo + compelling bio
+
+**Why this matters:** Most indie authors skip A+ Content entirely. Having it makes your listing look **premium** — like a traditionally published book. This directly improves click-through rate and conversions.
+
+### ⏳ DECISION NEEDED
+
+1. Do you want to use your real name or a pen name for this series?
+2. What genre are your existing published books?
 
 ---
 
@@ -1189,17 +1030,19 @@ This ensures that whether someone reads the book OR just sees it on Amazon, they
 
 Here's what we do, step by step:
 
-### Step 1️⃣ — Finalize this plan (discussion — IN PROGRESS)
+### Step 1️⃣ — ~~Finalize this plan~~ ✅ COMPLETE
 
-_Resolve: series length (12 vs 20), book titles, naming, POV, epilogue style_
+_Series: 12 books. Names: finalized. POV: third person limited. Titles: evocative + subtitle. Epilogue: time skip + torch + letter. Cover: Debut → Spotlight._
 
-### Step 2️⃣ — Finalize Character Names (rename all characters with pronounceable names)
+### Step 2️⃣ — ~~Finalize Character Names~~ ✅ COMPLETE
+
+_All 10 heroes and 10 villains renamed with pronounceable, memorable names._
 
 ### Step 3️⃣ — Design the Elder Characters (2+ hero elders, 2+ villain elders)
 
-### Step 4️⃣ — Create the Master Arc Outline (full saga story arc with death schedule)
+### Step 4️⃣ — Create the Master Arc Outline (12-book story arc with death schedule)
 
-### Step 5️⃣ — Create Chapter Outlines for all books (24 chapters each with cliffhangers)
+### Step 5️⃣ — Create Chapter Outlines for all 12 books (24 chapters each with cliffhangers)
 
 ### Step 6️⃣ — Create the folder structure (replicating the reference project)
 
@@ -1223,4 +1066,4 @@ _Resolve: series length (12 vs 20), book titles, naming, POV, epilogue style_
 
 _This document is a living plan. It will be updated as we discuss and refine our approach._
 
-_Last updated: February 9, 2026 — Prompt #5 update (series length debate 12 vs 20, book title philosophy, character naming with no accents, Itzil confirmed, POV discussion, Amazon KDP optimization, box set strategy, cover image requirements — no oil painting, series ending/epilogue approaches, narration style, start from scratch not expand from 7)_
+_Last updated: February 9, 2026 — Prompt #6 update (ALL DECISIONS FINALIZED: 12 books confirmed, all character names locked, Kaelen confirmed as love interest, third person limited close POV, title+subtitle format, Debut→Spotlight covers, epilogue formula, box set strategy, Amazon A+ branding discussion added)_

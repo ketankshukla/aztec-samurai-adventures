@@ -1,13 +1,13 @@
-# 📋 AZTEC SAMURAI ADVENTURES — USER PROMPT LOG
+# 📋 AZTEC SAMURAI ADVENTURES — DISCUSSION LOG
 
-_A running tally of every request/prompt given by the user, in chronological order._
-_This file is updated before every GitHub push._
+_A running tally of every request/prompt given by the user, followed by AI suggestions, questions, and recommendations. This file reads as a complete discussion history._
+_Updated before every GitHub push._
 
 ---
 
 ## 🔖 PROMPT #1 — February 9, 2026, ~1:51 PM PST
 
-### Request: Create Book Cover Image Prompt for Lead Warrior (Xochitl)
+### 👤 USER REQUEST: Create Book Cover Image Prompt for Lead Warrior (Xochitl)
 
 **Details:**
 
@@ -22,11 +22,17 @@ _This file is updated before every GitHub push._
 
 **Result:** Created a full cover prompt for Book 1 — Sunblade Rising, featuring Xochitl mid-strike with jade-obsidian katana, demon gate shattering in background. User was extremely pleased.
 
+### 🤖 AI SUGGESTIONS & QUESTIONS AFTER PROMPT #1:
+
+1. **Suggested creating prompts for ALL characters**, not just Xochitl — since the series has 20 characters, each could have their own reference prompt.
+2. **Noted the turquoise + obsidian + gold palette** as the series visual identity — recommended keeping this consistent across all covers.
+3. **Identified the need for two types of prompts:** character reference prompts (standalone portraits) and story-specific cover prompts (tied to a specific book's plot). This distinction became important later.
+
 ---
 
 ## 🔖 PROMPT #2 — February 9, 2026, ~2:03 PM PST
 
-### Request: Create Image Prompts for ALL 20 Characters
+### 👤 USER REQUEST: Create Image Prompts for ALL 20 Characters
 
 **Details:**
 
@@ -42,11 +48,18 @@ _This file is updated before every GitHub push._
 - 11–20: Villains (Albérico, Vesper, Sable, Vezaro, Helios, Vitra, Kharon, Ash Choir, Nacre, Vastrix)
 - Each with unique poses, expressions, backgrounds, and character-specific details
 
+### 🤖 AI SUGGESTIONS & QUESTIONS AFTER PROMPT #2:
+
+1. **Recommended organizing characters by role**, not just by hero/villain — this helps when planning which character appears on which book's cover.
+2. **Noted that these 20 prompts are "character reference" prompts** — they establish what each character looks like but aren't tied to specific book plots. Later we'll need "story-specific" prompts that depict scenes from each book.
+3. **Suggested renaming the folder** from `book-cover-prompts` to `character-reference-prompts` once we create the story-specific prompts in each book's `image-prompts/` folder.
+4. **Asked:** Should we expand the series beyond the original 7-book plan? 20 characters across 7 books means some characters won't get a spotlight book.
+
 ---
 
 ## 🔖 PROMPT #3 — February 9, 2026, ~2:37 PM PST
 
-### Request: Create GitHub Repo + Expand Series to 20 Books + Plan Discussion
+### 👤 USER REQUEST: Create GitHub Repo + Expand Series to 20 Books + Plan Discussion
 
 **Details:**
 
@@ -72,11 +85,32 @@ _This file is updated before every GitHub push._
 - Reference project structure studied thoroughly
 - `book-ideas.md` created with: 3-act structure across 20 books, folder structure, cliffhanger strategy, tone guide, master checklist, 8 improvement suggestions, 7 discussion questions
 
+### 🤖 AI SUGGESTIONS & QUESTIONS AFTER PROMPT #3:
+
+1. **Proposed the Three-Act Structure:** Act I (Books 1–7: The Rising), Act II (Books 8–14: The Breaking), Act III (Books 15–20: The Reckoning) — each with escalating stakes.
+2. **Suggested 8 improvements to the plan:**
+   - Create a World Map document
+   - Create a Timeline document
+   - Create a Power Progression chart
+   - Create a Relationship Web document
+   - Create "Previously On..." sections for each book
+   - Give each villain their own defeat arc (spread across the series)
+   - Add villain-POV interlude chapters
+   - Create a "Character Cards" system for marketing
+3. **Raised 7 discussion questions:**
+   - Should chapters be longer than 1,000 words? (YA typically runs 1,500–3,000)
+   - Should we include villain POV chapters?
+   - Should covers feature hero-villain pairs?
+   - Should we introduce all characters at once or phase them in?
+   - Should there be romance subplots?
+   - How do we handle character deaths across 20 books?
+   - Do we need both "character reference" and "story-specific" cover prompts?
+
 ---
 
 ## 🔖 PROMPT #4 — February 9, 2026, ~2:58 PM PST
 
-### Request: Updates to Plan + Answers to Questions + New Requirements
+### 👤 USER REQUEST: Updates to Plan + Answers to Questions + New Requirements
 
 **New Requirements:**
 
@@ -94,6 +128,22 @@ _This file is updated before every GitHub push._
 6. **Character deaths:** User is unsure how to handle this. Doesn't want loveable characters to die quickly (would prevent readers from buying further books). Needs guidance — should they die at the end or during the series? Wants a strategy discussion.
 7. **Cover prompts clarification:** User wants elaboration on the difference between "character reference prompts" and "story-specific prompts" so they have a clear understanding.
 
+### 🤖 AI SUGGESTIONS & QUESTIONS AFTER PROMPT #4:
+
+1. **Character Death Strategy — "The Slow Burn":** Proposed a graduated loss approach:
+   - Act I (Books 1–7): NO major hero deaths. Build reader investment. Minor allies can die.
+   - Act II (Books 8–14): ONE hero death max TWO — deep enough that readers are devastated. Best candidates: characters whose arc is about sacrifice (healer, sensei, armorer).
+   - Act III (Books 15–20): ONE to TWO more. Total across series: 2–4 maximum.
+   - Characters who should NEVER die: Itzil (protagonist), the romantic interest, the comic relief.
+2. **Cover Prompt Types Explained:** Two distinct types:
+   - **Type 1: Character Reference Prompts** — standalone portraits for visual reference and marketing. Already created 20 of these.
+   - **Type 2: Story-Specific Cover Prompts** — tied to a specific book's plot. 5 variants per book. These become the actual published covers.
+3. **Elderly Character Design:** Proposed at least 4 elders (2 hero, 2 villain) with distinct language styles:
+   - Hero elders: warm but firm, proverbs that hit like hammers, wisdom of experience
+   - Villain elders: cold, elegant, terrifyingly logical, wisdom of conquest
+4. **Naming Convention Proposal:** Names should evoke the character's image. Villain names with hard consonants (-ar, -thar, -zar). Hero names with flowing sounds (-il, -en, -ra).
+5. **Romance Arc:** Suggested planning which characters pair up, when it develops, and how it affects the war storyline.
+
 **Process Instructions:**
 
 - Update `book-ideas.md` with all the above changes
@@ -105,11 +155,10 @@ _This file is updated before every GitHub push._
 
 ## 🔖 PROMPT #5 — February 9, 2026, ~3:53 PM PST
 
-### Request: Major Plan Updates + Many Discussion Topics
+### 👤 USER REQUEST: Major Plan Updates + Many Discussion Topics
 
 **New Requirements:**
 
-- Add **elderly characters on both sides** (confirmed from Prompt #4) — protagonist elders give constructive advice, antagonist elders give destructive advice. Language must clearly express intentions.
 - **CLARITY section update:** Add "Where We're Headed" alongside "Where We Have Been" — readers should always know both directions
 - **Start the saga from SCRATCH** — don't expand the original 7-book outline. Design everything fresh since no chapters have been written yet.
 - **Rename main character** from Xochitl to **Itzil** (CONFIRMED)
@@ -124,22 +173,192 @@ _This file is updated before every GitHub push._
 
 **Questions Raised by User (for discussion, no action yet):**
 
-1. **Book title explanations:** What does "Ash Oaths" mean? Should titles be obvious? User wants context for each title. Suggested approach: evocative title + clear subtitle.
-2. **Character intro → cover:** Should a newly introduced character be on the next book's cover? Suggested "Debut → Spotlight" pattern.
-3. **Series ending:** Open-ended for more books, or new series with next generation? Suggested: definitive conclusion + sequel series door.
-4. **Series epilogue approaches:** User doesn't know what it should look like. Suggested 5 approaches (time skip, passing the torch, one last mystery, the legend, letter to the reader). Recommended combining #1 + #2 + #5.
-5. **First person vs third person narration:** Which is more attractive/compelling for YA? Recommended third person limited, close POV.
-6. **Series length — 20 vs 12 books:** User open to reducing to 12 (4 per act). Recommended 12 books with sequel series potential.
-7. **Amazon optimization:** User needs complete research on keywords, tags, categories, pricing, description format. Provided full KDP publishing template.
-8. **Box set ideas:** User wants to know how to create box sets. Provided 3 options (act-based, complete series, starter set).
+1. **Book title explanations:** What does "Ash Oaths" mean? Should titles be obvious? User wants context for each title.
+2. **Character intro → cover:** Should a newly introduced character be on the next book's cover?
+3. **Series ending:** Open-ended for more books, or new series with next generation?
+4. **Series epilogue approaches:** User doesn't know what it should look like.
+5. **First person vs third person narration:** Which is more attractive/compelling for YA?
+6. **Series length — 20 vs 12 books:** User open to reducing to 12 (4 per act).
+7. **Amazon optimization:** User needs complete research on keywords, tags, categories, pricing, description format.
+8. **Box set ideas:** User wants to know how to create box sets.
 
-**Process Instructions:**
+### 🤖 AI SUGGESTIONS & QUESTIONS AFTER PROMPT #5:
 
-- Update `book-ideas.md` with ALL above changes and discussion topics
-- Update `user-prompts.md` (this file) with Prompt #5
-- Do NOT create content yet — discussion continues
-- Push to GitHub after updates
+1. **Series Length — Recommended 12 books (4 per act):**
+
+   - Analyzed successful YA series (Harry Potter 7, Percy Jackson 5, Hunger Games 3, Throne of Glass 8)
+   - 12 books = 432,000 words, still longer than Lord of the Rings
+   - Cleaner 3-act structure (4+4+4), less filler risk, better for teen attention spans
+   - Percy Jackson model: finish a series, then launch sequel series in same world
+   - Box set of 12 more attractive than box set of 20
+
+2. **Book Titles — Recommended evocative title + clear subtitle:**
+
+   - Main title = intriguing, epic (makes them pick it up)
+   - Subtitle = clear, tells them what to expect (makes them buy)
+   - Example: "Sunblade Rising: The First Battle for the Sacred Flame"
+   - Explained what each current title means and why
+
+3. **Character Intro → Cover — Recommended "Debut → Spotlight" pattern:**
+
+   - Character introduced in Book N as supporting → gets cover/focus in Book N+1
+   - Not a rigid rule — story always wins over pattern
+   - Itzil can appear on multiple covers as the constant
+
+4. **Series Epilogue — Recommended combining 3 of 5 approaches:**
+
+   - Approach 1: Time Skip (flash forward 5-10 years)
+   - Approach 2: Passing the Torch (young person asks for guidance)
+   - Approach 3: One Last Mystery (something unexplained, not a threat)
+   - Approach 4: The Legend (saga retold to a new generation)
+   - Approach 5: Letter to the Reader (direct empowerment)
+   - **Recommended: #1 + #2 + #5** (time skip, torch, letter)
+
+5. **Narration — Recommended third person limited, close POV:**
+
+   - First person too limiting for multiple hero POVs and villain chapters
+   - Third person limited reads almost as intimately as first person
+   - Harry Potter, Throne of Glass, Shadow and Bone all use this successfully
+
+6. **Character Naming — Provided full name tables:**
+
+   - Villain names: Volzentar, Seravix, Mirathane, Gravok, Helisar, Relicara, Kharzek, etc.
+   - Hero names: Itzil (confirmed), Kaelen, Torvane, Jagren, Lumara, Skyren, etc.
+   - No accents, phonetically smooth, the name paints the character
+
+7. **Amazon KDP — Full publishing template provided:**
+
+   - 7 backend keywords per book, 3 categories, pricing strategy
+   - Book description template with "Where We've Been / Where We're Headed"
+   - Organic ranking factors explained
+   - A+ Content and Author Page recommendations
+
+8. **Box Sets — 3 options recommended (do all three):**
+
+   - Act-based (3 sets of 4 books) — $6.99 each
+   - Complete series (all 12) — $14.99–$19.99
+   - Starter set (first 3) — $4.99
+
+9. **Cover Image Fix — Explicit requirements documented:**
+   - NO oil painting, NO watercolor, NO fuzzy backgrounds
+   - Sharp photorealistic detail, visible battles, cinematic realism
+   - Text structure stays the same (it works perfectly)
+
+**Questions for user:**
+
+1. What do you prefer — 12 books or 20?
+2. Do you like the Title + Subtitle approach?
+3. Review the name tables — which names do you like?
+4. Does the "Debut → Spotlight" cover pattern work?
+5. Which epilogue approach(es) do you prefer?
+6. Third person limited (close) or first person?
+7. Any other changes before we lock decisions in?
 
 ---
 
-_End of prompt log. This file will be updated with each new prompt before pushing to GitHub._
+## 🔖 PROMPT #6 — February 9, 2026, ~4:39 PM PST
+
+### 👤 USER REQUEST: Finalize Decisions + Create Template + Amazon A+ Discussion
+
+**User's Answers to AI Questions (ALL FINALIZED):**
+
+1. **Series length:** ✅ **12 books** (4 per act) — CONFIRMED
+2. **Book titles:** ✅ **Title + Subtitle approach** — user likes how it looks on the cover — CONFIRMED
+3. **Character names — ALL CONFIRMED:**
+
+**Villains (Finalized):**
+
+| Old Name              | New Name       | Role                  |
+| --------------------- | -------------- | --------------------- |
+| Lord Albérico         | **Volzentar**  | Imperial Warlord      |
+| Vesper Nightshade     | **Nightshade** | Blood Orator          |
+| Duchess Sable Requiem | **Mirathane**  | Mirrorcraft Assassin  |
+| General Vezaro        | **Gravok**     | Beast Commander       |
+| Brother Helios        | **Helisar**    | Fallen Saint          |
+| Countess Vitra        | **Relicara**   | Relic Collector       |
+| Señor Kharon          | **Dalrignon**  | Demon Portal Engineer |
+| The Choir of Ash      | **Ashvanar**   | Sorcerer Brothers     |
+| Lady Nacre            | **Pearlvaine** | Demon Diplomat        |
+| VASTRIX               | **VASTRIX**    | Crown-Demon (stays)   |
+
+**Heroes (Finalized):**
+
+| Old Name               | New Name    | Role                 |
+| ---------------------- | ----------- | -------------------- |
+| Xochitl                | **Itzil**   | Sun-Blade Commander  |
+| Itzcóatl "Coil"        | **Kaelen**  | Shadow-Spear Scout   |
+| Acatl Yaretzi          | **Torvane** | Temple Engineer      |
+| Tecuani "Jaguar" Olin  | **Jagren**  | Frontline Duelist    |
+| Nenetl                 | **Neyla**   | Battle Healer        |
+| Cuauhtli "Sky-Eagle"   | **Skyren**  | Hawk Rider           |
+| Miyako                 | **Miyako**  | Exile Sensei (stays) |
+| Tlalocan "Rain-Dancer" | **Rainara** | Water-Knot Mystic    |
+| Xipilli "Gold-Laugh"   | **Zariel**  | Diplomat-Spymaster   |
+| Tonatiuh "Sun-Forge"   | **Solkren** | Armorer              |
+
+**Romance:** ✅ **Kaelen is Itzil's love interest** — CONFIRMED
+
+4. **Character intro → cover:** ✅ **Debut → Spotlight pattern** — CONFIRMED
+5. **Series epilogue:** ✅ **Combination of #1 (Time Skip) + #2 (Passing the Torch) + #5 (Letter to Reader)** — CONFIRMED
+6. **Narration style:** ✅ **Third person limited, close POV** — CONFIRMED
+
+**New Requests:**
+
+1. **Create a finalized series template document** (`book-series-template.md`) — unlike `book-ideas.md` which has all the discussion history, this is a CLEAN, REUSABLE document. It should be structured so the user can use it as a "fill-in-the-blanks" template to create ANY new book series in one shot with AI. Recommend what the user needs to tell the AI to generate a new series using this template.
+
+2. **Amazon A+ Content discussion:** User likes the idea of branding. Questions:
+   - Should they brand as themselves (personal name) or as **Metronagon** (their self-publishing company)?
+   - Already has books published under their own name
+   - Should they create a new Amazon KDP account for Metronagon, or use their existing one?
+
+### 🤖 AI SUGGESTIONS & QUESTIONS AFTER PROMPT #6:
+
+1. **All decisions are now LOCKED.** The series is 12 books, 4 per act, with all character names finalized, third person limited close POV, title + subtitle format, Debut → Spotlight cover pattern, and the epilogue combines Time Skip + Passing the Torch + Letter to Reader.
+
+2. **Kaelen as love interest:** This is a strong choice. Kaelen (the scout) and Itzil (the commander) have natural chemistry potential — the careful strategist falling for the daring rogue who operates alone. Their romance arc could build slowly: mutual respect in Act I, growing trust and tension in Act II, and full partnership (romantic + tactical) in Act III. This also means **Kaelen should NOT die** (per our earlier rule that the romantic interest survives).
+
+3. **Created `book-series-template.md`** — a clean, reusable template with fill-in-the-blanks placeholders. This can be used to spin up any new series by providing the AI with:
+
+   - Genre, target audience, and tone
+   - Number of books and chapters per book
+   - Main characters (heroes + villains) with brief descriptions
+   - The central conflict/war
+   - Magic system or power rules
+   - World setting and geography
+   - The AI fills in: 3-act structure, chapter outlines, cliffhanger map, character arcs, death schedule, cover prompt guidelines, Amazon publishing template, and folder structure.
+
+4. **Amazon A+ / Branding — FULL ANALYSIS PROVIDED:**
+
+   **DO NOT create a new KDP account.** Amazon's Terms of Service allow only ONE KDP account per person. Creating a second risks having BOTH accounts banned. Instead:
+
+   - Use your existing KDP account
+   - Publish the Aztec Samurai Adventures under **Metronagon** as the **publisher/imprint name** (KDP allows this per-book)
+   - Your personal name (or a pen name) stays as the **author name**
+   - This gives you: `Published by Metronagon | Author: [Your Name or Pen Name]`
+   - Your existing books under your own name stay as they are
+   - The Metronagon branding appears in A+ Content, on the book's detail page, and in the copyright page
+
+   **Metronagon vs Personal Name — Recommendation:**
+
+   - **Use Metronagon as the publisher/imprint** — it's professional, brandable, and memorable
+   - **Use your real name OR a pen name as the author** — readers connect with authors, not publishers
+   - If your existing books are non-fiction or a different genre, a **pen name** for this YA fantasy series helps avoid confusing existing readers
+   - If you want everything under one identity, use your real name for both
+
+   **A+ Content strategy:**
+
+   - Create a Metronagon brand story module (who you are, your mission)
+   - Character showcase modules (images of heroes and villains)
+   - Series reading order module
+   - Comparison chart module ("If you liked X, you'll love Y")
+   - These make your Amazon listing look PREMIUM — most indie authors skip this, so it's a competitive advantage
+
+**Questions for user:**
+
+1. Do you want to use a pen name for this YA series, or publish under your real name with Metronagon as the imprint?
+2. Are your existing published books in a completely different genre? (This affects whether a pen name is advisable)
+3. Should the template document include the Amazon A+ Content strategy as part of the reusable template, or keep that separate?
+
+---
+
+_End of discussion log. This file will be updated with each new prompt before pushing to GitHub._
