@@ -398,4 +398,31 @@ This is the standard indie publishing setup. Think of Metronagon as the publishi
 
 ---
 
+## 🔖 PROMPT #8 — February 9, 2026, ~5:04 PM PST
+
+### 👤 USER REQUEST: Do I Need to Update My Non-Fiction Books to Show Metronagon?
+
+**Details:**
+
+- User wants to know if they have to go back and update existing 6 non-fiction books on KDP to change the publisher to Metronagon
+- They want those non-fiction books on the Metronagon website too
+
+### 🤖 AI RESPONSE:
+
+**Answer: It's optional but recommended.**
+
+The non-fiction books will continue to sell as-is. But since the user wants them on the Metronagon website, updating the publisher field on KDP creates a unified brand.
+
+**How to do it:**
+
+- KDP Bookshelf → click each book → edit "Book Details" → change Publisher field to "Metronagon" → save and publish
+- ~5 minutes per book, no content changes needed, no re-upload, no new ISBN
+- Books stay live — Amazon just updates the publisher field within 24-72 hours
+
+**On Metronagon.com:** List all titles (6 non-fiction + Aztec Samurai series) organized by category. Visitors see a real publishing catalog, not a one-book operation.
+
+**Bottom line:** 30 minutes of KDP updates + a proper website = a unified brand that looks like a legit publishing house.
+
+---
+
 _End of discussion log. This file will be updated with each new prompt before pushing to GitHub._

@@ -397,63 +397,217 @@ These questions have been discussed and resolved. Decisions are **final**.
 
 ---
 
-## 👴 ELDERLY CHARACTERS — WISDOM ON BOTH SIDES
+## ✅ ELDERLY CHARACTERS — WISDOM ON BOTH SIDES (DESIGNED)
 
-### ⚠️ THIS IS A NEW REQUIREMENT
+Both sides of the war have **elderly mentor/advisor characters** who provide deep wisdom and strategic counsel. Their language and advice **clearly express their side's intentions and philosophy**.
 
-Both sides of the war need **elderly mentor/advisor characters** who provide deep wisdom and strategic counsel. Their language and advice must **clearly express their side's intentions and philosophy**.
+---
 
-### 🌅 PROTAGONIST ELDERS — Constructive Wisdom
+### 🌅 HERO ELDER #1 — KORVAIN (The Last Grandmaster)
 
-Elderly characters on the hero side give **solid constructive advice for winning the battle**. Their wisdom is about:
+**Role:** Retired Sun-Blade Grandmaster. Itzil's personal mentor.
+**Age:** Mid-70s. The oldest living Sun-Blade master.
+**Pronunciation:** KOR-vayn
 
-- **Protecting life** while fighting effectively
-- **Unity, discipline, and sacrifice** for the greater good
-- **Ancient knowledge** of Sun-Blade Arts passed down through generations
-- **Strategic patience** — knowing when NOT to fight is as important as knowing how
-- **Moral clarity** — winning means nothing if you become what you're fighting against
+**Appearance:**
 
-**Language style:** Warm but firm. Proverbs that hit like hammers. Short sentences that carry the weight of centuries. They speak with the authority of experience, not rank.
+- Tall but stooped — was once the tallest warrior in the Sun-Blade order
+- Deep brown skin weathered like canyon rock, covered in pale scars that map decades of battle
+- White hair pulled into a single warrior's knot, thin and wispy
+- Missing the last two fingers on his left hand (lost in the Battle of the Burning Stairs, 40 years ago)
+- Eyes: dark amber, still sharp as obsidian chips — miss nothing
+- Walks with a gnarled ironwood staff that conceals a short blade (he can draw and strike in one motion — still impossibly fast in short bursts)
+- Wears a faded Sun-Blade robe, the gold thread almost gone — he refuses a new one
 
-**Sample elder voice:**
+**Personality:**
+
+- Speaks slowly, deliberately — every word is chosen like a sword stroke
+- Warm but unflinching. He will tell Itzil the truth even when it breaks her heart
+- Uses stories and parables more than direct instruction — "Let me tell you about the first time I lost"
+- Dry humor that catches people off-guard
+- Haunted by the warriors he trained who died — he remembers every name
+- Fiercely protective of Itzil, but never shields her from hard truths
+
+**Philosophy:** Protecting life while fighting effectively. Strategic patience. Moral clarity — winning means nothing if you become what you fight against.
+
+**Language style:** Warm but firm. Proverbs that hit like hammers. Short sentences carrying the weight of centuries. Speaks with the authority of experience, not rank.
+
+**Sample dialogue:**
 
 - _"The blade that protects is sharper than the blade that conquers, child. Remember that when the darkness comes."_
 - _"You ask me how to win? First, decide what you are willing to lose. Then make sure it is not your soul."_
 - _"I have seen empires fall. They all fell the same way — they forgot what they were fighting for."_
+- _"You're faster than I ever was. Stronger too. But speed and strength didn't save my students. Wisdom did. So sit down and listen."_
+- _"When the war is over and the songs are sung, no one will remember how quickly you drew your blade. They will remember why."_
 
-### 🌑 ANTAGONIST ELDERS — Destructive Wisdom
+**Arc across the series:**
 
-Elderly characters on the villain side give **solid destructive advice for winning the battle**. Their wisdom is about:
+- **Act I:** Itzil's anchor. Trains her not just in combat but in leadership. Appears in every book as the voice she returns to.
+- **Act II:** His health begins to fail. He knows he won't live to see the end of the war. Everything he does is about making sure Itzil is ready to lead without him.
+- **Act III:** **Potential death candidate.** If he dies, it's peaceful — passing in his sleep or after one final lesson. Not in battle. He's earned his rest. His death would transform Itzil from student to master — she no longer has someone to go back to for answers. She IS the answer.
 
-- **Exploiting weakness** — every compassion is a vulnerability
-- **Control through fear, contracts, and dependency**
-- **Ancient knowledge** of Dominion sorcery and demon-binding
-- **Strategic cruelty** — breaking the enemy's will is more efficient than breaking their army
-- **Absolute conviction** — mercy is weakness, hesitation is death, power is the only truth
+**Introduced:** Book 1 (present from the beginning)
 
-**Language style:** Cold, elegant, and terrifyingly logical. Their advice sounds reasonable, which makes it more dangerous. They speak with the authority of conquest.
+---
 
-**Sample elder voice:**
+### 🌅 HERO ELDER #2 — AMALURA (The Keeper of Embers)
+
+**Role:** Temple Lore-Master. Keeper of sacred knowledge and the oral history of the Sun-Blade order.
+**Age:** Early 80s. The oldest person in the allied territories.
+**Pronunciation:** ah-mah-LOO-rah
+
+**Appearance:**
+
+- Small, slight frame — birdlike. Barely five feet tall. Seems fragile but is startlingly tough
+- Dark brown skin, deeply lined, with laugh lines deeper than the worry lines
+- Blind in her right eye (milky white, struck by a sorcerer's curse decades ago). Left eye: deep black, sharp and piercing
+- White hair in thin braids woven with tiny turquoise beads — each bead represents a sacred text she has memorized
+- Hands: small, gnarled, always moving — she "reads" by touching carvings and feeling the shape of glyphs
+- Wears layered robes of deep indigo and copper, covered in embroidered glyphs — her robes ARE a walking library
+- Carries a small obsidian bowl that she uses for fire-reading (a divination art only she still practices)
+
+**Personality:**
+
+- Sharp-tongued and impatient with foolishness — she has no time for people who don't listen
+- Deeply compassionate underneath the prickly exterior — she memorized the sacred texts so they could never be destroyed
+- Speaks in riddles and layers — her first answer is never the real answer
+- Has a photographic memory for spoken words — she can repeat conversations from 50 years ago verbatim
+- Laughs easily and unexpectedly, usually at things that aren't obviously funny
+- Non-combatant, but her knowledge has saved more lives than any blade
+
+**Philosophy:** Ancient knowledge is the foundation of all power. The Sun-Blade Arts have depths that even Korvain doesn't know. The past holds the keys to the future.
+
+**Language style:** Quick, layered, sometimes cryptic. She answers questions with questions. When she finally gives a direct answer, it's devastating in its simplicity.
+
+**Sample dialogue:**
+
+- _"You want to know how to close the demon gates? I know the answer. I've known it for forty years. But you're not ready to hear it yet, so ask me again when you've stopped being afraid."_
+- _"Every glyph I carry on these robes is a life that was lived and lost to protect what we are. Do not ask me to be gentle about what that cost."_
+- _"The Dominion burns libraries. Do you know why? Because a book is more dangerous than a blade. A blade can kill one person. A book can free a nation."_
+- _"Korvain teaches you how to fight. I teach you why fighting matters. You need both, child. One without the other is just murder with better posture."_
+
+**Arc across the series:**
+
+- **Act I:** Provides critical lore that unlocks the early mysteries. Her knowledge reveals what the Dominion is truly after.
+- **Act II:** Becomes a strategic asset — the villains want her captured alive because she knows things they need. She becomes a target.
+- **Act III:** Reveals the deepest secret of the Sun-Blade Arts — knowledge she's been holding back because it's dangerous. This revelation changes the endgame.
+
+**Introduced:** Book 1 (present from the beginning, but her importance grows)
+
+---
+
+### 🌑 VILLAIN ELDER #1 — VALDREMOR (The Architect)
+
+**Role:** Dominion High Sorcerer Emeritus. The man who built the magical infrastructure of the entire Dominion. Taught Volzentar, Nightshade, and most current villain leaders their craft.
+**Age:** Early 80s. Appears older due to sorcery's toll on his body.
+**Pronunciation:** val-DREH-mor
+
+**Appearance:**
+
+- Gaunt, almost skeletal — sorcery has eaten away at his physical form over decades
+- Pale, paper-thin skin stretched over sharp bones. Blue veins visible like a map of dark rivers
+- White hair: long, thin, perfectly maintained — vanity is his last indulgence
+- Eyes: one natural (pale grey, cold), one replaced with a smoky crystal orb that glows faintly violet when he channels power
+- Hands: long, elegant fingers stained permanently black at the tips from decades of ink-sorcery (writing contracts, binding spells, demon-summoning glyphs)
+- Wears layered robes of charcoal grey and deep purple, immaculately clean — not a single wrinkle. His appearance is controlled perfection
+- Carries no weapon — his mind IS the weapon. He can dismantle a ward or a person with equal precision
+- Resides in the Spire of Glass, a tower of black obsidian in the Dominion capital — he hasn't left it in 15 years
+
+**Personality:**
+
+- Terrifyingly calm. Never raises his voice. The quieter he gets, the more dangerous the situation
+- Sees people as systems to be optimized or dismantled — he doesn't hate the heroes, he finds them _inefficient_
+- Genuinely believes the Dominion's conquest is the only logical path to order
+- Deeply disappointed in most of his students — considers Volzentar talented but emotionally undisciplined
+- The only person who has ever made Volzentar visibly uncomfortable
+- He doesn't threaten. He explains, with perfect logic, exactly what will happen if you oppose him. Then it happens.
+
+**Philosophy:** Exploiting weakness. Control through systems, contracts, and dependency. Power is the only truth that survives. Mercy is an inefficiency.
+
+**Language style:** Cold, elegant, and terrifyingly logical. His advice sounds reasonable, which makes it more dangerous. Speaks with the authority of conquest. Never uses two words where one will do.
+
+**Sample dialogue:**
 
 - _"You wish to defeat them? Do not kill their warriors. Kill their hope. The warriors will follow."_
 - _"Compassion is a leash they put on themselves. Pull it, and they will choke on their own kindness."_
 - _"I have built empires. They all rose the same way — someone decided that mercy was a luxury they could no longer afford."_
+- _"Volzentar. You have power, ambition, and rage. You lack patience. This is why you will fail unless you listen to me very carefully."_
+- _"I do not hate them. Hatred requires emotional investment. I simply recognize that they are in the way."_
 
-### 📋 ELDER CHARACTERS TO CREATE
+**Arc across the series:**
 
-We need to design **at least 2 elders per side** (4 total minimum):
+- **Act I:** Referenced but not seen. A shadow figure — the villains speak of him with reverence and fear. "Valdremor would not approve."
+- **Act II:** Appears in person when the Dominion faces its first real setbacks. He steps out of retirement to fix what his students have broken. His arrival makes everything worse for the heroes.
+- **Act III:** The true intellectual threat. While VASTRIX is the cosmic threat, Valdremor is the human one — the proof that evil doesn't need demons, it just needs someone smart enough and cold enough. His defeat must be intellectual, not physical — outsmarted, not overpowered.
 
-**Hero Elders:**
+**Introduced:** Referenced in Book 1. First physical appearance in Book 5 or 6.
 
-- A retired Sun-Blade grandmaster (ancient warrior who can still fight but chooses to teach)
-- A temple keeper / lore-master (keeper of sacred knowledge, non-combatant but invaluable)
+---
 
-**Villain Elders:**
+### 🌑 VILLAIN ELDER #2 — SERENTHAR (The Weeping Oracle)
 
-- A Dominion high sorcerer emeritus (the one who taught the current villains their craft)
-- A demon-bound oracle (ancient being who sees futures and advises the Dominion throne)
+**Role:** Demon-Bound Seer. An ancient being who sees possible futures and whispers them to the Dominion throne.
+**Age:** Ageless — appears 90+ but has existed for centuries. She is no longer fully human.
+**Pronunciation:** seh-REN-thar
 
-These elders will be **named with the same pronounceable naming conventions** as all other characters.
+**Appearance:**
+
+- Hunched, wrapped in layers of dark silk that shift like smoke — you can never quite see where the fabric ends and shadow begins
+- Skin: ashen grey, almost translucent — you can see dark veins pulsing beneath, carrying something that is not blood
+- Her eyes were replaced with demon-crystal orbs long ago — they glow a deep, shifting amber-red, like embers in a dying fire. She "sees" futures, not the present
+- White hair: impossibly long, pooling on the floor around her like spilled milk. It moves on its own, slowly, as if underwater
+- Hands: skeletal, each fingertip tipped with a tiny black claw — she scratches futures into stone tablets
+- She weeps constantly — not from sadness, but from the sheer overwhelming weight of everything she sees. Dark tears (not water) streak permanently down her grey cheeks
+- She sits on a throne of black stone in a lightless chamber beneath the Dominion palace. She hasn't stood in decades
+
+**Personality:**
+
+- Speaks in fragments and visions — her mind exists across multiple timelines simultaneously
+- Genuinely unsettling — even the villains fear being alone with her
+- She does not lie, but she chooses which truths to share — and WHEN she shares them is the real weapon
+- She has seen the heroes win in some futures and the Dominion win in others — she works to steer reality toward the Dominion's victory
+- Moments of chilling clarity where she speaks a single, perfectly lucid sentence — these are the most terrifying moments
+- She pities the heroes. Genuinely. She has seen them suffer in every possible future
+
+**Philosophy:** Fate is not fixed but it can be guided. Knowledge of the future is the ultimate power. Every possible future contains suffering — the only question is who suffers.
+
+**Language style:** Fragmented, poetic, unsettling. Alternates between cryptic visions and sudden, razor-sharp clarity. When she speaks clearly, everyone stops and listens — because it means something terrible is certain.
+
+**Sample dialogue:**
+
+- _"I see... fire. Fire and a blade that sings. She holds it — the girl with the sun in her hands. In one future she wins. In another... oh. Oh, that one is worse."_
+- _"You ask me what comes next? Twelve paths. Twelve doors. Behind eleven of them, you die. Behind the twelfth... you wish you had."_
+- _"The girl will come here. She will stand where you are standing. And she will ask me the same question you just asked. I will give her a different answer."_
+- _"Do not pity them, Volzentar. I have already wept enough for what is coming. Let me weep alone."_
+- _(Sudden clarity)_ _"The armorer will forge one last weapon. It will not save him."_ _(Then silence. Then weeping.)_
+
+**Arc across the series:**
+
+- **Act I:** Whispered about in ominous terms. The heroes learn the Dominion has an oracle but don't understand the implications.
+- **Act II:** Her predictions drive the Dominion's strategy. The heroes start to realize the enemy seems to know what they'll do before they do it. Figuring out that an oracle exists — and finding a way to counter her — becomes a major subplot.
+- **Act III:** A pivotal moment where Serenthar sees a future she hasn't shared with anyone — one where the heroes win AND the Dominion survives in a transformed form. She must choose: loyalty to the Dominion, or preventing the worst possible outcome she's seen? Her choice could tip the final battle.
+
+**Introduced:** Mentioned in Book 2. First appearance in Book 4 or 5. Becomes increasingly important through Acts II and III.
+
+---
+
+### 📊 ELDER CHARACTER SUMMARY
+
+| Name          | Side    | Role                         | Introduced | Death Risk                                      |
+| ------------- | ------- | ---------------------------- | ---------- | ----------------------------------------------- |
+| **Korvain**   | Hero    | Sun-Blade Grandmaster/Mentor | Book 1     | Possible (Act III — peaceful death, not battle) |
+| **Amalura**   | Hero    | Temple Lore-Master/Keeper    | Book 1     | Low (too valuable to lose)                      |
+| **Valdremor** | Villain | High Sorcerer Emeritus       | Book 5-6   | Likely (Act III — outsmarted, not overpowered)  |
+| **Serenthar** | Villain | Demon-Bound Oracle/Seer      | Book 4-5   | Unknown (may switch sides or transcend)         |
+
+**Relationship dynamics:**
+
+- **Korvain ↔ Itzil:** Master and student. He is the father figure she never had. His death (if it happens) is the emotional climax of her mentor arc.
+- **Amalura ↔ Korvain:** Old friends who bicker constantly. She thinks he's too sentimental. He thinks she's too cryptic. They trust each other absolutely.
+- **Valdremor ↔ Volzentar:** Master and student, but strained. Valdremor is disappointed in Volzentar's emotional volatility. Volzentar resents still needing his approval.
+- **Serenthar ↔ Everyone:** Feared by all sides. She is the wild card — the one element neither heroes nor villains can fully control or predict.
+- **Korvain ↔ Valdremor:** They knew each other in their youth — fought on the same side once, before the great schism. This shared history adds devastating emotional weight to their opposition.
+- **Amalura ↔ Serenthar:** Both keepers of ancient knowledge, on opposite sides. If they ever meet face to face, it will be one of the most charged scenes in the series.
 
 ---
 
@@ -486,7 +640,7 @@ We will create a full **Character Name Registry** document that maps:
 - Name meaning/origin
 - Why this name fits the character
 
-This ensures the 4Cs — every name is consistent, clear, and coherent across all 20 books.
+This ensures the 4Cs — every name is consistent, clear, and coherent across all 12 books.
 
 ---
 
@@ -1020,7 +1174,9 @@ _Series: 12 books. Names: finalized. POV: third person limited. Titles: evocativ
 
 _All 10 heroes and 10 villains renamed with pronounceable, memorable names._
 
-### Step 3️⃣ — Design the Elder Characters (2+ hero elders, 2+ villain elders)
+### Step 3️⃣ — ~~Design the Elder Characters~~ ✅ COMPLETE
+
+_4 elder characters designed: Korvain (hero grandmaster), Amalura (hero lore-master), Valdremor (villain sorcerer emeritus), Serenthar (villain oracle). Full profiles with appearance, personality, dialogue, arcs, and relationship dynamics._
 
 ### Step 4️⃣ — Create the Master Arc Outline (12-book story arc with death schedule)
 
@@ -1048,4 +1204,4 @@ _All 10 heroes and 10 villains renamed with pronounceable, memorable names._
 
 _This document is a living plan. It will be updated as we discuss and refine our approach._
 
-_Last updated: February 9, 2026 — Prompt #7 update (Amazon A+ branding CONFIRMED: Metronagon as publisher/imprint + Ketan Shukla as author name. All previous decisions remain locked.)_
+_Last updated: February 9, 2026 — Prompt #8 update (Elder characters DESIGNED: Korvain, Amalura, Valdremor, Serenthar. Non-fiction KDP update advice given. Step 3 complete.)_
