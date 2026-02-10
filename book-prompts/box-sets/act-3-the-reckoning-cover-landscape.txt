@@ -39,6 +39,6 @@ Line 4 (19% from top, left-aligned at 5%): "The Forge of Souls | The Mirror Quee
 
 Line 5 (22% from top, left-aligned at 5%): "Reunion. Final War. Sacrifice. Legacy. And the Sun That Never Sets." — small italic Trajan Pro, warm golden-cream.
 
-Line 6 (93% from top, right-aligned at 95%): "KETAN SHUKLA" — large Trajan Pro, white/cream with golden warmth, letter-spacing 0.2em.
+Line 6 (93% from top, centered horizontally): "KETAN SHUKLA" — large Trajan Pro, white/cream with golden warmth, letter-spacing 0.2em.
 
 OVERALL MOOD: Triumphant, overwhelming, cathartic — a cinematic widescreen sweep from forge-fire to sunrise, from creation to peace. The landscape format emphasizes the CRESCENDO — the eye travels left to right through reforging, healing, siege, and dawn, each scene brighter and more hopeful than the last, building to the ensemble standing together in the sunrise — the image that lives in readers' minds forever. PHOTOREALISTIC. NO oil painting.

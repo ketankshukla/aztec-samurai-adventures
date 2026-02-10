@@ -43,6 +43,6 @@ Line 4 (19% from top, left-aligned at 5%): "Sunblade Rising | The Mirror Siege |
 
 Line 5 (22% from top, left-aligned at 5%): "Discovery. Alliance. First Victories. And the Darkness That Follows." — small italic Trajan Pro, cream.
 
-Line 6 (93% from top, right-aligned at 95% from left): "KETAN SHUKLA" — large Trajan Pro, white/cream with golden warmth, letter-spacing 0.2em.
+Line 6 (93% from top, centered horizontally): "KETAN SHUKLA" — large Trajan Pro, white/cream with golden warmth, letter-spacing 0.2em.
 
 OVERALL MOOD: Epic, hopeful, with gathering shadows — a cinematic widescreen sweep from golden dawn to encroaching void. The landscape format emphasizes the JOURNEY — the eye travels left to right across four books, four moods, four heroes, and the gradual realization that hope alone won't be enough. PHOTOREALISTIC. NO oil painting.

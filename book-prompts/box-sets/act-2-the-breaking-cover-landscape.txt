@@ -41,6 +41,6 @@ Line 4 (19% from top, left-aligned at 5%): "The Serpent's Gambit | Rain of Obsid
 
 Line 5 (22% from top, left-aligned at 5%): "Escalation. Loss. Fracture. And the Fire That Refuses to Die." — small italic Trajan Pro, warm amber/cream.
 
-Line 6 (93% from top, right-aligned at 95%): "KETAN SHUKLA" — large Trajan Pro, white/cream, letter-spacing 0.2em.
+Line 6 (93% from top, centered horizontally): "KETAN SHUKLA" — large Trajan Pro, white/cream, letter-spacing 0.2em.
 
 OVERALL MOOD: Devastating, fractured, darkly beautiful — a cinematic widescreen sweep through the series' darkest chapter. The landscape format emphasizes the FRACTURE — the eye travels left to right through identity crisis, environmental catastrophe, aerial warfare, and personal devastation, each scene more emotionally intense than the last, building to the kneeling figure on the far right who holds two broken halves of the world's only hope. PHOTOREALISTIC. NO oil painting.

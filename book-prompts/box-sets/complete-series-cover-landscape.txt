@@ -57,7 +57,7 @@ Line 4 (19% from top, left-aligned at 5%): "The Rising | The Breaking | The Reck
 
 Line 5 (22% from top, left-aligned at 5%): "One Woman. One Blade. Twelve Books. The Complete Epic Fantasy Saga." — small italic Trajan Pro, warm golden-cream.
 
-Line 6 (93% from top, right-aligned at 95%): "KETAN SHUKLA" — large Trajan Pro, white/cream with golden warmth, letter-spacing 0.2em.
+Line 6 (93% from top, centered horizontally): "KETAN SHUKLA" — large Trajan Pro, white/cream with golden warmth, letter-spacing 0.2em.
 
 OVERALL MOOD: Epic, comprehensive, definitive — the ultimate widescreen expression of the Aztec Samurai Adventures. The landscape format emphasizes the JOURNEY — the eye sweeps left to right through hope, darkness, and dawn, always drawn back to the center by the woman and the blade that connect everything. This is the image that says: THIS is the complete story. Twelve books. One through-line of golden light. Start at the dawn. End at the sunrise. Miss nothing.
 
