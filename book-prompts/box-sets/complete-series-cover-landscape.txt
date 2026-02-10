@@ -45,6 +45,8 @@ Itzil's face must be centered vertically at approximately 45-55% from the top an
 
 TEXT — RENDERED EXACTLY AS SPECIFIED FOR LANDSCAPE FORMAT:
 
+IMPORTANT: ALL text lines EXCEPT the author name must appear at the TOP of the image (within the top 25%). ONLY the author name appears at the BOTTOM. No text in the middle of the image.
+
 Line 1 (4% from top, left-aligned at 5%): "AZTEC SAMURAI ADVENTURES" — Trajan Pro, turquoise (#40E0D0), letter-spacing 0.15em. The most prominent rendering of the series name — slightly larger than individual covers (~16pt equivalent).
 
 Line 2 (8% from top, left-aligned at 5%): "THE COMPLETE SERIES" — Trajan Pro, gold (#FFD700), letter-spacing 0.2em.

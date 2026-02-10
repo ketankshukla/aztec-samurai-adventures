@@ -29,6 +29,8 @@ All four heroes' heads must sit between 30-65% from the top. The top 25% is rese
 
 TEXT — RENDERED EXACTLY AS SPECIFIED FOR LANDSCAPE FORMAT:
 
+IMPORTANT: ALL text lines EXCEPT the author name must appear at the TOP of the image (within the top 25%). ONLY the author name appears at the BOTTOM. No text in the middle of the image.
+
 Line 1 (4% from top, left-aligned at 5%): "AZTEC SAMURAI ADVENTURES" — small Trajan Pro, turquoise (#40E0D0), muted slightly against the dark sky, letter-spacing 0.15em.
 
 Line 2 (8% from top, left-aligned at 5%): "ACT II — THE BREAKING" — Trajan Pro, gold (#FFD700), letter-spacing 0.2em.
