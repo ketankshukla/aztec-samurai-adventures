@@ -1,5 +1,4 @@
-# Aztec Samurai Adventures Book 1: Sunblade Rising
-## When the Sun-Blade Chooses Its Bearer, the War Begins
+# Aztec Samurai Adventures Book 1: Sunblade Rising - A Blade Forged in Light
 
 What if the weapon that could save the world chose a woman who didn't believe she deserved it?
 

@@ -76,12 +76,12 @@ The saga is organized as **three major acts** with clear escalation:
 **Theme: Discovery, Alliance, First Victories**
 _The heroes discover the threat, unite, learn their powers, and win their first major battles — but at great cost._
 
-| Book | Title                  | Focus Character   | Core Conflict                                                                                       |
-| ---- | ---------------------- | ----------------- | --------------------------------------------------------------------------------------------------- |
-| 1    | **Sunblade Rising**    | Itzil (Commander) | Village raid, stolen relic, first demon gate, reluctant alliance forms, Kaelen introduced           |
-| 2    | **The Mirror Siege**   | Kaelen (Scout)    | Dominion attacks through mirrors, spy infiltration, first major loss, contract magic revealed       |
-| 3    | **Ash Oaths**          | Zariel (Diplomat) | Contract magic enslaves families, undercover in Dominion court, internal rivalry threatens alliance |
-| 4    | **The Starless Crown** | Jagren (Duelist)  | First confrontation with VASTRIX, liberation uprising, pyrrhic victory — war has barely begun       |
+| Book | Title                                          | Focus Character   | Core Conflict                                                                                       |
+| ---- | ---------------------------------------------- | ----------------- | --------------------------------------------------------------------------------------------------- |
+| 1    | **Sunblade Rising - A Blade Forged in Light**  | Itzil (Commander) | Village raid, stolen relic, first demon gate, reluctant alliance forms, Kaelen introduced           |
+| 2    | **The Mirror Siege - Reflections of Betrayal** | Kaelen (Scout)    | Dominion attacks through mirrors, spy infiltration, first major loss, contract magic revealed       |
+| 3    | **Ash Oaths - Bonds Written in Blood**         | Zariel (Diplomat) | Contract magic enslaves families, undercover in Dominion court, internal rivalry threatens alliance |
+| 4    | **The Starless Crown - The Darkness Unveiled** | Jagren (Duelist)  | First confrontation with VASTRIX, liberation uprising, pyrrhic victory — war has barely begun       |
 
 **Act I ends with:** A major victory that costs them dearly — they defeat the Dominion's first wave but VASTRIX reveals himself as something far beyond what they imagined. The war is not over. It has barely begun.
 
@@ -92,12 +92,12 @@ _The heroes discover the threat, unite, learn their powers, and win their first 
 **Theme: Escalation, Loss, Fracture, Transformation**
 _The Dominion strikes back harder. Heroes are separated, tested individually, broken and reforged. New allies and enemies emerge. The war goes global._
 
-| Book | Title                    | Focus Character     | Core Conflict                                                                                        |
-| ---- | ------------------------ | ------------------- | ---------------------------------------------------------------------------------------------------- |
-| 5    | **The Serpent's Gambit** | Kaelen (Scout)      | Kaelen goes deep undercover alone inside the Dominion, identity crisis, sacred sites weaponized      |
-| 6    | **Rain of Obsidian**     | Rainara (Mystic)    | Water sources corrupted by demon magic, Rainara awakens ancient water spirits, aerial war escalates  |
-| 7    | **Feathers and Bone**    | Skyren (Hawk Rider) | Skyren captured, escape from a sky-prison, Gravok launches a continental hunt                        |
-| 8    | **The Shattered Blade**  | Itzil (Commander)   | Itzil's katana breaks. Solkren must reforge it. Itzil faces her deepest doubt. Everything seems lost |
+| Book | Title                                          | Focus Character     | Core Conflict                                                                                        |
+| ---- | ---------------------------------------------- | ------------------- | ---------------------------------------------------------------------------------------------------- |
+| 5    | **The Serpent's Gambit - A Spy Among Shadows** | Kaelen (Scout)      | Kaelen goes deep undercover alone inside the Dominion, identity crisis, sacred sites weaponized      |
+| 6    | **Rain of Obsidian - Tides of Dark Magic**     | Rainara (Mystic)    | Water sources corrupted by demon magic, Rainara awakens ancient water spirits, aerial war escalates  |
+| 7    | **Feathers and Bone - Wings of Defiance**      | Skyren (Hawk Rider) | Skyren captured, escape from a sky-prison, Gravok launches a continental hunt                        |
+| 8    | **The Shattered Blade - Forged Through Fire**  | Itzil (Commander)   | Itzil's katana breaks. Solkren must reforge it. Itzil faces her deepest doubt. Everything seems lost |
 
 **Act II ends with:** The heroes are scattered, some captured, some changed. Itzil's blade is reforged but she is not the same person. The Dominion controls 70% of the known world. VASTRIX opens the Great Gate. Everything seems lost.
 
@@ -108,12 +108,12 @@ _The Dominion strikes back harder. Heroes are separated, tested individually, br
 **Theme: Reunion, Final War, Sacrifice, Legacy**
 _The heroes reunite, forge impossible alliances, confront every villain, and face VASTRIX in a war that will determine the fate of all worlds._
 
-| Book | Title                       | Focus Character   | Core Conflict                                                                     |
-| ---- | --------------------------- | ----------------- | --------------------------------------------------------------------------------- |
-| 9    | **The Forge of Souls**      | Solkren (Armorer) | Solkren builds the ultimate weapons for the final war, tempted by forbidden power |
-| 10   | **The Mirror Queen**        | Neyla (Healer)    | Neyla confronts Mirathane in the mirror-realm, healing vs. memory-killing         |
-| 11   | **Crown of Stars**          | Itzil (Commander) | The allied army storms the Dominion capital, every villain confronted             |
-| 12   | **The Sun That Never Sets** | ALL CHARACTERS    | Final battle with VASTRIX, the Great Gate, choosing the future of all worlds      |
+| Book | Title                                             | Focus Character   | Core Conflict                                                                     |
+| ---- | ------------------------------------------------- | ----------------- | --------------------------------------------------------------------------------- |
+| 9    | **The Forge of Souls - The Price of Power**       | Solkren (Armorer) | Solkren builds the ultimate weapons for the final war, tempted by forbidden power |
+| 10   | **The Mirror Queen - Realm of Shattered Glass**   | Neyla (Healer)    | Neyla confronts Mirathane in the mirror-realm, healing vs. memory-killing         |
+| 11   | **Crown of Stars - The Final Siege**              | Itzil (Commander) | The allied army storms the Dominion capital, every villain confronted             |
+| 12   | **The Sun That Never Sets - Dawn of a New World** | ALL CHARACTERS    | Final battle with VASTRIX, the Great Gate, choosing the future of all worlds      |
 
 **Act III ends with:** VASTRIX defeated (or transcended), the Great Gate sealed (or transformed), the Dominion broken, and the heroes choosing what kind of world to build. Not a fairy-tale ending — an earned, bittersweet, powerful conclusion.
 
@@ -787,22 +787,22 @@ There are **two different kinds** of image prompts we use, and they serve differ
 
 **Format:** `[Series Name] Book [N]: [Main Title] — [Subtitle]`
 
-**Current 12-book titles (subtitles to be finalized when chapter outlines are complete):**
+**All 12-book titles with subtitles (FINALIZED):**
 
-| Book | Main Title                  | Focus Character     |
-| ---- | --------------------------- | ------------------- |
-| 1    | **Sunblade Rising**         | Itzil (Commander)   |
-| 2    | **The Mirror Siege**        | Kaelen (Scout)      |
-| 3    | **Ash Oaths**               | Zariel (Diplomat)   |
-| 4    | **The Starless Crown**      | Jagren (Duelist)    |
-| 5    | **The Serpent's Gambit**    | Kaelen (Scout)      |
-| 6    | **Rain of Obsidian**        | Rainara (Mystic)    |
-| 7    | **Feathers and Bone**       | Skyren (Hawk Rider) |
-| 8    | **The Shattered Blade**     | Itzil (Commander)   |
-| 9    | **The Forge of Souls**      | Solkren (Armorer)   |
-| 10   | **The Mirror Queen**        | Neyla (Healer)      |
-| 11   | **Crown of Stars**          | Itzil (Commander)   |
-| 12   | **The Sun That Never Sets** | ALL CHARACTERS      |
+| Book | Full Title                                        | Focus Character     |
+| ---- | ------------------------------------------------- | ------------------- |
+| 1    | **Sunblade Rising - A Blade Forged in Light**     | Itzil (Commander)   |
+| 2    | **The Mirror Siege - Reflections of Betrayal**    | Kaelen (Scout)      |
+| 3    | **Ash Oaths - Bonds Written in Blood**            | Zariel (Diplomat)   |
+| 4    | **The Starless Crown - The Darkness Unveiled**    | Jagren (Duelist)    |
+| 5    | **The Serpent's Gambit - A Spy Among Shadows**    | Kaelen (Scout)      |
+| 6    | **Rain of Obsidian - Tides of Dark Magic**        | Rainara (Mystic)    |
+| 7    | **Feathers and Bone - Wings of Defiance**         | Skyren (Hawk Rider) |
+| 8    | **The Shattered Blade - Forged Through Fire**     | Itzil (Commander)   |
+| 9    | **The Forge of Souls - The Price of Power**       | Solkren (Armorer)   |
+| 10   | **The Mirror Queen - Realm of Shattered Glass**   | Neyla (Healer)      |
+| 11   | **Crown of Stars - The Final Siege**              | Itzil (Commander)   |
+| 12   | **The Sun That Never Sets - Dawn of a New World** | ALL CHARACTERS      |
 
 ---
 

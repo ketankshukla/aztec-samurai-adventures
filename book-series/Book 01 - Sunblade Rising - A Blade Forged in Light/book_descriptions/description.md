@@ -1,6 +1,6 @@
-# Book Description — Aztec Samurai Adventures Book 1: Sunblade Rising
+# Book Description — Aztec Samurai Adventures Book 1: Sunblade Rising - A Blade Forged in Light
 
-## Subtitle: When the Sun-Blade Chooses Its Bearer, the War Begins
+## Subtitle: A Blade Forged in Light
 
 ---
 
