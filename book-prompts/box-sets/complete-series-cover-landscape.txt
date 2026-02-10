@@ -41,23 +41,31 @@ The series logo emblem (the obsidian/jade/gold sun-disc katana medallion) is ren
 
 CRITICAL COMPOSITION RULE — LANDSCAPE FORMAT:
 
-Itzil's face must be centered vertically at approximately 45-55% from the top and horizontally at exactly 50%. The top 25% is reserved for sky transitions (golden dawn → Starless Crown → shattering Crown → sunrise) and text. The bottom 12% is reserved for foreground and author name. The three-act transition must be readable even at thumbnail — gold left, dark center, bright right, with the blade's golden column at center.
+The image is divided into THREE strict zones with NO overlap:
+
+  ZONE 1 — TEXT BLOCK (top 0-18%): ALL text except author name. This zone contains ONLY text, decorative lines, and sky/atmospheric background. NO characters, NO weapons, NO figures of any kind may appear in this zone.
+
+  ZONE 2 — CHARACTER ZONE (25-88%): Itzil centered horizontally at 50%, rendered from waist-up at a scale that fits entirely within this zone. Her head no higher than 30% from top. Flanking figures (Kaelen, Jagren) smaller and contained within this zone. All background figures (army silhouettes, ensemble) also within this zone.
+
+  ZONE 3 — AUTHOR NAME (90-96%): ONLY the author name. Nothing else.
+
+There must be a CLEAR VISUAL GAP between the bottom of the text block (Zone 1) and the top of any character's head (Zone 2). No text overlaps any character. No character overlaps any text. The three-act transition must be readable even at thumbnail — gold left, dark center, bright right, with the blade's golden column at center.
 
 TEXT — RENDERED EXACTLY AS SPECIFIED FOR LANDSCAPE FORMAT:
 
-IMPORTANT: ALL text lines EXCEPT the author name must appear at the TOP of the image (within the top 25%). ONLY the author name appears at the BOTTOM. No text in the middle of the image.
+ALL text lines EXCEPT the author name are clustered at the TOP of the image. ONLY the author name appears at the BOTTOM. There is NO text whatsoever between 18% and 90% from the top.
 
-Line 1 (4% from top, left-aligned at 5%): "AZTEC SAMURAI ADVENTURES" — Trajan Pro, turquoise (#40E0D0), letter-spacing 0.15em. The most prominent rendering of the series name — slightly larger than individual covers (~16pt equivalent).
+Line 1 (3% from top, left-aligned at 5%): "AZTEC SAMURAI ADVENTURES" — Trajan Pro, turquoise (#40E0D0), letter-spacing 0.15em. The most prominent rendering of the series name — slightly larger than individual covers (~16pt equivalent).
 
-Line 2 (8% from top, left-aligned at 5%): "THE COMPLETE SERIES" — Trajan Pro, gold (#FFD700), letter-spacing 0.2em.
+Line 2 (6% from top, left-aligned at 5%): "THE COMPLETE SERIES" — Trajan Pro, gold (#FFD700), letter-spacing 0.2em.
 
-Line 3 (12% from top, left-aligned at 5%): "ALL TWELVE BOOKS" — large bold Trajan Pro, white/cream with golden radiance.
+Line 3 (9% from top, left-aligned at 5%): "ALL TWELVE BOOKS" — large bold Trajan Pro, white/cream with golden radiance.
 
-Decorative ornamental line (16% from top, left-aligned at 5%, extending ~35% width): The comprehensive 12-book filigree divider — every motif from the series unified: sun-discs, mirrors, oaths, crowns, serpents, water, feathers, blades, forges, healing, stars, dawn.
+Decorative ornamental line (12% from top, left-aligned at 5%, extending ~35% width): The comprehensive 12-book filigree divider — every motif from the series unified: sun-discs, mirrors, oaths, crowns, serpents, water, feathers, blades, forges, healing, stars, dawn.
 
-Line 4 (19% from top, left-aligned at 5%): "The Rising | The Breaking | The Reckoning" — small Trajan Pro, cream/gold — the three act names.
+Line 4 (14% from top, left-aligned at 5%): "The Rising | The Breaking | The Reckoning" — small Trajan Pro, cream/gold — the three act names.
 
-Line 5 (22% from top, left-aligned at 5%): "One Woman. One Blade. Twelve Books. The Complete Epic Fantasy Saga." — small italic Trajan Pro, warm golden-cream.
+Line 5 (17% from top, left-aligned at 5%): "One Woman. One Blade. Twelve Books. The Complete Epic Fantasy Saga." — small italic Trajan Pro, warm golden-cream.
 
 Line 6 (93% from top, centered horizontally): "KETAN SHUKLA" — large Trajan Pro, white/cream with golden warmth, letter-spacing 0.2em.
 
