@@ -1,0 +1,32 @@
+# Book Description — Aztec Samurai Adventures Book 12: The Sun That Never Sets - Dawn of a New World
+
+## Subtitle: Dawn of a New World
+
+---
+
+<b>The war is over. The world is saved. Now comes the harder part: figuring out what to do with the world you saved.</b>
+
+<p>The Gate is rubble. The Crown is golden snow. The sky is clear for the first time in years. And nine heroes who gave everything to save the world must now learn to live in it.</p>
+
+<p><b>In this book:</b></p>
+<ul>
+<li>A healer frees the last slaves and hears a mother say: "I remember my daughter's name"</li>
+<li>A duelist walks the battlefield counting the dead — because someone should</li>
+<li>A water-mystic purifies a river and finds peace for the first time since her captivity</li>
+<li>An engineer draws blueprints by candlelight — not for weapons, but for homes</li>
+<li>A commander refuses a crown: "I didn't fight a tyrant to become one"</li>
+<li>Names carved in obsidian — heroes and villains together. "In death, there are no sides"</li>
+<li>A house with a view. Morning training. Evening walks. Quiet dinners. The ordinary miracle</li>
+<li>A young warrior asks: "How do you know you're ready?" Answer: "You don't. You just show up"</li>
+<li>And somewhere at the edge of the world — a child finds a shard that pulses with light older than anything the series has seen</li>
+</ul>
+
+<p><i>The Sun That Never Sets</i> is the final book of the <i>Aztec Samurai Adventures</i> — the chapter where swords become plowshares, blades become door hinges, and the people who saved the world discover that the ordinary is the most precious thing in it.</p>
+
+<p>For fans of <i>The Return of the King's</i> scouring and healing chapters, <i>The Last Battle's</i> final dawn, and stories where the ending is not an explosion but a sunrise.</p>
+
+<p><i>"Show up. Give willingly. Choose each other."</i></p>
+
+<p><i>"The sun never sets on those who refuse to kneel."</i></p>
+
+<p><b>Book 12 of 12. The final book of Act III: The Reckoning. The conclusion of the <i>Aztec Samurai Adventures</i>. From Ketan Shukla, published by Metronagon.</b></p>
