@@ -1178,7 +1178,9 @@ _All 10 heroes and 10 villains renamed with pronounceable, memorable names._
 
 _4 elder characters designed: Korvain (hero grandmaster), Amalura (hero lore-master), Valdremor (villain sorcerer emeritus), Serenthar (villain oracle). Full profiles with appearance, personality, dialogue, arcs, and relationship dynamics._
 
-### Step 4️⃣ — Create the Master Arc Outline (12-book story arc with death schedule)
+### Step 4️⃣ — ~~Create the Master Arc Outline~~ ✅ COMPLETE
+
+_Full 12-book story arc created in `master-arc-outline.md`. Includes key beats per book, character arcs, villain defeat timeline, death schedule (Miyako Book 7, Korvain Book 8), romance progression, and series-wide escalation tracker._
 
 ### Step 5️⃣ — Create Chapter Outlines for all 12 books (24 chapters each with cliffhangers)
 
@@ -1204,4 +1206,4 @@ _4 elder characters designed: Korvain (hero grandmaster), Amalura (hero lore-mas
 
 _This document is a living plan. It will be updated as we discuss and refine our approach._
 
-_Last updated: February 9, 2026 — Prompt #8 update (Elder characters DESIGNED: Korvain, Amalura, Valdremor, Serenthar. Non-fiction KDP update advice given. Step 3 complete.)_
+_Last updated: February 9, 2026 — Prompt #9 update (Master Arc Outline CREATED: full 12-book story arc with beats, deaths, villain defeats, romance progression, escalation tracker. Step 4 complete.)_

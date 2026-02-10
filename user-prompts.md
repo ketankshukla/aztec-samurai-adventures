@@ -425,4 +425,50 @@ The non-fiction books will continue to sell as-is. But since the user wants them
 
 ---
 
+## 🔖 PROMPT #9 — February 9, 2026, ~5:09 PM PST
+
+### 👤 USER REQUEST: Proceed with Step 4 — Create the Master Arc Outline
+
+**Details:**
+
+- User answered the non-fiction KDP question and said "go for it" to proceed with Step 4
+- Step 4: Create the Master Arc Outline — the full 12-book story arc with death schedule
+
+### 🤖 AI RESPONSE:
+
+Created `master-arc-outline.md` — a comprehensive document covering all 12 books with:
+
+**Act I — The Rising (Books 1–4):**
+
+- Book 1: Sunblade Rising (Itzil) — team assembles, Sun-Blade manifests, first Dominion encounter
+- Book 2: The Mirror Siege (Kaelen) — mirror-portal attacks, Gravok captured, Miyako joins
+- Book 3: Ash Oaths (Zariel) — diplomatic battle, Pearlvaine outmaneuvered, alliance forged
+- Book 4: The Starless Crown (Jagren) — Volzentar's trap, Ashvanar killed, Skyren introduced, army devastated
+
+**Act II — The Breaking (Books 5–8):**
+
+- Book 5: The Serpent's Gambit (Kaelen) — Rainara rescued, Valdremor appears, Relicara broken
+- Book 6: Rain of Obsidian (Rainara) — base falls, alliance scattered, Amalura captured
+- Book 7: Feathers and Bone (Skyren) — reunion, Helisar's factory, **Miyako dies**
+- Book 8: The Shattered Blade (Itzil) — temple race, **Sun-Blade shatters**, **Korvain dies**, first kiss
+
+**Act III — The Reckoning (Books 9–12):**
+
+- Book 9: The Forge of Souls (Solkren) — blade reforged from hero souls, Amalura rescued, VASTRIX speaks
+- Book 10: The Mirror Queen (Neyla) — ash-oath reversal campaign, Mirathane trapped, Great Gate weakened
+- Book 11: Crown of Stars (Itzil) — capital siege, Nightshade falls, Valdremor outsmarted, Serenthar switches sides
+- Book 12: The Sun That Never Sets (ALL) — VASTRIX enters, remaining villains fall, Serenthar sacrifices to close Gate, final strike, epilogue
+
+**Tracking tables included:**
+
+- Death schedule (2 hero deaths: Miyako Book 7, Korvain Book 8)
+- Villain defeat timeline (all 10 + VASTRIX resolved)
+- Romance progression (12-book slow burn → first kiss Book 8 → married in epilogue)
+- Character arc tracker (every hero's transformation)
+- Series-wide escalation (village → cosmic)
+
+**Step 4 marked ✅ COMPLETE in book-ideas.md.**
+
+---
+
 _End of discussion log. This file will be updated with each new prompt before pushing to GitHub._
