@@ -1,0 +1,14 @@
+Dimensions: 2000 x 2000 pixels (square, transparent background option)
+
+Prompt:
+
+Sharp photorealistic emblem on deep obsidian-black background, 2000x2000 pixels. NO oil painting, NO painterly style.
+
+Circular sun-disc emblem combining Mesoamerican stepped-pyramid geometry with Japanese katana elements. Outer ring: carved obsidian with gold inlay in Aztec geometric patterns. Inner circle: vertical katana silhouette with jade blade, tsuba shaped as sun-disc with radiating golden rays. Turquoise gemstone accents at four cardinal points. Subtle golden warmth as if lit from within.
+
+TEXT (rendered below emblem):
+
+"AZTEC SAMURAI ADVENTURES" — elegant Trajan Pro, gold (#FFD700) with subtle turquoise shadow, letter-spacing 0.15em, centered.
+Below that: "BY KETAN SHUKLA" — smaller Trajan Pro, turquoise (#40E0D0), centered.
+Photorealistic metalwork rendering — must look like a real artifact, not a painting.
+
