@@ -361,4 +361,41 @@ _Updated before every GitHub push._
 
 ---
 
+## 🔖 PROMPT #7 — February 9, 2026, ~5:01 PM PST
+
+### 👤 USER REQUEST: Amazon Branding Decision — Metronagon + Real Name
+
+**Details:**
+
+- User has 6 non-fiction books already published but not yet marketed
+- Wants to use **Metronagon** as the publisher (website already registered)
+- Also wants to be recognized as a fiction writer — readers should see his name on the book
+- Asked: "Can I go with Metronagon as well as my own name?"
+
+### 🤖 AI RESPONSE:
+
+**Answer: Yes — this is exactly how it works.**
+
+Amazon KDP has two separate fields:
+
+- **Author Name** = **Ketan Shukla** (appears on cover, Amazon listing, search results)
+- **Publisher/Imprint** = **Metronagon** (appears on copyright page, Amazon detail page, A+ Content)
+
+This is the standard indie publishing setup. Think of Metronagon as the publishing company and yourself as its star author. Benefits:
+
+- **Personal recognition** — your name is front and center, building your brand as a fiction writer
+- **Professional credibility** — Metronagon makes you look like a real publishing house
+- **Unified brand** — non-fiction + fiction all under the Metronagon umbrella
+- **Metronagon.com** becomes the publishing hub for ALL your titles
+
+**Existing catalog strategy:**
+
+- Keep all 6 non-fiction books under Ketan Shukla as author
+- Optionally update their publisher field to Metronagon to unify the brand
+- When the fiction series takes off, it lifts the author name which lifts ALL books
+
+**Decision: CONFIRMED.** Updated `book-ideas.md` — A+ Branding section now marked ✅ CONFIRMED with Metronagon as publisher and Ketan Shukla as author.
+
+---
+
 _End of discussion log. This file will be updated with each new prompt before pushing to GitHub._

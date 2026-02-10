@@ -964,65 +964,47 @@ All cover prompts must explicitly include:
 
 ---
 
-## � AMAZON A+ CONTENT & BRANDING (UNDER DISCUSSION)
+## ✅ AMAZON A+ CONTENT & BRANDING (CONFIRMED)
 
-### ❓ THE QUESTION
+### 🏷️ THE DECISION
 
-Should you brand as yourself (personal name) or as **Metronagon** (your self-publishing company)? Should you create a new KDP account?
+**Publisher/Imprint:** Metronagon
+**Author Name:** Ketan Shukla (real name)
+
+This is the standard indie publishing setup — two separate fields on Amazon KDP:
+
+- **Author field** = **Ketan Shukla** — appears prominently on the cover, Amazon listing, and search results. Readers see YOU as the writer and recognize you can write fiction.
+- **Publisher field** = **Metronagon** — appears on the copyright page, Amazon detail page, A+ Content branding, and business documents.
+
+**What readers see on the cover:** `by Ketan Shukla`
+**What the copyright page says:** `Published by Metronagon`
+**What Amazon shows:** `Publisher: Metronagon`
 
 ### ⚠️ DO NOT CREATE A NEW KDP ACCOUNT
 
-**Amazon's Terms of Service allow only ONE KDP account per person.** Creating a second risks having BOTH accounts banned permanently. Instead:
+**Amazon's Terms of Service allow only ONE KDP account per person.** Creating a second risks having BOTH accounts banned permanently. Use the existing account and set the publisher/imprint to Metronagon on a per-book basis.
 
-- **Use your existing KDP account**
-- Publish the Aztec Samurai Adventures under **Metronagon** as the **publisher/imprint name** (KDP allows this per-book)
-- Your personal name (or a pen name) stays as the **author name**
-- Result: `Published by Metronagon | Author: [Your Name or Pen Name]`
-- Your existing books under your own name stay exactly as they are
+### � EXISTING CATALOG STRATEGY
 
-### 💡 RECOMMENDATION: METRONAGON AS IMPRINT + AUTHOR NAME CHOICE
+6 non-fiction books already published (not yet marketed). Strategy:
 
-**Use Metronagon as the publisher/imprint** — it's professional, brandable, and memorable. It appears:
-
-- In the book's copyright page
-- On the Amazon detail page (publisher field)
-- In A+ Content branding modules
-- On invoices and business documents
-
-**For the author name, you have two options:**
-
-**Option 1: Use your real name**
-
-- ✅ Builds on existing reader base from your other published books
-- ✅ One identity = simpler to manage
-- ❌ If your existing books are a completely different genre, readers may be confused
-
-**Option 2: Use a pen name**
-
-- ✅ Clean separation between your existing books and this YA fantasy series
-- ✅ Creates a fresh brand specifically for fiction
-- ✅ Allows you to market to teens without them seeing your non-fiction catalog
-- ❌ Requires building a new author following from scratch
-
-**🏆 If your existing books are non-fiction or a different genre → use a pen name.**
-**🏆 If your existing books are also fiction → use your real name.**
+- **Keep all existing books** under Ketan Shukla as author
+- **Update their publisher field** to Metronagon (optional — unifies the brand)
+- **Metronagon.com** becomes the unified publishing hub showcasing ALL titles (non-fiction + fiction)
+- Cross-pollination: non-fiction readers discover the fiction series and vice versa
+- When the fiction series takes off, it lifts the author name which lifts ALL books
 
 ### 📊 A+ CONTENT STRATEGY
 
-Amazon A+ Content (available after brand registry or KDP enrollment) allows enhanced product pages. Strategy:
+Amazon A+ Content (available after brand registry or KDP enrollment) allows enhanced product pages:
 
 1. **Brand Story Module** — Metronagon branding: mission, visual identity, "who we are"
 2. **Character Showcase Module** — Hero and villain images with brief descriptions (use character reference art)
 3. **Series Reading Order Module** — Visual guide showing all 12 books in order with covers
 4. **Comparison Chart Module** — "If you liked Percy Jackson / Eragon / Shadow and Bone, you'll love this"
-5. **Author Bio Module** — Professional photo + compelling bio
+5. **Author Bio Module** — Professional photo + compelling bio for Ketan Shukla
 
 **Why this matters:** Most indie authors skip A+ Content entirely. Having it makes your listing look **premium** — like a traditionally published book. This directly improves click-through rate and conversions.
-
-### ⏳ DECISION NEEDED
-
-1. Do you want to use your real name or a pen name for this series?
-2. What genre are your existing published books?
 
 ---
 
@@ -1066,4 +1048,4 @@ _All 10 heroes and 10 villains renamed with pronounceable, memorable names._
 
 _This document is a living plan. It will be updated as we discuss and refine our approach._
 
-_Last updated: February 9, 2026 — Prompt #6 update (ALL DECISIONS FINALIZED: 12 books confirmed, all character names locked, Kaelen confirmed as love interest, third person limited close POV, title+subtitle format, Debut→Spotlight covers, epilogue formula, box set strategy, Amazon A+ branding discussion added)_
+_Last updated: February 9, 2026 — Prompt #7 update (Amazon A+ branding CONFIRMED: Metronagon as publisher/imprint + Ketan Shukla as author name. All previous decisions remain locked.)_
