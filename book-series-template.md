@@ -70,37 +70,40 @@ _[A one-line tagline that captures the essence of the series]_
 **Books per Act:** [e.g., 4]
 
 ### ACT I — [ACT NAME] (Books 1–[N])
+
 **Theme:** [e.g., Discovery, Alliance, First Victories]
 _[One-line description of what happens in this act]_
 
-| Book | Title | Focus Character | Core Conflict |
-|------|-------|-----------------|---------------|
-| 1 | [TITLE] | [CHARACTER] | [CONFLICT] |
-| 2 | [TITLE] | [CHARACTER] | [CONFLICT] |
-| 3 | [TITLE] | [CHARACTER] | [CONFLICT] |
-| 4 | [TITLE] | [CHARACTER] | [CONFLICT] |
+| Book | Title   | Focus Character | Core Conflict |
+| ---- | ------- | --------------- | ------------- |
+| 1    | [TITLE] | [CHARACTER]     | [CONFLICT]    |
+| 2    | [TITLE] | [CHARACTER]     | [CONFLICT]    |
+| 3    | [TITLE] | [CHARACTER]     | [CONFLICT]    |
+| 4    | [TITLE] | [CHARACTER]     | [CONFLICT]    |
 
 **Act I ends with:** [How does this act conclude? What cliffhanger leads into Act II?]
 
 ### ACT II — [ACT NAME] (Books [N+1]–[M])
+
 **Theme:** [e.g., Escalation, Loss, Fracture, Transformation]
 _[One-line description]_
 
-| Book | Title | Focus Character | Core Conflict |
-|------|-------|-----------------|---------------|
-| [N+1] | [TITLE] | [CHARACTER] | [CONFLICT] |
-| ... | ... | ... | ... |
+| Book  | Title   | Focus Character | Core Conflict |
+| ----- | ------- | --------------- | ------------- |
+| [N+1] | [TITLE] | [CHARACTER]     | [CONFLICT]    |
+| ...   | ...     | ...             | ...           |
 
 **Act II ends with:** [How does this act conclude?]
 
 ### ACT III — [ACT NAME] (Books [M+1]–[FINAL])
+
 **Theme:** [e.g., Reunion, Final War, Sacrifice, Legacy]
 _[One-line description]_
 
-| Book | Title | Focus Character | Core Conflict |
-|------|-------|-----------------|---------------|
-| [M+1] | [TITLE] | [CHARACTER] | [CONFLICT] |
-| ... | ... | ... | ... |
+| Book  | Title   | Focus Character | Core Conflict |
+| ----- | ------- | --------------- | ------------- |
+| [M+1] | [TITLE] | [CHARACTER]     | [CONFLICT]    |
+| ...   | ...     | ...             | ...           |
 
 **Act III ends with:** [How does the series conclude?]
 
@@ -110,31 +113,33 @@ _[One-line description]_
 
 ### PROTAGONIST TEAM
 
-| Name | Role | Brief Description |
-|------|------|-------------------|
+| Name   | Role                                    | Brief Description                                           |
+| ------ | --------------------------------------- | ----------------------------------------------------------- |
 | [NAME] | [ROLE — e.g., Commander, Scout, Healer] | [1-2 sentences: personality, appearance, weapon/power, arc] |
-| [NAME] | [ROLE] | [Description] |
-| ... | ... | ... |
+| [NAME] | [ROLE]                                  | [Description]                                               |
+| ...    | ...                                     | ...                                                         |
 
 **Protagonist Leader:** [NAME] — present in EVERY book. Arc: [START STATE] → [END STATE]
 
 ### ANTAGONIST TEAM
 
-| Name | Role | Brief Description |
-|------|------|-------------------|
+| Name   | Role                                       | Brief Description                                           |
+| ------ | ------------------------------------------ | ----------------------------------------------------------- |
 | [NAME] | [ROLE — e.g., Warlord, Assassin, Sorcerer] | [1-2 sentences: personality, appearance, weapon/power, arc] |
-| [NAME] | [ROLE] | [Description] |
-| ... | ... | ... |
+| [NAME] | [ROLE]                                     | [Description]                                               |
+| ...    | ...                                        | ...                                                         |
 
 **Antagonist Leader:** [NAME] — present in EVERY book. Arc: [START STATE] → [END STATE]
 
 ### ELDER/MENTOR CHARACTERS
 
 **Protagonist Elders (at least 2):**
+
 - [NAME] — [ROLE, e.g., Retired grandmaster, Lore keeper] — [Language style: e.g., warm but firm, proverbs]
 - [NAME] — [ROLE] — [Language style]
 
 **Antagonist Elders (at least 2):**
+
 - [NAME] — [ROLE, e.g., Former high sorcerer, Oracle] — [Language style: e.g., cold, elegant, logical]
 - [NAME] — [ROLE] — [Language style]
 
@@ -153,6 +158,7 @@ _[One-line description]_
 ## 💕 ROMANCE
 
 **Primary Romance:** [CHARACTER A] and [CHARACTER B]
+
 - **Act I:** [How it starts — e.g., mutual respect, tension]
 - **Act II:** [How it develops — e.g., growing trust, tested by separation]
 - **Act III:** [How it resolves — e.g., full partnership, fighting together]
@@ -169,11 +175,13 @@ _[One-line description]_
 **Total across series:** [2-4] maximum.
 
 **Characters who NEVER die:**
+
 - [PROTAGONIST NAME] — the heart of the series
 - [ROMANTIC INTEREST NAME] — killing a love interest feels punishing
 - [COMIC RELIEF NAME] — their death would feel like the series lost its soul
 
 **Death candidates (not confirmed — to be decided during outlining):**
+
 - [NAME] — [Why they could die and what it would mean]
 - [NAME] — [Why they could die and what it would mean]
 
@@ -184,6 +192,7 @@ _[One-line description]_
 **POV:** [e.g., Third person limited, close POV / First person / Omniscient]
 
 **Voice Rules:**
+
 - [e.g., Short, punchy sentences in action scenes]
 - [e.g., Vivid sensory details]
 - [e.g., Emotional honesty — characters feel things intensely]
@@ -191,6 +200,7 @@ _[One-line description]_
 - [e.g., Villains who are genuinely scary AND fascinating]
 
 **Sample Voice Targets:**
+
 - **[CHARACTER]:** [Style] — _"[Sample dialogue]"_
 - **[CHARACTER]:** [Style] — _"[Sample dialogue]"_
 - **[VILLAIN]:** [Style] — _"[Sample dialogue]"_
@@ -209,7 +219,9 @@ _[One-line description]_
 ## ✍️ CHAPTER CLIFFHANGERS
 
 ### Within Each Book (Chapter-to-Chapter)
+
 Rotate between these types:
+
 - **Danger** — character in immediate peril
 - **Revelation** — shocking information revealed
 - **Emotional** — relationship rupture or sacrifice
@@ -218,6 +230,7 @@ Rotate between these types:
 - **Arrival** — someone or something unexpected appears
 
 ### Between Books (Book-to-Book)
+
 - Book ends with major victory BUT bigger threat revealed
 - Book ends with a character captured, missing, or transformed
 - Book ends with a game-changing revelation
@@ -230,6 +243,7 @@ Rotate between these types:
 **Approach:** [e.g., Time Skip + Passing the Torch + Letter to the Reader]
 
 **Requirements:**
+
 - Inspiring — reader finishes feeling empowered
 - Full of lessons learned
 - Emotionally satisfying — every arc resolved
@@ -246,16 +260,18 @@ Rotate between these types:
 Each book contains:
 
 ```
-[Series Name] Book [NN] - [Title]/
+Book [NN] - [Title] - [Subtitle]/
 ├── front_matter/
 │   ├── copyright.md
 │   ├── dedication.md
 │   ├── epigraph.md
-│   ├── preface.md
-│   ├── introduction.md
-│   └── prologue.md
+│   └── dramatis_personae.md
 ├── back_matter/
-│   └── epilogue.md
+│   ├── also_by.md
+│   ├── about_the_author.md
+│   ├── authors_note.md
+│   ├── connect.md
+│   └── review_request.md
 ├── book_descriptions/
 │   └── description.md
 ├── chapters/
@@ -270,21 +286,29 @@ Each book contains:
     └── book_[NN]_cover_prompts.md
 ```
 
+The `word-docs/` folder at the series root contains:
+
+- `make_book_docx.ps1` — PowerShell script that combines chapter markdown files into a single DOCX using Pandoc
+- One `.docx` file per book (generated, not hand-written)
+
 **Cross-book continuity sections:**
-- **"The Story So Far"** — dramatic recap of previous books (in introduction/prologue)
-- **"What Comes Next"** — tease for next book (in epilogue)
+
+- **"The Story So Far"** — dramatic recap of previous books (in dramatis_personae or introduction)
+- **"What Comes Next"** — tease for next book (in back matter)
 
 ---
 
 ## 🛒 AMAZON PUBLISHING TEMPLATE
 
 ### Book Metadata
+
 - **Title:** [Series Name] Book [N]: [Main Title] — [Subtitle]
 - **SEO Subtitle:** [Genre keywords woven naturally, e.g., "An Epic YA Fantasy Adventure of Warriors, Demons, and Ancient Power"]
 - **Series Name:** [YOUR SERIES NAME]
 - **Publisher/Imprint:** [YOUR COMPANY NAME or personal name]
 
 ### Keywords (7 per book)
+
 1. [keyword phrase related to genre + audience]
 2. [keyword phrase related to setting/theme]
 3. [keyword phrase related to target demo]
@@ -294,16 +318,19 @@ Each book contains:
 7. [keyword phrase with different comparison]
 
 ### Categories (Up to 3)
+
 1. [Primary category path]
 2. [Secondary category path]
 3. [Tertiary category — request via Amazon support]
 
 ### Pricing Strategy
+
 - Book 1: $0.99 or FREE (loss leader)
 - Books 2–[mid]: $2.99 (70% royalty threshold)
 - Books [mid+1]+: $3.99–$4.99
 
 ### Book Description Template
+
 ```
 [HOOK EMOJI] [OPENING LINE — e.g., "THE SAGA BEGINS..." or "THE SAGA CONTINUES..."]
 
@@ -343,12 +370,14 @@ Book [N] of [total] in the [Series Name] series.
 **Style:** [e.g., Sharp, photorealistic backgrounds with crisp detail — NOT oil painting, NOT watercolor]
 
 **Requirements:**
+
 - [e.g., Clear, visible action/battles behind main characters]
 - [e.g., Super detailed environments]
 - [e.g., High contrast — foreground characters POP]
 - [e.g., Cinematic realism — movie poster quality]
 
 **Text Structure:**
+
 - Series name position: [e.g., top ~3%]
 - Book number position: [e.g., ~6% from top]
 - Title block position: [e.g., ~10-22% from top]
@@ -358,6 +387,7 @@ Book [N] of [total] in the [Series Name] series.
 - Color scheme: [e.g., Turquoise + obsidian + gold]
 
 **Two types of prompts:**
+
 1. **Character Reference Prompts** — standalone portraits for visual consistency and marketing
 2. **Story-Specific Cover Prompts** — tied to each book's plot, 5 variants per book
 
@@ -380,15 +410,57 @@ Book [N] of [total] in the [Series Name] series.
 3. Create Master Arc Outline (full story arc with death schedule)
 4. Create Chapter Outlines for all books (with cliffhangers)
 5. Create the folder structure
-6. Create the Amazon Publishing Template
-7. Write Book 1 completely (all chapters, front/back matter, summaries)
-8. Review Book 1, refine the process
-9. Write remaining books
-10. Create all story-specific cover prompts
-11. Update character reference prompts with final names
-12. Create box set covers and descriptions
-13. Final 4Cs review across the entire series
+6. Create the Amazon Publishing Template (keywords, categories, descriptions, pricing)
+7. Write Book 1 completely (all chapters, front/back matter, summaries, description)
+8. Review Book 1, refine the process (standardize front/back matter files, chapter writing workflow)
+9. Write remaining books sequentially (front matter → 24 chapters → back matter → summaries → description per book)
+10. Generate DOCX files for all books (via Pandoc-based script with page breaks between chapters)
+11. Verify DOCX files (check for blank pages, formatting issues)
+12. Create all story-specific cover prompts
+13. Update character reference prompts with final names
+14. Create box set covers and descriptions
+15. Final 4Cs review across the entire series
+
+### 💡 LESSONS LEARNED (From the Aztec Samurai Adventures process)
+
+**Chapter writing workflow:**
+
+- Write chapters as individual UTF-8 markdown files using PowerShell `Set-Content -Encoding UTF8`
+- Each chapter file starts with a title line: `Chapter [N] - [TITLE IN CAPS]`
+- Write one chapter per AI response to avoid file conflicts and maintain quality
+- Commit and push after completing each book (not each chapter)
+
+**Front matter (4 files per book):**
+
+- `copyright.md` — standard copyright, ISBN placeholder, publisher info
+- `dedication.md` — personal dedication
+- `epigraph.md` — thematic quote (can be from the story's world)
+- `dramatis_personae.md` — character list organized by faction/role
+
+**Back matter (5 files per book):**
+
+- `also_by.md` — list of other books by the author
+- `about_the_author.md` — author biography
+- `authors_note.md` — reflection on themes and process for this book
+- `connect.md` — website, email, newsletter signup
+- `review_request.md` — reader review request with gratitude
+
+**DOCX generation:**
+
+- Use a PowerShell script (`make_book_docx.ps1`) that combines all chapter `.md` files into one DOCX via Pandoc
+- Use `pageBreakBefore` on chapter heading paragraphs (raw OpenXML) to avoid blank pages
+- Do NOT use standalone page break paragraphs — they cause blank pages when chapter content aligns with page boundaries
+- Verify every generated DOCX for blank pages using Word COM automation
+
+**File naming conventions:**
+
+- Book folders: `Book [NN] - [Title] - [Subtitle]`
+- Chapter files: `chapter_[NN]_[slug_with_underscores].md`
+- Chapter summaries: `chapter_[NN]_summary.md`
+- Book summary: `book_[NN]_summary.md`
 
 ---
 
-_This template was created from the Aztec Samurai Adventures planning process. It captures all decisions and frameworks in a reusable format._
+_This template was created from the Aztec Samurai Adventures planning process. It captures all decisions, frameworks, and lessons learned in a reusable format._
+
+_Last updated: February 10, 2026 — Updated with actual workflow, file structure, and DOCX generation lessons from completing all 12 books (443,812 words)._
