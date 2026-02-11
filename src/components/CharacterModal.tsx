@@ -160,7 +160,7 @@ export default function CharacterModal({
             className="overflow-y-auto max-h-[100vh] sm:max-h-[95vh]"
           >
             {/* Full character portrait — uncropped */}
-            <div className="relative">
+            <div className="relative pt-12 sm:pt-0">
               <img
                 src={character.image}
                 alt={character.name}
