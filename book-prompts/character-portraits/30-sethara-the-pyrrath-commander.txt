@@ -1,0 +1,65 @@
+CHARACTER PORTRAIT: SETHARA — PYRRATH'S COMMANDER
+TYPE: Character Portrait (matching ebook cover quality)
+DIMENSIONS: 1600 x 2400 pixels, 300 DPI, sRGB color profile
+
+---
+
+A breathtaking ultra-high-resolution photorealistic character portrait rendered at 1600x2400 pixels, 300 DPI, in sharp cinematic digital style with advanced volumetric lighting, ray-traced reflections, and subsurface skin scattering. This must look like a $200-million Hollywood movie poster — every surface, every texture, every particle of light rendered with obsessive photographic precision. ABSOLUTELY NO oil painting, NO watercolor, NO painterly brushstrokes, NO soft-focus artistic filters, NO traditional media aesthetic whatsoever. Every pixel must be razor-sharp, hyper-detailed, and cinematically lit.
+
+SUBJECT — DESERT CAVALRY PORTRAIT (PYRRATH'S COMMANDER):
+
+A fierce, striking woman of desert heritage in her early 30s — Commander Sethara, Pyrrath's desert commander — positioned in the lower-center of the image, face centered at approximately 60-75% down from the top. She is captured mounted on a powerful desert war-horse — visible from the waist up, one hand holding the reins with casual authority, the other resting on the hilt of a curved cavalry saber sheathed at her hip. Her posture is relaxed but alert — the practiced ease of someone who was born in the saddle and has commanded cavalry charges since her teens. Wind whips across the desert behind her, catching her distinctive copper-red hair and the sand-colored cloak billowing from her shoulders. She radiates the direct, uncompromising confidence of someone who counts the cost after the battle, not before.
+
+FACE — HYPER-DETAILED PHOTOREALISTIC DESERT BEAUTY:
+
+Sethara's face is strikingly beautiful in a fierce, sun-forged way — angular, strong, and weathered to a hard polish by desert wind and sun. Her bone structure is sharp and dramatic — high, prominent cheekbones creating strong shadows, a narrow jaw with a defined chin, and a high forehead partially covered by windblown copper hair. Her skin is deep golden-tan — the dark, even tan of someone who has spent their entire life under desert sun, with warm amber undertones. Photorealistic detail shows sun-weathered skin — tiny sun-lines at her eye corners, the particular smooth-rough texture of desert-dried skin, a scattering of sun-freckles across her nose and cheekbones that are charming and fierce simultaneously.
+
+Her eyes are her most commanding feature — sharp, direct, and a striking amber-green that is unique in the series. The irises are complex — warm amber at the center transitioning to a ring of clear green at the outer edges, with dark flecks that catch desert sunlight like sparks. These are the eyes of a cavalry commander — eyes that can read terrain, assess enemy formations, and calculate charge timing from a thousand yards. Her gaze is direct, unwavering, and challenging — the gaze of someone who does not suffer fools, does not hesitate, and does not retreat. Sharp catchlights blaze in each eye — reflections of the desert sky. Her lashes are dark and thick, her brows strong and expressive — currently raised slightly in the permanent expression of someone who is already planning her next attack.
+
+Her nose is straight and sharp — aristocratic, sun-burned slightly at the bridge. Her lips are well-shaped — naturally dark rose against her tanned skin, slightly chapped by desert wind, set in a confident, slightly crooked smile that suggests she knows something you don't and it involves cavalry. Her expression is pure desert confidence — direct, fearless, and slightly amused by everything that isn't a horse or a battlefield.
+
+HAIR — COPPER FIRE IN DESERT WIND:
+
+Her most distinctive feature — thick, wavy copper-red hair that blazes like fire in desert sunlight. The color is natural and extraordinary — deep copper at the roots transitioning to bright auburn-gold at the sun-bleached tips, a gradient created by years of desert sun. The hair is long, reaching past her shoulders, and currently whipping in desert wind — wild, untamed, streaming behind her like a battle standard. It is tied loosely at the nape with a leather cord that is clearly losing the battle against the wind. Individual strands fly across her face, catching golden sunlight and glowing like actual copper wire. Her hair is the most visually striking in the series after Itzil's — a flash of impossible color against the golden-brown desert.
+
+CLOTHING AND ARMOR — DESERT CAVALRY:
+
+Sethara wears Pyrrath desert cavalry armor — lightweight, practical, designed for mounted combat in extreme heat. A fitted leather cuirass of sand-colored leather reinforced with thin bronze plates at the chest and shoulders — lighter than any other commander's armor, designed for speed. The bronze plates are etched with Pyrrath's insignia — a running horse beneath a desert sun. A sand-colored cloak of light desert wool is clasped at her right shoulder — loose enough to billow dramatically, functional as sun protection and camouflage in sandy terrain. Beneath the cuirass, a fitted tunic of deep burnt-orange fabric — Pyrrath's color.
+
+Her cavalry saber is sheathed at her left hip — a curved, single-edged blade in a sand-colored leather scabbard with bronze fittings. The grip is wrapped in worn leather, the pommel a bronze horse-head. A compact recurve bow rides across her back — shorter than a foot archer's, designed for mounted shooting. Her riding gloves are fingerless, worn, and stained with leather oil and horse sweat. She wears riding boots to her knees — well-worn, practical, with spurs.
+
+BACKGROUND — THE DESERT FRONTIER AT GOLDEN HOUR:
+
+Behind Sethara and slightly out of focus, the vast Pyrrath desert at golden hour — an endless expanse of golden sand dunes and red-rock formations stretching to a burning horizon. The sun hangs low and enormous — a massive disc of molten gold pouring liquid amber light across the desert. In the middle distance, Pyrrath cavalry ride in formation — dozens of mounted warriors on lean desert horses, kicking up plumes of golden dust. Their silhouettes are dark against the blazing sky — a cavalry charge frozen in amber. The Pyrrath standard — a bronze horse-and-sun banner — flies from a lance at the formation's head.
+
+ATMOSPHERIC EFFECTS:
+
+Brilliant golden-hour desert light creates intense, warm illumination. Wind-blown sand creates a golden haze at the lower portions of the scene. Sethara's copper hair catches and amplifies the golden light — blazing like actual fire. Fine sand particles drift through the air. Heat-shimmer distorts the distant horizon. The cavalry formation kicks up a wall of golden dust that catches the sunset light and glows. The overall effect is fierce, golden, and free — the desert at its most beautiful and dangerous.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+
+Sethara's face must be positioned entirely BELOW the text area and ABOVE the quote at the bottom. Her face occupies roughly the 55%-82% vertical zone. The top 40% must contain ONLY background elements. NO part of her face, hair, or body may enter the top 35%.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED:
+
+All text is centered horizontally. All percentages measured from the TOP of the image.
+
+Line 1 (exactly 3% from top): "AZTEC SAMURAI ADVENTURES" — small elegant Trajan Pro font, turquoise color (#40E0D0), letter-spacing 0.15em, approximately 14pt equivalent. Subtle turquoise glow.
+
+Line 2 (exactly 8-16% from top): "SETHARA" — very large, bold Trajan Pro font, gold color (#FFD700) with warm copper-amber glow and subtle embossed quality. Dominant text element. Letter-spacing 0.15em. Approximately 72-80pt equivalent.
+
+Line 3 (exactly 18% from top): "Pyrrath's Commander" — medium Trajan Pro font, white/cream with warm desert-gold tones. Letter-spacing 0.1em. Approximately 24pt equivalent.
+
+Line 4 (exactly 21% from top): "Allied Desert Commander" — smaller Trajan Pro font, warm amber-gold color. Letter-spacing 0.1em. Approximately 16pt equivalent.
+
+Line 5 (exactly 24% from top): "Copper-Haired, Direct · Committed Regardless of Losses" — small italic Trajan Pro, light cream/gold. Approximately 12pt equivalent.
+
+Decorative ornamental line (exactly 26% from top): Elegant gold and turquoise ornamental filigree divider — Aztec-inspired geometric scrollwork with horse and desert-sun motifs. Gold (#FFD700) with turquoise (#40E0D0) accents.
+
+Line 6 (exactly 92% from top): "We ride. We fight. We do not count the cost." — italic Trajan Pro font, centered, cream/white with subtle golden glow, enclosed in elegant quotation marks. Approximately 14pt equivalent.
+
+OVERALL MOOD AND QUALITY:
+
+Fierce, golden, untamed — the feeling of standing at the edge of a desert watching a cavalry charge come thundering out of a sunset. Dominant palette: desert gold, copper-amber, burnt orange, and blazing sky. Sethara must radiate fierce, sun-forged beauty — not polished or refined but raw, windburned, and absolutely committed. A woman who leads from the front and counts the cost later.
+
+ABSOLUTELY NO oil painting texture. NO watercolor. NO canvas grain. NO painterly edges. PHOTOREALISTIC CINEMATIC DIGITAL ART — sharp, clean, precise, and devastatingly beautiful.

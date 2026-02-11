@@ -1,0 +1,63 @@
+CHARACTER PORTRAIT: TORVANE — THE ENGINEER
+TYPE: Character Portrait (matching ebook cover quality)
+DIMENSIONS: 1600 x 2400 pixels, 300 DPI, sRGB color profile
+
+---
+
+A breathtaking ultra-high-resolution photorealistic character portrait rendered at 1600x2400 pixels, 300 DPI, in sharp cinematic digital style with advanced volumetric lighting, ray-traced reflections, and subsurface skin scattering. This must look like a $200-million Hollywood movie poster — every surface, every texture, every particle of light rendered with obsessive photographic precision. ABSOLUTELY NO oil painting, NO watercolor, NO painterly brushstrokes, NO soft-focus artistic filters, NO traditional media aesthetic whatsoever. Every pixel must be razor-sharp, hyper-detailed, and cinematically lit.
+
+SUBJECT — QUIET GENIUS PORTRAIT (THE ENGINEER):
+
+A lean, wiry young man of indigenous Mesoamerican descent in his mid-20s — Torvane, the Engineer — positioned in the lower-center of the image, face centered at approximately 60-75% down from the top. He is captured mid-invention — hunched over a complex mechanical device on a workbench, one hand holding a delicate pair of brass calipers measuring a tiny component, the other hand steadying a half-assembled ward-disruptor that crackles with faint turquoise energy at its core. His eyes are narrowed in absolute concentration, seeing not the device but the system — the invisible architecture of forces and tolerances that will make this machine save lives. Around him, scattered across every surface, are the tools and components of impossible invention.
+
+FACE — HYPER-DETAILED PHOTOREALISTIC INTELLIGENCE:
+
+Torvane's face is quietly handsome in the way that intense focus makes any face compelling — not the dramatic beauty of warriors or diplomats, but the honest, compelling attractiveness of deep intelligence made visible. His bone structure is lean and angular — sharp cheekbones beneath taut skin, a narrow jaw with a slightly pointed chin, and a high forehead that dominates his face with intellectual prominence. His skin is warm brown — medium tone with olive undertones, slightly sallow from spending more time in workshops than sunlight. Photorealistic detail shows fine grease smudges across his right cheekbone and forehead — occupational marks of a man who builds with his hands. Small burn marks from soldering dot his fingers and the backs of his hands.
+
+His eyes are his defining feature — medium brown, wide-set, and extraordinarily alert. These are eyes that see the world as systems — every object a collection of forces, every problem a mechanism to be understood and solved. His gaze is currently fixed on the device with the absolute focus of a man for whom distraction is physically impossible when working. Behind the concentration, there is a quiet warmth — Torvane builds weapons because people he cares about need them, not because he enjoys destruction. Thin-framed brass spectacles perch on his nose — functional, slightly lopsided, one lens scratched from workshop accidents. His lashes are short and straight, his brows drawn together in the permanent furrow of deep thought.
+
+His nose is straight and narrow — precise, functional, like everything about him. His lips are average in fullness, naturally pressed together in concentration, occasionally quirking at one corner when a solution presents itself. His expression is quiet intensity — not the fierce fire of warriors but the steady burn of a mind that never stops working. A small scar on his chin from a workshop explosion. Charcoal smudges on his left temple where he's pushed his hair back with dirty hands.
+
+HAIR — PRACTICAL AND UNKEMPT:
+
+Dark brown, slightly wavy, cut to a practical medium length that he clearly doesn't think about. It falls across his forehead and temples in a perpetually disheveled state — pushed back repeatedly with grease-stained hands, creating unintentional texture. The hair is clean but unstyled — the hair of someone who has more important things to think about. A pair of brass-rimmed magnifying goggles pushed up onto his forehead hold his hair back from his eyes, leaving indentations in the strands where the strap presses.
+
+CLOTHING — INVENTOR'S WORKSHOP ATTIRE:
+
+Torvane wears practical workshop clothing — a fitted dark leather vest over a cream linen shirt with sleeves rolled to his elbows, revealing lean, scarred forearms. The vest has multiple pockets — each containing tools, components, or scribbled notes on folded paper. A thick leather apron protects his torso — shorter than Solkren's forge apron, fitted for bench work, covered in burn marks, chemical stains, and tool scratches. His belt holds a comprehensive tool kit — small hammers, files, pliers, wire cutters, all in individual leather loops. Dark canvas trousers tucked into sturdy leather boots. No weapons visible — his weapons are the devices he builds, and they are devastating.
+
+BACKGROUND — THE ENGINEERING WORKSHOP:
+
+Behind Torvane and slightly out of focus, his personal workshop — a controlled chaos of brilliance. Workbenches covered with half-assembled devices, technical drawings pinned to every wall, shelves of components organized in a system only he understands. Ward-disruptors in various stages of completion. A large tactical map with mechanical markers. Floating turquoise rune-lights provide steady illumination. Through a window, the alliance camp is visible — tents, soldiers, the distant glow of cook-fires. Everything in this room exists to keep those people alive.
+
+ATMOSPHERIC EFFECTS:
+
+Warm workshop lamplight from multiple sources creates a honey-gold ambiance. Faint turquoise sparks from the ward-disruptor under construction. Fine metallic dust motes float in the lamplight. The air smells of oil, heated metal, and possibility. The overall effect is focused creativity — a space where impossible things are made real by one quiet mind.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+
+Torvane's face must be positioned entirely BELOW the text area and ABOVE the quote at the bottom. His face occupies roughly the 55%-82% vertical zone. The top 40% must contain ONLY background elements. NO part of his face, hair, or body may enter the top 35%.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED:
+
+All text is centered horizontally. All percentages measured from the TOP of the image.
+
+Line 1 (exactly 3% from top): "AZTEC SAMURAI ADVENTURES" — small elegant Trajan Pro font, turquoise color (#40E0D0), letter-spacing 0.15em, approximately 14pt equivalent. Subtle turquoise glow.
+
+Line 2 (exactly 8-16% from top): "TORVANE" — very large, bold Trajan Pro font, gold color (#FFD700) with warm amber glow and subtle embossed quality. Dominant text element. Letter-spacing 0.15em. Approximately 72-80pt equivalent.
+
+Line 3 (exactly 18% from top): "The Engineer" — medium Trajan Pro font, white/cream with subtle amber warmth. Letter-spacing 0.1em. Approximately 24pt equivalent.
+
+Line 4 (exactly 21% from top): "Alliance Engineer and Inventor" — smaller Trajan Pro font, turquoise color (#40E0D0). Letter-spacing 0.1em. Approximately 16pt equivalent.
+
+Line 5 (exactly 24% from top): "Quiet Genius · Builder of Impossible Machines" — small italic Trajan Pro, light cream/gold. Approximately 12pt equivalent.
+
+Decorative ornamental line (exactly 26% from top): Elegant gold and turquoise ornamental filigree divider — Aztec-inspired geometric scrollwork with gear and mechanism motifs. Gold (#FFD700) with turquoise (#40E0D0) accents.
+
+Line 6 (exactly 92% from top): "It's not beautiful yet. It's honest. That's different." — italic Trajan Pro font, centered, cream/white with subtle amber glow, enclosed in elegant quotation marks. Approximately 14pt equivalent.
+
+OVERALL MOOD AND QUALITY:
+
+Focused, warm, quietly heroic — the feeling of watching the invisible hero do the work that saves everyone and asking for nothing in return. Dominant palette: warm amber, brass-gold, cream, and turquoise sparks. Torvane must be compellingly real — not glamorous but magnetic in the way deep intelligence and quiet dedication are magnetic. The most dangerous weapon in the alliance is his mind.
+
+ABSOLUTELY NO oil painting texture. NO watercolor. NO canvas grain. NO painterly edges. PHOTOREALISTIC CINEMATIC DIGITAL ART — sharp, clean, precise, and devastatingly beautiful.

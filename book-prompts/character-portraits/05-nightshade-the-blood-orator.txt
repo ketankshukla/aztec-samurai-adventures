@@ -1,0 +1,63 @@
+CHARACTER PORTRAIT: NIGHTSHADE — THE BLOOD ORATOR
+TYPE: Character Portrait (matching ebook cover quality)
+DIMENSIONS: 1600 x 2400 pixels, 300 DPI, sRGB color profile
+
+---
+
+A breathtaking ultra-high-resolution photorealistic character portrait rendered at 1600x2400 pixels, 300 DPI, in sharp cinematic digital style with advanced volumetric lighting, ray-traced reflections, and subsurface skin scattering. This must look like a $200-million Hollywood movie poster — every surface, every texture, every particle of light rendered with obsessive photographic precision. ABSOLUTELY NO oil painting, NO watercolor, NO painterly brushstrokes, NO soft-focus artistic filters, NO traditional media aesthetic whatsoever. Every pixel must be razor-sharp, hyper-detailed, and cinematically lit.
+
+SUBJECT — DARK ELEGANCE PORTRAIT (THE BLOOD ORATOR):
+
+A strikingly beautiful woman of Eastern descent in her mid-30s — Nightshade, the Dominion's deadliest spymaster — positioned in the lower-center of the image, face centered at approximately 60-75% down from the top. She stands with serpentine stillness, her body angled three-quarters to the viewer, one hand raised to shoulder height with fingers spread as thin tendrils of crimson blood-magic energy spiral lazily between them like living thread. Her other hand rests at her side, palm turned slightly outward in a gesture that could be invitation or command. She does not carry weapons. She IS the weapon. Her entire being radiates controlled, patient menace — the stillness of a spider at the center of an invisible web.
+
+FACE — HYPER-DETAILED PHOTOREALISTIC DARK BEAUTY:
+
+Nightshade's face is breathtakingly beautiful in a way that feels wrong — too perfect, too composed, as though every feature has been arranged to maximum psychological effect. Her bone structure is precise and elegant — sharp cheekbones that create deep dramatic shadows, a narrow oval face with a delicate pointed chin, and a high, smooth forehead that gives her an expression of eternal, amused superiority. Her skin is pale porcelain — the palest of any character — with cool undertones that make her seem carved from moonlight. Flawless, luminous, unsettling in its perfection. Photorealistic pore detail is present but minimal — her skin seems almost too smooth, too controlled, as though even her body obeys her will.
+
+Her eyes are her most terrifying weapon — large, almond-shaped, and a deep violet-black that seems to absorb light rather than reflect it. In the crimson glow of her blood-magic, the irises reveal layered depths of dark purple and black with tiny points of crimson light that move — not static flecks but actual floating embers within the iris, as though her eyes contain imprisoned flames. Her gaze is penetrating, invasive, and utterly calm — the gaze of someone who can read your deepest fears in the way you hold your hands. Two sharp catchlights sit in her eyes, but they glow crimson rather than white. Her lashes are long, dark, dramatic — naturally fanned in a way that frames her terrible eyes with silk.
+
+Her eyebrows are thin, precisely arched, giving her face a permanent expression of sardonic inquiry. Her nose is small and straight — delicate, refined, aristocratic. Her lips are her second weapon — full, perfectly shaped, naturally dark red-violet as though stained with wine or blood, currently curved in a slight, knowing smile that suggests she already knows every secret you're trying to hide. Her expression is the most controlled of any character — every micro-muscle placement deliberate, every shadow of emotion calculated. She is beautiful the way poison is beautiful — elegant, deadly, and designed to be consumed.
+
+HAIR — MIDNIGHT PERFECTION:
+
+Her hair is jet-black — the absolute black of a moonless night — long, straight, and impossibly glossy, falling past her shoulders in a curtain of dark silk. It is parted precisely at the center of her forehead and falls symmetrically on either side of her face — not a single strand out of place. The hair catches crimson light in sharp, liquid highlights that slide across its surface as though the hair itself is made of black water. Thin threads of dark crimson — blood-magic conduits — are woven into the hair at her temples, barely visible unless the light catches them, pulsing with faint energy. Her hair moves unnaturally — not with wind but with the subtle currents of blood-magic that surround her, drifting in slow, hypnotic patterns that defy gravity.
+
+CLOTHING — SPYMASTER'S ELEGANCE:
+
+Nightshade wears no armor — she wears authority. A long, fitted coat of deep midnight-black silk with crimson interior lining visible at the collar and cuffs. The coat is military-inspired but feminized — structured shoulders, high mandarin collar, tailored waist, the fabric so fine it moves like liquid. Subtle crimson embroidery traces patterns along the lapels — not decorative flowers but blood-magic sigils, functional enchantments woven into the fabric. Beneath, a fitted black tunic with a high neckline. Black leather gloves — thin, fitted, hiding hands that can command the blood in your veins to stop flowing. No jewelry except a single thin chain at her throat bearing a small vial of dark liquid — blood. Her own? Someone else's? Both.
+
+BACKGROUND — THE DOMINION INTELLIGENCE CHAMBER:
+
+Behind Nightshade and slightly out of focus, a dark, intimate chamber — not a throne room but an interrogation parlor dressed as a study. Dark wood paneling, a single high-backed chair (for her subjects, not for her — she stands), shelves of leather-bound dossiers. A large mirror on the wall behind her — but the reflection is wrong, showing not the room but a web of crimson threads connecting dozens of portraits — her intelligence network made visible. Blood-magic candles float in the darkness, their crimson flames reflected in the polished floor. Through a narrow window, the Dominion capital is visible at night — dark towers and crimson lights.
+
+ATMOSPHERIC EFFECTS:
+
+Crimson blood-magic energy permeates the scene — thin tendrils of dark red light drifting through the air, pooling in shadows, crawling along surfaces. The temperature appears cold — Nightshade's breath is faintly visible. The overall effect is intimate menace — a room where truths are extracted not through torture but through conversation, and the person sitting in the chair always tells her everything.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+
+Nightshade's face must be positioned entirely BELOW the text area and ABOVE the quote at the bottom. Her face occupies roughly the 55%-82% vertical zone. The top 40% must contain ONLY background elements. NO part of her face, hair, or body may enter the top 35%.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED:
+
+All text is centered horizontally. All percentages measured from the TOP of the image.
+
+Line 1 (exactly 3% from top): "AZTEC SAMURAI ADVENTURES" — small elegant Trajan Pro font, turquoise color (#40E0D0), letter-spacing 0.15em, approximately 14pt equivalent. Subtle turquoise glow.
+
+Line 2 (exactly 8-16% from top): "NIGHTSHADE" — very large, bold Trajan Pro font, gold color (#FFD700) with crimson edge glow and subtle embossed quality. Dominant text element. Letter-spacing 0.12em. Approximately 64-72pt equivalent.
+
+Line 3 (exactly 18% from top): "The Blood Orator" — medium Trajan Pro font, white/cream with subtle crimson warmth. Letter-spacing 0.1em. Approximately 24pt equivalent.
+
+Line 4 (exactly 21% from top): "Dominion Spymaster" — smaller Trajan Pro font, crimson-gold color. Letter-spacing 0.1em. Approximately 16pt equivalent.
+
+Line 5 (exactly 24% from top): "Blood-Magic Specialist · Architect of Psychological Warfare" — small italic Trajan Pro, light cream/crimson. Approximately 12pt equivalent.
+
+Decorative ornamental line (exactly 26% from top): Elegant gold and crimson ornamental filigree divider — Aztec-inspired geometric scrollwork with blood-drop and web motifs. Gold (#FFD700) with crimson accents.
+
+Line 6 (exactly 92% from top): "Love is a load-bearing wall. Remove it, and the structure falls." — italic Trajan Pro font, centered, cream/white with subtle crimson glow, enclosed in elegant quotation marks. Approximately 14pt equivalent.
+
+OVERALL MOOD AND QUALITY:
+
+Intimate, menacing, seductively terrifying — the feeling of sitting across from someone who already knows your secrets and is deciding whether to use them. Dominant palette: midnight black, deep crimson, pale porcelain, and cold silver. Nightshade must be devastatingly beautiful in a way that makes you uncomfortable — beauty weaponized, beauty as camouflage for something truly dangerous beneath.
+
+ABSOLUTELY NO oil painting texture. NO watercolor. NO canvas grain. NO painterly edges. PHOTOREALISTIC CINEMATIC DIGITAL ART — sharp, clean, precise, and devastatingly beautiful.

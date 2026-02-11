@@ -1,0 +1,63 @@
+CHARACTER PORTRAIT: NEYLA — THE HEALER
+TYPE: Character Portrait (matching ebook cover quality)
+DIMENSIONS: 1600 x 2400 pixels, 300 DPI, sRGB color profile
+
+---
+
+A breathtaking ultra-high-resolution photorealistic character portrait rendered at 1600x2400 pixels, 300 DPI, in sharp cinematic digital style with advanced volumetric lighting, ray-traced reflections, and subsurface skin scattering. This must look like a $200-million Hollywood movie poster — every surface, every texture, every particle of light rendered with obsessive photographic precision. ABSOLUTELY NO oil painting, NO watercolor, NO painterly brushstrokes, NO soft-focus artistic filters, NO traditional media aesthetic whatsoever. Every pixel must be razor-sharp, hyper-detailed, and cinematically lit.
+
+SUBJECT — COMPASSIONATE POWER PORTRAIT (THE HEALER):
+
+A stunningly beautiful young woman of indigenous Mesoamerican descent in her early 20s — Neyla, the Healer and Breaker of Ash-Oaths — positioned in the lower-center of the image, face centered at approximately 60-75% down from the top. She is captured in a moment of miraculous healing — kneeling with both hands extended over a fading ash-oath sigil on an unseen patient below, her palms radiating brilliant turquoise-gold healing light that flows like liquid starlight between her fingers. Her eyes are closed in deep concentration, her face serene and luminous — a woman channeling something far greater than herself. Golden soul-threads are faintly visible connecting her to the world around her — the gift of soul-sight she gained in the Mirror-Realm.
+
+FACE — HYPER-DETAILED PHOTOREALISTIC BEAUTY:
+
+Neyla's face is the gentlest beauty in the series — warm, open, and radiant with compassion that borders on the transcendent. Her bone structure is soft and rounded — full cheekbones that create gentle, warm shadows, a heart-shaped face with a softly rounded chin, and a smooth forehead partially framed by loose curls. Her skin is a warm golden-brown — luminous and healthy, with a natural glow amplified by the turquoise healing light emanating from her hands. Photorealistic detail shows smooth, youthful skin with a scattering of tiny freckles across the bridge of her nose and upper cheeks — natural, charming, real. The healing light from below creates an ethereal uplighting effect, illuminating the underside of her jaw and cheekbones with turquoise-gold warmth.
+
+Her eyes are large, doe-like, and extraordinarily warm — deep brown with honey-gold highlights near the pupils that seem to expand when she heals, as though her compassion literally brightens her gaze. After the Mirror-Realm, faint golden threads are visible in her irises — soul-threads, the sign of soul-sight, giving her eyes a supernatural quality of seeing beyond the physical. Her lashes are long, dark, naturally curled — casting delicate shadows on her cheeks when her eyes are closed in concentration. Her eyebrows are naturally full, gently arched — expressive, kind, furrowing slightly with the effort of healing.
+
+Her nose is small, slightly button-like — endearing, warm, the nose of someone who smiles easily. Her lips are full and naturally rosy — the kind of mouth built for reassuring words and gentle smiles. Currently her lips are slightly parted, murmuring the healing incantation. Her expression is pure focused compassion — not the hardness of a warrior but the quiet, fierce determination of someone who refuses to let another person suffer. She is beautiful in the way that kindness is beautiful — disarming, genuine, and impossible to resist.
+
+HAIR — SOFT AND NATURAL:
+
+Her hair is dark brown-black, thick, and naturally curly — a cascade of loose ringlets and spirals that frame her face in a soft, organic halo. The curls are natural, untamed, beautiful — each one individually rendered with photorealistic detail, catching the turquoise healing light in warm highlights. Her hair is longer than shoulder-length, falling in ringlets past her collarbone. Small turquoise beads and tiny dried flowers are woven into her hair near her temples — healer's tradition markers. A few curls fall across her forehead and temples, softening her face. The healing energy creates a faint luminous outline around her hair — a halo of turquoise-gold light.
+
+CLOTHING — HEALER'S PRACTICAL GRACE:
+
+Neyla wears healer's robes — layered garments of soft cream and pale turquoise, practical and flowing. A fitted bodice of cream linen beneath a loose outer robe of pale turquoise fabric embroidered with subtle healing sigils in gold thread — the symbols of the ash-oath breaking technique she pioneered. The robes are functional — wide sleeves pushed back to her elbows for healing work, revealing slender forearms with thin silver bracelets that serve as healing focus objects. A leather healer's satchel hangs at her hip — filled with herbs, bandages, and small vials of prepared medicines. She wears no armor — healers are protected by the people they save. Her feet are in simple leather sandals. Around her neck, a small jade pendant in the shape of a sun — Korvain gave it to her.
+
+BACKGROUND — THE HEALING PAVILION AT DAWN:
+
+Behind Neyla and slightly out of focus, the alliance's medical pavilion — a large, open-sided tent filled with dawn light. Rows of cots are visible in the background, some occupied by recovering patients. Clean linen and organized supplies suggest order within chaos. Dawn light streams through the tent's open sides in warm golden shafts. Medicinal herbs hang drying from the tent's frame. A few other healers work in the background — small, indistinct figures tending to patients. The scene conveys a place of hope in the midst of war — quiet, purposeful, sacred in its own way.
+
+ATMOSPHERIC EFFECTS:
+
+Turquoise-gold healing energy radiates from Neyla's hands — the primary light source, casting warm luminous light upward across her face and outward through the scene. Tiny golden soul-thread particles drift through the air around her — visible only to those with soul-sight, rendered as faint golden filaments connecting living things. Dawn light creates a secondary warm glow. The overall effect is gentle, miraculous beauty — the visual manifestation of compassion given form.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+
+Neyla's face must be positioned entirely BELOW the text area and ABOVE the quote at the bottom. Her face occupies roughly the 55%-82% vertical zone. The top 40% must contain ONLY background elements. NO part of her face, hair, or body may enter the top 35%.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED:
+
+All text is centered horizontally. All percentages measured from the TOP of the image.
+
+Line 1 (exactly 3% from top): "AZTEC SAMURAI ADVENTURES" — small elegant Trajan Pro font, turquoise color (#40E0D0), letter-spacing 0.15em, approximately 14pt equivalent. Subtle turquoise glow.
+
+Line 2 (exactly 8-16% from top): "NEYLA" — very large, bold Trajan Pro font, gold color (#FFD700) with turquoise-gold glow and subtle embossed quality. Dominant text element. Letter-spacing 0.15em. Approximately 72-80pt equivalent.
+
+Line 3 (exactly 18% from top): "The Healer" — medium Trajan Pro font, white/cream with subtle turquoise warmth. Letter-spacing 0.1em. Approximately 24pt equivalent.
+
+Line 4 (exactly 21% from top): "Healer and Oath-Breaker" — smaller Trajan Pro font, turquoise color (#40E0D0). Letter-spacing 0.1em. Approximately 16pt equivalent.
+
+Line 5 (exactly 24% from top): "Compassionate Healer · Breaker of Ash-Oaths · Seer of Soul-Threads" — small italic Trajan Pro, light cream/gold. Approximately 12pt equivalent.
+
+Decorative ornamental line (exactly 26% from top): Elegant gold and turquoise ornamental filigree divider — Aztec-inspired geometric scrollwork with healing-sun and soul-thread motifs. Gold (#FFD700) with turquoise (#40E0D0) accents.
+
+Line 6 (exactly 92% from top): "You cannot pour from an empty cup. Refill first." — italic Trajan Pro font, centered, cream/white with subtle turquoise glow, enclosed in elegant quotation marks. Approximately 14pt equivalent.
+
+OVERALL MOOD AND QUALITY:
+
+Gentle, radiant, transcendent — the feeling of watching someone perform a miracle with their bare hands and realizing that compassion is the most powerful force in the world. Dominant palette: turquoise-gold, warm cream, soft dawn light, and gentle honey-brown. Neyla must be warmly, accessibly beautiful — not the intimidating beauty of warriors but the kind of beauty that makes people feel safe, seen, and healed.
+
+ABSOLUTELY NO oil painting texture. NO watercolor. NO canvas grain. NO painterly edges. PHOTOREALISTIC CINEMATIC DIGITAL ART — sharp, clean, precise, and devastatingly beautiful.

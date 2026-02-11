@@ -1,0 +1,69 @@
+CHARACTER PORTRAIT: ITZIL — THE BLADE BEARER
+TYPE: Character Portrait (matching ebook cover quality)
+DIMENSIONS: 1600 x 2400 pixels, 300 DPI, sRGB color profile
+
+---
+
+A breathtaking ultra-high-resolution photorealistic character portrait rendered at 1600x2400 pixels, 300 DPI, in sharp cinematic digital style with advanced volumetric lighting, ray-traced reflections, and subsurface skin scattering. This must look like a $200-million Hollywood movie poster — every surface, every texture, every particle of light rendered with obsessive photographic precision. ABSOLUTELY NO oil painting, NO watercolor, NO painterly brushstrokes, NO soft-focus artistic filters, NO traditional media aesthetic whatsoever. Every pixel must be razor-sharp, hyper-detailed, and cinematically lit.
+
+SUBJECT — ICONIC HERO PORTRAIT (THE BLADE BEARER):
+
+A breathtakingly gorgeous young woman of indigenous Mesoamerican descent in her early 20s — Itzil, the Bearer of the Sun-Blade and Commander of the Alliance — positioned in the lower-center of the image, her face centered at approximately 60-75% down from the top. She stands tall and resolute, her jade-obsidian katana held diagonally behind her right shoulder, the blade erupting with blinding golden sunfire that streaks outward in razor-sharp rays. Her body radiates lethal confidence — weight shifted to her back foot, left hand extended forward with golden light crackling between her fingertips. She is the perfect fusion of breathtaking femininity and terrifying warrior power.
+
+FACE — HYPER-DETAILED PHOTOREALISTIC BEAUTY:
+
+Her face is the centerpiece and must be rendered with magazine-cover-quality photorealism. Exquisite bone structure — high, sculpted cheekbones that catch golden light like polished bronze, a strong elegant jawline tapering to a slightly rounded chin, a broad regal forehead beneath warrior braids. Warm bronze skin rendered with visible pores across the bridge of her nose and cheeks, the faintest peach-fuzz caught in golden backlight along her jawline, a luminous natural glow as though lit from within by the same golden fire that powers her blade. A thin sheen of exertion glistens on her brow.
+
+Her eyes are devastating — large, wide-set, deep obsidian-black shot through with golden amber striations radiating from the pupil like fractures in volcanic glass filled with liquid sunlight. In the blazing blade's light, those golden striations glow with supernatural intensity. Diamond-bright catchlights in each iris. Thick, dark lashes individually rendered, casting tiny crescent shadows on her upper cheekbones. Strong, naturally shaped eyebrows with a warrior's furrow of focused determination.
+
+Her nose is straight and elegant with a subtly rounded tip and gently flared nostrils — Mesoamerican heritage worn with pride. Full lips in warm terracotta-rose — defined cupid's bow, lower lip slightly fuller, parted just enough to show the edges of white teeth. Her expression is the steady, burning, almost serene certainty of a woman who has already decided she will not lose. Fire in her eyes, calm on her mouth.
+
+A small crescent-shaped scar at her left collarbone. A tiny beauty mark near her right temple. Golden light from her blade casts warm ember-tones along the right side of her jaw while cooler turquoise mystical light creates blue-white highlights on her forehead and cheekbones — goddess painted in fire and moonlight.
+
+HAIR — ELABORATE AND DYNAMIC:
+
+Long, raven-black, magnificent — thick and lustrous with blue-black sheen. Elaborate warrior braids — some tight and functional, others decorative — threaded with turquoise stone beads carved with geometric patterns, small gold rings, and thin obsidian pins with jade tips. Several braids loosened by combat create wild cascading strands whipping behind her in magical wind, each strand luminous at the edges where backlight catches them.
+
+A magnificent feathered crest pinned to her left shoulder guard — quetzal feathers in iridescent emerald green and deep sapphire blue with photorealistic barbule detail, mixed with scarlet macaw feathers in vivid crimson and cobalt blue.
+
+ARMOR — MESOAMERICAN-SAMURAI FUSION:
+
+Layered armor fusing Mesoamerican ceremonial grandeur with samurai-influenced combat design. Obsidian-flecked lacquered chest guard with gold filigree sun-disc patterns — concentric circles radiating from a central golden sun motif. Richly patterned textiles beneath in deep burgundy and jade green with geometric weaves depicting jaguars, serpents, and sun symbols. Jade-green lacquered vambraces over wrapped linen bandages, etched with ancient script filled with gold. Broad obsidian-black silk sash at her waist.
+
+THE SUN-BLADE — forged from volcanic obsidian glass and jade-green steel, the surface rippling with a visible hamon line. Currently BLAZING with golden sunfire — structured, geometric, crystalline. Circular gold sun-disc tsuba with Mesoamerican solar calendar motifs, turquoise stone inlays. Jade jaguar head pommel with obsidian eyes.
+
+BACKGROUND — SACRED TEMPLE AT GOLDEN HOUR:
+
+Behind Itzil and slightly out of focus, the sacred courtyard of the Sun-Blade temple at golden hour — liquid amber light through massive stone columns. Grand Mesoamerican architecture — stepped pyramids with jade-green moss, towering carved pillars depicting warrior-gods, polished obsidian tiles reflecting the sky. A massive obsidian archway — the Demon Gate — partially visible behind her, silver rune-script pulsing with faint violet-black energy. The sky split — western half ablaze with golden-hour amber, eastern half darkening into star-flecked obsidian. Turquoise energy shimmers at the transition like an aurora.
+
+ATMOSPHERIC EFFECTS:
+
+Hundreds of golden embers drift upward from the Sun-Blade. Turquoise mystical particles swirl in slow spirals. Luminous dust motes hang in god-rays streaming through temple columns. Faint heat-shimmer from obsidian tiles. A world saturated with ancient power.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+
+Itzil's face must be positioned entirely BELOW the text area and ABOVE the quote at the bottom. Her face occupies roughly the 55%-82% vertical zone. The top 40% of the image (where the character text will be placed) must contain ONLY background elements — sky, temple architecture, atmospheric effects. NO part of her face, hair, feathers, weapon, or body may enter the top 35%.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED:
+
+All text is centered horizontally. All percentages measured from the TOP of the image.
+
+Line 1 (exactly 3% from top): "AZTEC SAMURAI ADVENTURES" — small elegant Trajan Pro font, turquoise color (#40E0D0), letter-spacing 0.15em, approximately 14pt equivalent. Subtle turquoise glow behind the letters.
+
+Line 2 (exactly 8-16% from top): "ITZIL" — very large, bold Trajan Pro font, gold color (#FFD700) with white luminous glow and subtle embossed quality. This is the dominant text element — the character's name must command attention. Letter-spacing 0.15em. Approximately 72-80pt equivalent.
+
+Line 3 (exactly 18% from top): "The Blade Bearer" — medium Trajan Pro font, white/cream color with subtle golden warmth. Letter-spacing 0.1em. Approximately 24pt equivalent.
+
+Line 4 (exactly 21% from top): "Commander of the Alliance" — smaller Trajan Pro font, gold/turquoise color (#40E0D0). Letter-spacing 0.1em. Approximately 16pt equivalent.
+
+Line 5 (exactly 24% from top): "Reluctant Prophet · Warrior of the Sun-Blade Order" — small italic Trajan Pro, light cream/gold with soft warm glow. Approximately 12pt equivalent.
+
+Decorative ornamental line (exactly 26% from top): An elegant gold and turquoise ornamental filigree divider — thin horizontal line blooming into Aztec-inspired geometric scrollwork and sun-disc flourishes at center, with symmetrical stepped-pyramid motifs tapering to fine points. Gold (#FFD700) with turquoise (#40E0D0) accents and subtle luminous glow.
+
+Line 6 (exactly 92% from top): "I must be present, not perfect." — italic Trajan Pro font, centered, cream/white color with subtle golden glow, enclosed in elegant quotation marks. Approximately 14pt equivalent.
+
+OVERALL MOOD AND QUALITY:
+
+Cinematic, epic, awe-inspiring — a declaration of war wrapped in golden light. Dominant palette: golden amber, deep obsidian black, turquoise mystical blue. The image evokes the scale and grandeur of a civilization's last stand, channeled through one impossibly beautiful, impossibly powerful woman. Stunning at thumbnail size, breathtaking at full resolution.
+
+ABSOLUTELY NO oil painting texture. NO watercolor bleeding. NO canvas grain. NO soft impressionist edges. NO painterly abstraction. This is PHOTOREALISTIC CINEMATIC DIGITAL ART — sharp, clean, precise, and devastatingly beautiful.

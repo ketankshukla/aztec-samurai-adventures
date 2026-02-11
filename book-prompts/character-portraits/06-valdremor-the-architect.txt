@@ -1,0 +1,63 @@
+CHARACTER PORTRAIT: VALDREMOR — THE ARCHITECT
+TYPE: Character Portrait (matching ebook cover quality)
+DIMENSIONS: 1600 x 2400 pixels, 300 DPI, sRGB color profile
+
+---
+
+A breathtaking ultra-high-resolution photorealistic character portrait rendered at 1600x2400 pixels, 300 DPI, in sharp cinematic digital style with advanced volumetric lighting, ray-traced reflections, and subsurface skin scattering. This must look like a $200-million Hollywood movie poster — every surface, every texture, every particle of light rendered with obsessive photographic precision. ABSOLUTELY NO oil painting, NO watercolor, NO painterly brushstrokes, NO soft-focus artistic filters, NO traditional media aesthetic whatsoever. Every pixel must be razor-sharp, hyper-detailed, and cinematically lit.
+
+SUBJECT — COLD INTELLECT PORTRAIT (THE ARCHITECT):
+
+A gaunt, impeccably dressed man of Eastern-Mesoamerican descent in his early 40s — Valdremor, the Architect of the Dominion's magical infrastructure — positioned in the lower-center of the image, face centered at approximately 60-75% down from the top. He stands before a wall of luminous strategic maps — glowing lines, troop positions, energy calculations suspended in the air like a holographic web. One hand is raised, thin fingers delicately adjusting a floating data point. His posture is perfectly upright, unnaturally still, as though he has calculated the optimal position for every bone in his body. He radiates cold, surgical intelligence — a mind so precise it has become its own weapon.
+
+FACE — HYPER-DETAILED PHOTOREALISTIC PRECISION:
+
+Valdremor's face is handsome in the way a scalpel is handsome — sharp, clean, designed for a single purpose. His bone structure is severe — high, narrow cheekbones creating deep vertical hollows in his cheeks, a long, angular jaw that tapers to a pointed chin, a high forehead that dominates his face with intellectual prominence. His skin is pale olive — lighter than most characters, with cool undertones that give him an almost grey quality in cold light, as though he has spent years indoors studying by lamplight. The skin is stretched tight over his bones, no excess — his face has been pared down to pure function. Photorealistic detail shows the fine texture of skin that is maintained but not pampered — dry, precise, austere.
+
+His most striking feature is his LEFT EYE — it is not organic. A crystal prosthetic fills the eye socket, a perfectly shaped orb of clear crystal with a violet-glowing pupil at its center. The crystal eye emits a faint, constant violet light — a blood-magic construct that sees differently than flesh. It sees magical signatures, energy flows, structural weaknesses. The violet glow casts a faint asymmetric light on his left cheekbone and temple, creating an eerie contrast with his natural right eye. His RIGHT EYE is natural — dark brown, almost black, sharp and calculating, with an analytical coldness that makes it somehow more unsettling than the crystal one. The natural eye does the thinking. The crystal eye does the seeing.
+
+His eyebrows are thin, precise, one slightly raised in permanent analytical assessment. His nose is long and narrow — sharp, prominent, aristocratic. His lips are thin, colorless, pressed together in a line that suggests speech is an inefficiency he tolerates. A thin goatee — precisely trimmed, dark with premature grey — frames his mouth. His expression is absolute calm — no anger, no passion, no doubt. He does not feel. He calculates.
+
+HAIR — SEVERE AND CONTROLLED:
+
+Dark hair, shot through with premature grey, swept back from his high forehead with severe precision and fixed in place. Not a strand moves. The hair is thin at the temples, receding slightly — he does not care about appearance, only function. The grey is concentrated at the temples and through the center, creating a striking pattern that makes him look older and more distinguished than his years.
+
+CLOTHING — AUSTERE ELEGANCE:
+
+Valdremor wears impeccable but austere clothing — a long coat of dark charcoal-grey wool, perfectly tailored, with a high collar and minimal embellishment. No gold, no crimson — he considers Volzentar's theatrical style wasteful. The coat is closed with simple dark buttons. Beneath, a high-necked tunic of black silk — functional, immaculate. His hands are bare — long, thin fingers with prominent knuckles, the hands of a scholar or a surgeon. A single piece of equipment: a thin silver chain around his left wrist bearing a small, dark crystal that pulses with the same violet light as his prosthetic eye — a data storage device containing his accumulated calculations.
+
+BACKGROUND — THE STRATEGIC OPERATIONS CHAMBER:
+
+Behind Valdremor and slightly out of focus, his personal operations chamber — a circular room of dark stone filled with floating luminous displays. Strategic maps hover in the air — continent-scale projections showing troop movements, energy calculations, timeline projections, all rendered in thin lines of violet and white light. The displays create a web of information surrounding him — he stands at the center of everything he knows, which is nearly everything. The room is spartan — no decoration, no comfort. A single chair. A single desk. The floating displays. Everything else is unnecessary.
+
+ATMOSPHERIC EFFECTS:
+
+Cool violet light from the crystal eye and floating displays dominates. The air is cold and still — no warmth, no movement, no life. The luminous displays cast geometric shadows across his face that shift as the data updates. The overall effect is clinical perfection — a mind made visible, a room that is an extension of a brain that never stops calculating.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+
+Valdremor's face must be positioned entirely BELOW the text area and ABOVE the quote at the bottom. His face occupies roughly the 55%-82% vertical zone. The top 40% must contain ONLY background elements. NO part of his face, hair, or body may enter the top 35%.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED:
+
+All text is centered horizontally. All percentages measured from the TOP of the image.
+
+Line 1 (exactly 3% from top): "AZTEC SAMURAI ADVENTURES" — small elegant Trajan Pro font, turquoise color (#40E0D0), letter-spacing 0.15em, approximately 14pt equivalent. Subtle turquoise glow.
+
+Line 2 (exactly 8-16% from top): "VALDREMOR" — very large, bold Trajan Pro font, gold color (#FFD700) with violet edge glow and subtle embossed quality. Dominant text element. Letter-spacing 0.12em. Approximately 64-72pt equivalent.
+
+Line 3 (exactly 18% from top): "The Architect" — medium Trajan Pro font, white/cream with subtle violet coolness. Letter-spacing 0.1em. Approximately 24pt equivalent.
+
+Line 4 (exactly 21% from top): "Dominion Strategic Commander" — smaller Trajan Pro font, violet-silver color. Letter-spacing 0.1em. Approximately 16pt equivalent.
+
+Line 5 (exactly 24% from top): "Terrifyingly Calm Intellect · Crystal Eye Glowing Violet" — small italic Trajan Pro, light cream/violet. Approximately 12pt equivalent.
+
+Decorative ornamental line (exactly 26% from top): Elegant gold and violet ornamental filigree divider — Aztec-inspired geometric scrollwork with crystal and calculation motifs. Gold (#FFD700) with violet accents.
+
+Line 6 (exactly 92% from top): "Emotion is noise. I listen only to the signal." — italic Trajan Pro font, centered, cream/white with subtle violet glow, enclosed in elegant quotation marks. Approximately 14pt equivalent.
+
+OVERALL MOOD AND QUALITY:
+
+Clinical, cold, intellectually terrifying — the feeling of being analyzed by a mind that has already determined your optimal use and expiration date. Dominant palette: charcoal grey, deep violet, cold white, and dark steel. Valdremor must be striking rather than handsome — angular, gaunt, and magnetic in the way that extreme intelligence is magnetic. The most dangerous person in the Dominion because he never makes emotional decisions.
+
+ABSOLUTELY NO oil painting texture. NO watercolor. NO canvas grain. NO painterly edges. PHOTOREALISTIC CINEMATIC DIGITAL ART — sharp, clean, precise, and devastatingly beautiful.

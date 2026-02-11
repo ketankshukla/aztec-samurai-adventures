@@ -1,0 +1,65 @@
+CHARACTER PORTRAIT: KORVAIN — THE LAST GRANDMASTER
+TYPE: Character Portrait (matching ebook cover quality)
+DIMENSIONS: 1600 x 2400 pixels, 300 DPI, sRGB color profile
+
+---
+
+A breathtaking ultra-high-resolution photorealistic character portrait rendered at 1600x2400 pixels, 300 DPI, in sharp cinematic digital style with advanced volumetric lighting, ray-traced reflections, and subsurface skin scattering. This must look like a $200-million Hollywood movie poster — every surface, every texture, every particle of light rendered with obsessive photographic precision. ABSOLUTELY NO oil painting, NO watercolor, NO painterly brushstrokes, NO soft-focus artistic filters, NO traditional media aesthetic whatsoever. Every pixel must be razor-sharp, hyper-detailed, and cinematically lit.
+
+SUBJECT — LEGENDARY MENTOR PORTRAIT (THE LAST GRANDMASTER):
+
+An elderly man of indigenous Mesoamerican descent in his early seventies — Korvain, the Last Grandmaster of the Sun-Blade Order — positioned in the lower-center of the image, face centered at approximately 60-75% down from the top. He stands with the quiet, immovable presence of a mountain — his older, longer katana held vertically before him, point resting on the ground, both hands folded over the pommel in the classic grandmaster's resting pose. His body is lean and weathered — the muscles still there beneath age-thinned skin, the posture still perfect despite a visible tremor in his left hand. He radiates earned authority — the stillness of a man who has fought a thousand battles and no longer needs to prove anything to anyone.
+
+FACE — HYPER-DETAILED PHOTOREALISTIC GRAVITAS:
+
+Korvain's face tells the story of seventy years lived at the edge of a blade. His bone structure is angular and refined — high cheekbones now prominent beneath weathered skin, a strong jaw that has softened slightly with age but retains its determined set, a broad forehead lined with deep horizontal creases of thought and command. His skin is deep bronze-brown, darker than Itzil's, weathered to the texture of ancient leather — every line, every crease, every fold rendered with photorealistic precision. Deep crow's feet radiate from his eye corners like river deltas. Pronounced nasolabial folds frame his mouth. The skin of his neck shows age — tendons visible, the mark of a body that has served its master faithfully and is now, finally, failing.
+
+His eyes are extraordinary — still sharp, still burning with intelligence and iron will despite the body's decline. Deep brown irises, almost black, with a warmth buried deep that only emerges when he looks at Itzil. These are the eyes of the finest swordsman alive — eyes that can read an opponent's intention three moves ahead, that can see through fear and pretense to the truth beneath. Slightly rheumy at the edges — the faintest milky quality at the corners that speaks of age — but the focus at the center is diamond-hard. Thick, grey-white eyebrows — bushy and distinguished, slightly unruly, giving his face a quality of fierce wisdom.
+
+His nose is strong, slightly aquiline, the bridge sharp. His lips are thin but well-defined, weathered, set in an expression of calm assessment that could shift to a wry half-smile or a devastating rebuke with equal ease. His jaw is clean-shaven, the skin rough with age but cared for. A prominent scar — old, pale, and smooth — runs from his right temple down across his cheekbone to his jaw, a relic of a battle fought decades ago. Several smaller scars mark his hands and forearms, visible where his sleeves are pushed back.
+
+HAIR — THE GRANDMASTER'S CROWN:
+
+His hair is entirely white — not grey, not silver, but the pure, clean white of snow on a mountain peak. It is long, reaching past his shoulders, thick for his age, and pulled back in a single, precise warrior's tail bound with a simple leather cord. The white hair catches every light source in the scene — golden highlights from ambient light, cool blue from mystical energy — creating a halo effect around his head that gives him an almost saintly quality. A few strands have escaped the binding and fall across his temples, softening the severity of his face. His sideburns are white and neatly trimmed. No beard — a swordsman keeps his face clear.
+
+CLOTHING — GRANDMASTER'S ROBES:
+
+Korvain wears the traditional grandmaster's attire — layered robes of deep indigo-blue and aged gold over a fitted dark tunic. The outer robe is heavy silk, floor-length, with wide sleeves that fall past his hands when at rest — the sleeves are embroidered with faded gold thread in the Sun-Blade order's celestial patterns: sun-discs, stepped pyramids, the ancient script of the order's founding oath. The embroidery was once brilliant; it is now softened by decades of wear, the gold dimmed to warm amber. Beneath the robe, a dark combat tunic of practical black cotton, close-fitting — the warrior beneath the teacher, always ready.
+
+His katana is an older design — longer than Itzil's Sun-Blade, the scabbard of dark lacquered wood worn smooth by decades of handling. The tsuba is a simple circle of dark iron — unadorned, functional, perfect. He wears no armor. He hasn't needed armor in forty years.
+
+BACKGROUND — THE SUN-BLADE TEMPLE AT DAWN:
+
+Behind Korvain and slightly out of focus, the interior of the Sun-Blade temple's training hall at dawn — a vast, serene space of polished wood floors and stone columns. Dawn light streams through high eastern windows in long shafts of warm gold, illuminating dust motes suspended in still air. The training hall is empty — this is the hour before students arrive, when the grandmaster practices alone. Ancient weapons hang on the walls in ceremonial displays. Faded banners bearing the Sun-Blade order's sigil — a golden sun over crossed katanas — hang from the ceiling. The space radiates history, discipline, and the quiet power of a tradition that has endured for a thousand years.
+
+ATMOSPHERIC EFFECTS:
+
+Dawn light creates warm golden shafts through the hall, illuminating suspended dust motes. A faint, barely visible golden aura surrounds Korvain — the residual Sun-Blade energy of a lifetime of service, clinging to him like warmth from a dying fire. The air is still and sacred. The overall effect is peaceful power — a man at the end of his journey, still standing, still teaching, still showing up.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+
+Korvain's face must be positioned entirely BELOW the text area and ABOVE the quote at the bottom. His face occupies roughly the 55%-82% vertical zone. The top 40% must contain ONLY background elements. NO part of his face, hair, weapon, or body may enter the top 35%.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED:
+
+All text is centered horizontally. All percentages measured from the TOP of the image.
+
+Line 1 (exactly 3% from top): "AZTEC SAMURAI ADVENTURES" — small elegant Trajan Pro font, turquoise color (#40E0D0), letter-spacing 0.15em, approximately 14pt equivalent. Subtle turquoise glow.
+
+Line 2 (exactly 8-16% from top): "KORVAIN" — very large, bold Trajan Pro font, gold color (#FFD700) with warm amber glow and subtle embossed quality. Dominant text element. Letter-spacing 0.15em. Approximately 72-80pt equivalent.
+
+Line 3 (exactly 18% from top): "The Last Grandmaster" — medium Trajan Pro font, white/cream with subtle golden warmth. Letter-spacing 0.1em. Approximately 24pt equivalent.
+
+Line 4 (exactly 21% from top): "Itzil's Mentor" — smaller Trajan Pro font, turquoise color (#40E0D0). Letter-spacing 0.1em. Approximately 16pt equivalent.
+
+Line 5 (exactly 24% from top): "Finest Swordsman Alive · Body Failing, Mind Iron" — small italic Trajan Pro, light cream/gold with soft warm glow. Approximately 12pt equivalent.
+
+Decorative ornamental line (exactly 26% from top): Elegant gold and turquoise ornamental filigree divider — Aztec-inspired geometric scrollwork with sun-disc and katana motifs. Gold (#FFD700) with turquoise (#40E0D0) accents.
+
+Line 6 (exactly 92% from top): "Show up. Every time. Even when you don't know the answer." — italic Trajan Pro font, centered, cream/white with subtle golden glow, enclosed in elegant quotation marks. Approximately 14pt equivalent.
+
+OVERALL MOOD AND QUALITY:
+
+Reverent, powerful, bittersweet — the feeling of standing before a living legend in his final chapter. Dominant palette: warm gold, deep indigo-blue, aged amber, and dawn light. Korvain must radiate quiet, unshakeable authority — not the flashy power of youth but the deep, patient strength of mastery earned over a lifetime. He is the soul of the Sun-Blade Order, and this portrait is his monument.
+
+ABSOLUTELY NO oil painting texture. NO watercolor. NO canvas grain. NO painterly edges. PHOTOREALISTIC CINEMATIC DIGITAL ART — sharp, clean, precise, and devastatingly beautiful.

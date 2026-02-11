@@ -1,0 +1,63 @@
+CHARACTER PORTRAIT: VOLZENTAR — THE WARLORD
+TYPE: Character Portrait (matching ebook cover quality)
+DIMENSIONS: 1600 x 2400 pixels, 300 DPI, sRGB color profile
+
+---
+
+A breathtaking ultra-high-resolution photorealistic character portrait rendered at 1600x2400 pixels, 300 DPI, in sharp cinematic digital style with advanced volumetric lighting, ray-traced reflections, and subsurface skin scattering. This must look like a $200-million Hollywood movie poster — every surface, every texture, every particle of light rendered with obsessive photographic precision. ABSOLUTELY NO oil painting, NO watercolor, NO painterly brushstrokes, NO soft-focus artistic filters, NO traditional media aesthetic whatsoever. Every pixel must be razor-sharp, hyper-detailed, and cinematically lit.
+
+SUBJECT — IMPERIAL POWER PORTRAIT (THE WARLORD EMPEROR):
+
+A commanding, terrifyingly charismatic man of mixed Mesoamerican and Eastern heritage in his late 40s — Volzentar, Emperor of the Dominion — positioned in the lower-center of the image, face centered at approximately 60-75% down from the top. He is captured seated upon a massive obsidian throne, one hand resting on the armrest with casual, absolute authority, the other holding a crystalline goblet of dark wine that catches crimson light. His posture is relaxed but controlled — the posture of a man who has never needed to raise his voice because the world bends to his whisper. He radiates power the way a furnace radiates heat — you feel it before you see it.
+
+FACE — HYPER-DETAILED PHOTOREALISTIC MENACE:
+
+Volzentar's face is strikingly handsome in a way that is deeply unsettling — the beauty of a perfectly engineered predator. His bone structure is sharp and aristocratic — high, angular cheekbones that create knife-edge shadows, a strong jaw with a squared chin, and a high, intelligent forehead that speaks of a mind always three steps ahead. His skin is a warm olive-brown with golden undertones, impeccably maintained — no scars, no blemishes, no imperfections. This is a man who has others do his fighting. Photorealistic pore detail is minimal — his skin is unnaturally smooth for his age, suggesting either extraordinary genetics or subtle magical preservation.
+
+His eyes are his most terrifying feature — large, calculating, and a striking amber-gold that seems to glow with inner fire in the crimson light of his throne room. The irises are complex — liquid gold with darker striations of burnt amber radiating outward, and tiny flecks of deep crimson near the pupils that suggest blood-magic enhancement. These are the eyes of a man who sees people as mechanisms to be optimized. His gaze is direct, penetrating, and utterly devoid of doubt — the gaze of someone who genuinely believes he is saving the world by conquering it. Two perfect catchlights in each eye, warm and sharp. His lashes are dark and refined, his brows strong and precisely groomed — the left slightly raised in an expression of permanent, entertained assessment.
+
+His nose is aquiline — strong, prominent, with a high bridge that gives him a regal, hawk-like profile. His lips are well-shaped — not full, not thin, precisely controlled, currently curved in a slight smile that could mean amusement, approval, or a death sentence. A perfectly trimmed goatee frames his mouth and chin — jet-black threaded with distinguished silver at the edges, groomed to geometric precision.
+
+HAIR — IMPERIAL AND CONTROLLED:
+
+Jet-black hair swept back from his forehead in a severe, imperial style — thick, lustrous, with silver threading at the temples that adds distinction rather than age. Every strand in place. The hair is held by a narrow iron crown — the Crown of the Dominion — a circlet of blackened iron set with a single large crimson gemstone at the center of his forehead. The crown is not ornate — it is deliberately austere, a statement that power does not need decoration. The gemstone pulses with faint crimson light — blood-magic energy, the source of his empire's terrible strength.
+
+CLOTHING — IMPERIAL MILITARY ELEGANCE:
+
+Volzentar wears a long coat of deep crimson-black — the darkest red, almost black in shadow, blazing crimson where light catches the silk. The coat is military in cut — structured shoulders, high collar, double-breasted with iron buttons bearing the Dominion crown insignia. Gold and iron trim at the cuffs and collar. Beneath, a fitted tunic of pure black with subtle geometric embroidery in dark crimson thread — Dominion patterns of conquest and order. A broad sash of iron-grey silk at his waist, secured with a heavy iron buckle. No visible weapons — he is the weapon. His hands are large, strong, unmarked by labor — the hands of a commander, not a fighter. An iron signet ring on his right hand pulses with the same crimson energy as his crown.
+
+BACKGROUND — THE DOMINION THRONE ROOM:
+
+Behind Volzentar and slightly out of focus, the grand throne room of the Dominion palace — a cathedral-scale hall of polished black marble and crimson banners. Massive columns of dark stone rise into shadow, carved with military victories in relief. Hundreds of floating ash-oath candles — crimson flames suspended without holders, pulsing in unison like a heartbeat. The obsidian throne itself is enormous — carved from a single piece of volcanic glass, etched with the iron crown motif, flanked by war-beast skulls mounted in gold. Through tall windows, the distant glow of the Starless Crown is visible in the sky — the void constellation that is his ultimate weapon. The floor is polished black stone reflecting everything like dark water.
+
+ATMOSPHERIC EFFECTS:
+
+Crimson ash-candle light dominates — warm, unsettling, pulsing rhythmically. Thin streams of blood-magic energy crawl along column bases like luminous veins. Faint wisps of incense smoke carry the metallic scent of power. The air itself feels heavy with authority. Everything in this room serves one purpose — to remind you who rules.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+
+Volzentar's face must be positioned entirely BELOW the text area and ABOVE the quote at the bottom. His face occupies roughly the 55%-82% vertical zone. The top 40% must contain ONLY background elements. NO part of his face, hair, crown, or body may enter the top 35%.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED:
+
+All text is centered horizontally. All percentages measured from the TOP of the image.
+
+Line 1 (exactly 3% from top): "AZTEC SAMURAI ADVENTURES" — small elegant Trajan Pro font, turquoise color (#40E0D0), letter-spacing 0.15em, approximately 14pt equivalent. Subtle turquoise glow.
+
+Line 2 (exactly 8-16% from top): "VOLZENTAR" — very large, bold Trajan Pro font, gold color (#FFD700) with crimson undertone glow and subtle embossed quality. Dominant text element. Letter-spacing 0.12em. Approximately 64-72pt equivalent.
+
+Line 3 (exactly 18% from top): "The Warlord" — medium Trajan Pro font, white/cream with subtle crimson warmth. Letter-spacing 0.1em. Approximately 24pt equivalent.
+
+Line 4 (exactly 21% from top): "Emperor of the Dominion" — smaller Trajan Pro font, crimson-gold color. Letter-spacing 0.1em. Approximately 16pt equivalent.
+
+Line 5 (exactly 24% from top): "Charismatic Tyrant · Architect of Conquest" — small italic Trajan Pro, light cream/crimson with soft warm glow. Approximately 12pt equivalent.
+
+Decorative ornamental line (exactly 26% from top): Elegant gold and crimson ornamental filigree divider — Aztec-inspired geometric scrollwork with iron crown motifs, stepped-pyramid designs. Gold (#FFD700) with crimson accents.
+
+Line 6 (exactly 92% from top): "Order is not cruelty. It is mercy with a longer view." — italic Trajan Pro font, centered, cream/white with subtle crimson glow, enclosed in elegant quotation marks. Approximately 14pt equivalent.
+
+OVERALL MOOD AND QUALITY:
+
+Opulent, terrifying, magnetically compelling — the feeling of standing before a man who could end your life with a word and make you thank him for the consideration. Dominant palette: deep crimson, polished black, iron grey, and warm gold. Volzentar must be devastatingly charismatic — handsome, controlled, and radiating intelligence. The most dangerous man in the world, and he makes it look effortless.
+
+ABSOLUTELY NO oil painting texture. NO watercolor. NO canvas grain. NO painterly edges. PHOTOREALISTIC CINEMATIC DIGITAL ART — sharp, clean, precise, and devastatingly beautiful.

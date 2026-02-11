@@ -1,0 +1,65 @@
+CHARACTER PORTRAIT: BRENNAN — THALENDOR'S ATTACHÉ
+TYPE: Character Portrait (matching ebook cover quality)
+DIMENSIONS: 1600 x 2400 pixels, 300 DPI, sRGB color profile
+
+---
+
+A breathtaking ultra-high-resolution photorealistic character portrait rendered at 1600x2400 pixels, 300 DPI, in sharp cinematic digital style with advanced volumetric lighting, ray-traced reflections, and subsurface skin scattering. This must look like a $200-million Hollywood movie poster — every surface, every texture, every particle of light rendered with obsessive photographic precision. ABSOLUTELY NO oil painting, NO watercolor, NO painterly brushstrokes, NO soft-focus artistic filters, NO traditional media aesthetic whatsoever. Every pixel must be razor-sharp, hyper-detailed, and cinematically lit.
+
+SUBJECT — MOUNTAIN WARRIOR PORTRAIT (THALENDOR'S ATTACHÉ):
+
+A broad, imposing man of Northern mountain heritage in his mid-40s — Commander Brennan, Thalendor's military attaché to the alliance — positioned in the lower-center of the image, face centered at approximately 60-75% down from the top. He stands at parade rest — feet planted wide, hands clasped behind his back, chin raised, posture rigid with military precision. He wears the heavy plate armor of Thalendor's mountain infantry — built for endurance, not speed. His entire bearing communicates professional skepticism — a career military officer assessing whether the alliance he has been ordered to support is capable of surviving. He is not convinced. But he is here. And Thalendor does not kneel.
+
+FACE — HYPER-DETAILED PHOTOREALISTIC MILITARY BEARING:
+
+Brennan's face is ruggedly handsome in a weathered, mountain-carved way — the face of a man who has spent thirty years training in snow and stone. Heavy, square bone structure — a broad face with prominent cheekbones, a massive square jaw, a low forehead shelving over deep-set eyes. His skin is fair — the palest complexion of any major character — ruddy from mountain winds, with the particular rough texture of skin exposed to extreme cold and altitude for decades. Photorealistic detail shows weather-roughened skin across his cheeks and nose, the deep vertical crease between his brows, and the particular leathery quality of a lifetime soldier's complexion.
+
+His eyes are steel-grey — the color of mountain stone in winter light — small, deep-set beneath heavy brows, and sharp with the professional assessment of a man who has commanded thousands. These eyes miss nothing and trust nothing until it has been proven three times. His gaze is direct, unblinking, and communicates: "Show me." His brows are thick, grey-streaked, drawn together in permanent professional skepticism. His lashes are short and sparse.
+
+His nose is broad, once broken and imperfectly healed — shifted slightly to the right, giving his face an asymmetric character. His lips are thin, firm, partially hidden by a thick, trimmed moustache — dark brown streaked with grey. His jaw is clean otherwise — Thalendor military regulation. His expression is controlled neutrality — the face of a man who will not show approval or disapproval until he has gathered sufficient data. He is a wall of professional composure.
+
+A prominent scar runs from his right temple across his ear (the upper portion of the ear is missing) and down behind his jaw — an old battle wound that he wears like a medal.
+
+HAIR — MILITARY REGULATION:
+
+Dark brown, heavily streaked with iron-grey, cut to strict military regulation — short, bristling, uniform. No style, no personality — just regulation. His hairline is receding at the temples, revealing more of his broad, scarred forehead. What remains is thick and coarse — mountain hair, built for cold.
+
+CLOTHING AND ARMOR — THALENDOR HEAVY INFANTRY:
+
+Brennan wears the full plate armor of a Thalendor mountain commander — heavy steel plates with a distinctive blue-grey finish that matches mountain stone. The armor is thick, practical, and unadorned except for rank insignia on the left pauldron — three crossed mountain-axes in silver, denoting his commander rank. The chest plate is broad and flat — designed to deflect lance strikes. The pauldrons are massive, covering his shoulders entirely. A heavy blue-grey cloak of mountain wool is clasped at his right shoulder with a silver Thalendor mountain-crest brooch. At his hip, a heavy straight-bladed longsword in a plain leather scabbard — functional, undecorated, maintained to razor sharpness. His gauntlets hang from his belt — his hands are clasped behind his back bare, revealing scarred, thick-knuckled fists.
+
+BACKGROUND — THE ALLIANCE WAR COUNCIL TENT:
+
+Behind Brennan and slightly out of focus, the interior of the alliance's war council tent — a large command pavilion with maps spread across tables, tactical markers, and the banners of multiple allied nations hanging from the tent poles. Through the tent's open flap, the alliance encampment is visible — thousands of tents, cook-fires, the organized chaos of a multi-national army. The Thalendor banner — a silver mountain peak on a blue-grey field — hangs prominently. The warm lamplight of the tent interior contrasts with the cool mountain air seeping through the open flap.
+
+ATMOSPHERIC EFFECTS:
+
+Warm amber lamplight from the war council tent creates steady illumination. Cool mountain air drifts through the open flap — Brennan's cloak stirs slightly. The atmosphere is professional, tense, measured — the mood of a war council where decisions carry the weight of nations.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+
+Brennan's face must be positioned entirely BELOW the text area and ABOVE the quote at the bottom. His face occupies roughly the 55%-82% vertical zone. The top 40% must contain ONLY background elements. NO part of his face, hair, or body may enter the top 35%.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED:
+
+All text is centered horizontally. All percentages measured from the TOP of the image.
+
+Line 1 (exactly 3% from top): "AZTEC SAMURAI ADVENTURES" — small elegant Trajan Pro font, turquoise color (#40E0D0), letter-spacing 0.15em, approximately 14pt equivalent. Subtle turquoise glow.
+
+Line 2 (exactly 8-16% from top): "BRENNAN" — very large, bold Trajan Pro font, gold color (#FFD700) with cool steel-blue glow and subtle embossed quality. Dominant text element. Letter-spacing 0.15em. Approximately 72-80pt equivalent.
+
+Line 3 (exactly 18% from top): "Thalendor's Attaché" — medium Trajan Pro font, white/cream with subtle steel-blue coolness. Letter-spacing 0.1em. Approximately 24pt equivalent.
+
+Line 4 (exactly 21% from top): "Allied Military Commander" — smaller Trajan Pro font, steel-blue/turquoise color. Letter-spacing 0.1em. Approximately 16pt equivalent.
+
+Line 5 (exactly 24% from top): "Stern, Professional · Mountain Warrior Who Does Not Kneel" — small italic Trajan Pro, light cream/silver. Approximately 12pt equivalent.
+
+Decorative ornamental line (exactly 26% from top): Elegant gold and turquoise ornamental filigree divider — Aztec-inspired geometric scrollwork with mountain-peak and crossed-axe motifs. Gold (#FFD700) with steel-blue accents.
+
+Line 6 (exactly 92% from top): "Can this alliance survive?" — italic Trajan Pro font, centered, cream/white with subtle steel-blue glow, enclosed in elegant quotation marks. Approximately 14pt equivalent.
+
+OVERALL MOOD AND QUALITY:
+
+Professional, imposing, rock-solid — the feeling of standing before a man who has held mountain passes against armies and is quietly assessing whether you deserve his respect. Dominant palette: steel-blue grey, warm amber, mountain stone, and iron. Brennan must radiate unshakeable military professionalism — not flashy, not charismatic, just competent, immovable, and waiting to be convinced.
+
+ABSOLUTELY NO oil painting texture. NO watercolor. NO canvas grain. NO painterly edges. PHOTOREALISTIC CINEMATIC DIGITAL ART — sharp, clean, precise, and devastatingly beautiful.

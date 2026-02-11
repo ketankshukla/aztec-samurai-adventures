@@ -1,0 +1,65 @@
+CHARACTER PORTRAIT: MIYAKO — THE EXILE SENSEI
+TYPE: Character Portrait (matching ebook cover quality)
+DIMENSIONS: 1600 x 2400 pixels, 300 DPI, sRGB color profile
+
+---
+
+A breathtaking ultra-high-resolution photorealistic character portrait rendered at 1600x2400 pixels, 300 DPI, in sharp cinematic digital style with advanced volumetric lighting, ray-traced reflections, and subsurface skin scattering. This must look like a $200-million Hollywood movie poster — every surface, every texture, every particle of light rendered with obsessive photographic precision. ABSOLUTELY NO oil painting, NO watercolor, NO painterly brushstrokes, NO soft-focus artistic filters, NO traditional media aesthetic whatsoever. Every pixel must be razor-sharp, hyper-detailed, and cinematically lit.
+
+SUBJECT — SHADOW MASTER PORTRAIT (THE EXILE SENSEI):
+
+A striking woman of East Asian descent in her late 50s — Miyako, the Shadow School Master — positioned in the lower-center of the image, face centered at approximately 60-75% down from the top. She is captured mid-shadow-step — her body partially dissolved into darkness, the edges of her form blurring into wisps of dark energy that trail behind her like smoke. One hand holds a straight-bladed shadow-school katana — shorter than Itzil's, the dark steel absorbing light rather than reflecting it. Her other hand is raised in the shadow-step mudra — two fingers extended, the others folded. She exists between the physical and the invisible — half-present, half-shadow, devastating in both states.
+
+FACE — HYPER-DETAILED PHOTOREALISTIC BEAUTY OF EXPERIENCE:
+
+Miyako's face is strikingly beautiful in the way that only age and experience can produce — a face that was likely stunning in youth and has become something far more compelling with time. Her bone structure is refined and angular — sharp cheekbones creating elegant shadows, a narrow jaw that gives her face a fox-like intelligence, a smooth forehead now lined with the deep horizontal creases of decades of discipline and regret. Her skin is fair with warm golden undertones — lighter than most characters, with the luminous quality of porcelain that has been handled with care. Age lines are present and rendered with photorealistic precision — crow's feet at her eye corners that deepen when she narrows her gaze, fine lines across her forehead, subtle creases at the corners of her mouth. These are not signs of decline — they are the calligraphy of a life written in discipline and sacrifice.
+
+Her eyes are dark and penetrating — deep brown, almost black, with a sharp intelligence that misses nothing. These are the eyes of a master teacher — eyes that can see a student's weakness in a single stance and correct it with a single word. There is warmth buried deep beneath the professional assessment — warmth she guards carefully, because the last time she let people in, she lost everything. Faint shadows beneath her eyes suggest years of watchfulness. Her lashes are dark and straight, her brows strong and slightly furrowed — the permanent expression of someone who carries a great weight with absolute composure.
+
+Her nose is small and straight — elegant, precise, East Asian in its refined structure. Her lips are thin but well-defined — naturally pale, set in a line that could be severity or discipline or barely contained emotion. A small scar at the corner of her jaw — an old wound from the night she fled her home city decades ago. Her expression is controlled calm with an undertone of fierce resolve — a woman who spent decades hiding and has decided she is done running.
+
+HAIR — GREY AND MAGNIFICENT:
+
+Her hair is her most striking feature — once jet-black, now entirely grey-silver, long and thick, pulled back in a single severe warrior's tail that falls to the middle of her back. The grey hair catches light beautifully — cool silver highlights and warm platinum lowlights creating a shimmering, moonlit quality. The warrior's tail is bound at the base with a simple black cord — no ornamentation, no decoration. Function over form. A few shorter strands have escaped the binding and frame her face at the temples — softening the severity just enough to remind the viewer that beneath the master is a woman who chose exile over complicity.
+
+CLOTHING — SHADOW SCHOOL TRADITION:
+
+Miyako wears the garb of a shadow-school master — dark, close-fitting, designed for silence and invisibility. A fitted tunic of deep charcoal-black fabric — matte, light-absorbing, with no reflective surfaces. Over this, a short sleeveless vest of dark grey — reinforced with thin panels of hardened leather at critical points. Her forearms are wrapped in dark cloth bandages — the shadow-school tradition, serving both as armor padding and as conduits for shadow-step energy. Dark cloth wraps bind her lower legs above soft-soled tabi boots — silent on any surface.
+
+Her katana is a shadow-school blade — shorter, straighter, and darker than a Sun-Blade. The steel is treated with a black oxide that absorbs light. The scabbard is plain black lacquer. No ornamentation. A weapon designed to be unseen until the moment it strikes.
+
+BACKGROUND — THE RUINS OF KANEZAWA AT MOONLIGHT:
+
+Behind Miyako and slightly out of focus, the moonlit ruins of her former home city — Kanezawa, the place she fled decades ago and returned to in the war. Beautiful Mesoamerican-Asian fusion architecture — pagoda-style temples with stepped-pyramid bases, now partially ruined by Dominion occupation. Moonlight bathes the scene in cool silver-blue. In the distance, the remnants of the ash-oath anchor she destroyed are visible — a shattered obsidian pillar trailing wisps of dissipating crimson energy. Cherry-blossom trees — half-burned, half-alive — line a broken courtyard, their blossoms drifting in the night air.
+
+ATMOSPHERIC EFFECTS:
+
+Shadow-step energy manifests as dark wisps and ripples emanating from Miyako's partially dissolved form — dark smoke-like tendrils that trail behind her, blurring the boundary between person and shadow. Cool moonlight creates silver-blue highlights. Cherry blossoms drift through the scene — some catching moonlight, others passing through shadow. The overall effect is haunting beauty — a ghost returning home, a teacher giving her last lesson.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+
+Miyako's face must be positioned entirely BELOW the text area and ABOVE the quote at the bottom. Her face occupies roughly the 55%-82% vertical zone. The top 40% must contain ONLY background elements. NO part of her face, hair, weapon, or body may enter the top 35%.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED:
+
+All text is centered horizontally. All percentages measured from the TOP of the image.
+
+Line 1 (exactly 3% from top): "AZTEC SAMURAI ADVENTURES" — small elegant Trajan Pro font, turquoise color (#40E0D0), letter-spacing 0.15em, approximately 14pt equivalent. Subtle turquoise glow.
+
+Line 2 (exactly 8-16% from top): "MIYAKO" — very large, bold Trajan Pro font, gold color (#FFD700) with cool silver glow and subtle embossed quality. Dominant text element. Letter-spacing 0.15em. Approximately 72-80pt equivalent.
+
+Line 3 (exactly 18% from top): "The Exile Sensei" — medium Trajan Pro font, white/cream with subtle silver-blue coolness. Letter-spacing 0.1em. Approximately 24pt equivalent.
+
+Line 4 (exactly 21% from top): "Shadow School Master" — smaller Trajan Pro font, silver-turquoise color. Letter-spacing 0.1em. Approximately 16pt equivalent.
+
+Line 5 (exactly 24% from top): "Grey-Haired Exile · Shadow-Step Master · The Teacher Who Came Home" — small italic Trajan Pro, light cream/silver. Approximately 12pt equivalent.
+
+Decorative ornamental line (exactly 26% from top): Elegant gold and turquoise ornamental filigree divider — Aztec-inspired geometric scrollwork with shadow-step and cherry-blossom motifs. Gold (#FFD700) with turquoise (#40E0D0) accents.
+
+Line 6 (exactly 92% from top): "You don't need to be perfect. You just need to be there." — italic Trajan Pro font, centered, cream/white with subtle silver glow, enclosed in elegant quotation marks. Approximately 14pt equivalent.
+
+OVERALL MOOD AND QUALITY:
+
+Haunting, elegant, bittersweet — the feeling of watching a master return to the place she lost and choosing to give everything she has left. Dominant palette: moonlit silver-blue, charcoal shadow, cool grey, and soft cherry-blossom pink. Miyako must be strikingly beautiful in the way that mastery and sacrifice are beautiful — not young, not old, but timeless in the way a well-made blade is timeless.
+
+ABSOLUTELY NO oil painting texture. NO watercolor. NO canvas grain. NO painterly edges. PHOTOREALISTIC CINEMATIC DIGITAL ART — sharp, clean, precise, and devastatingly beautiful.

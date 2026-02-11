@@ -1,0 +1,63 @@
+CHARACTER PORTRAIT: AMALURA — THE KEEPER OF LORE
+TYPE: Character Portrait (matching ebook cover quality)
+DIMENSIONS: 1600 x 2400 pixels, 300 DPI, sRGB color profile
+
+---
+
+A breathtaking ultra-high-resolution photorealistic character portrait rendered at 1600x2400 pixels, 300 DPI, in sharp cinematic digital style with advanced volumetric lighting, ray-traced reflections, and subsurface skin scattering. This must look like a $200-million Hollywood movie poster — every surface, every texture, every particle of light rendered with obsessive photographic precision. ABSOLUTELY NO oil painting, NO watercolor, NO painterly brushstrokes, NO soft-focus artistic filters, NO traditional media aesthetic whatsoever. Every pixel must be razor-sharp, hyper-detailed, and cinematically lit.
+
+SUBJECT — INTELLECTUAL FORTRESS PORTRAIT (THE KEEPER OF LORE):
+
+An elderly woman of indigenous Mesoamerican descent in her early eighties — Amalura, the Keeper of Lore and ancient scholar of the Sun-Blade tradition — positioned in the lower-center of the image, face centered at approximately 60-75% down from the top. She is seated at a vast desk piled with open manuscripts, scrolls, and ancient texts, one hand holding a magnifying lens of polished crystal over an illuminated page, the other hand raised with index finger extended as though making a devastating point in an argument. Her posture is imperious despite her age — spine straight, chin elevated, eyes blazing with the fierce intelligence of a mind that has never dulled. She radiates the dangerous authority of someone who knows more than everyone else in the room and has absolutely no patience for pretending otherwise.
+
+FACE — HYPER-DETAILED PHOTOREALISTIC GRAVITAS:
+
+Amalura's face is striking in the way that ancient architecture is striking — weathered, dignified, and built to last centuries. Her bone structure is strong and angular — high, prominent cheekbones that age has sharpened rather than softened, a firm jaw that juts forward with stubborn authority, a broad forehead deeply lined with decades of concentration and intellectual fury. Her skin is deep brown — darker than Korvain's, with warm umber undertones that glow in the lamplight. Age has mapped her face with extraordinary detail — deep crow's feet radiating from sharp eyes, pronounced nasolabial folds that deepen when she purses her lips (which is often), the delicate web of fine lines across her cheeks and forehead that speak of eighty years of thinking, arguing, and being right.
+
+Her eyes are her most formidable feature — small, sharp, and a deep, penetrating brown so dark they appear black in shadow, but in lamplight they reveal flecks of amber that suggest a fire that has never gone out. These are the eyes of the most dangerous mind in the alliance — eyes that can read ancient texts in twelve languages, decode thousand-year-old ciphers, and see through every lie ever attempted in her presence. Her gaze is withering, analytical, and occasionally — when she looks at Itzil or Korvain — tinged with a tenderness so brief you might miss it. Her brows are thin and grey, perpetually drawn together in an expression of impatient scrutiny.
+
+Her nose is prominent and aquiline — strong, hooked, aristocratic. Her lips are thin, firm, and perpetually set in a line that communicates "I am waiting for you to stop being wrong." Her expression is the sharpest in the series — a mind like a scalpel wielded with the precision of a surgeon and the patience of an executioner.
+
+HAIR — SILVER AND SEVERE:
+
+Pure white hair — thin with age but stubbornly abundant — pulled back in a tight, severe bun at the crown of her head, secured with two jade-tipped pins bearing the Sun-Blade order's sigil. The bun is immaculate — not a strand out of place. The white hair catches lamplight in soft silver-gold highlights. Her hairline has receded slightly at the temples with age, revealing more of her formidable forehead. A few escaped wisps of white hair at her temples soften the severity fractionally.
+
+CLOTHING — SCHOLAR'S AUTHORITY:
+
+Amalura wears layered scholar's robes of deep midnight-blue and aged gold — heavy silk embroidered with faded celestial charts and ancient script. The outer robe is floor-length with wide sleeves lined in pale gold silk. Beneath, a fitted tunic of dark burgundy. A heavy gold chain hangs around her neck bearing the seal of the Keeper of Lore — an open book flanked by two suns, cast in gold and jade. Her hands are thin, veined, spotted with age — but her fingers are precise and steady, the hands of someone who has handled priceless manuscripts for sixty years. Reading spectacles of thin gold wire and polished crystal perch on her aquiline nose.
+
+BACKGROUND — THE SEALED ARCHIVE:
+
+Behind Amalura and slightly out of focus, the vast interior of the Sealed Archive — the Sun-Blade order's greatest repository of knowledge. Floor-to-ceiling shelves of ancient books and scrolls stretch into shadow in every direction. Warm lamplight from dozens of floating golden orbs illuminates the space with soft, amber warmth. Ancient texts lie open on multiple surfaces — some with turquoise-glowing illuminated pages. Dust motes drift through light shafts. The atmosphere is hushed, sacred — a cathedral of knowledge.
+
+ATMOSPHERIC EFFECTS:
+
+Warm amber lamplight from floating golden orbs creates soft, intellectual warmth. Dust motes drift in golden light shafts. Faint turquoise glow from illuminated manuscripts adds mystical undertones. The air feels heavy with accumulated knowledge. The overall effect is the quiet, fierce power of a lifetime spent in service to truth.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+
+Amalura's face must be positioned entirely BELOW the text area and ABOVE the quote at the bottom. Her face occupies roughly the 55%-82% vertical zone. The top 40% must contain ONLY background elements. NO part of her face, hair, or body may enter the top 35%.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED:
+
+All text is centered horizontally. All percentages measured from the TOP of the image.
+
+Line 1 (exactly 3% from top): "AZTEC SAMURAI ADVENTURES" — small elegant Trajan Pro font, turquoise color (#40E0D0), letter-spacing 0.15em, approximately 14pt equivalent. Subtle turquoise glow.
+
+Line 2 (exactly 8-16% from top): "AMALURA" — very large, bold Trajan Pro font, gold color (#FFD700) with warm amber glow and subtle embossed quality. Dominant text element. Letter-spacing 0.12em. Approximately 64-72pt equivalent.
+
+Line 3 (exactly 18% from top): "The Keeper of Lore" — medium Trajan Pro font, white/cream with subtle golden warmth. Letter-spacing 0.1em. Approximately 24pt equivalent.
+
+Line 4 (exactly 21% from top): "Scholar and Strategic Advisor" — smaller Trajan Pro font, turquoise color (#40E0D0). Letter-spacing 0.1em. Approximately 16pt equivalent.
+
+Line 5 (exactly 24% from top): "Ancient Keeper of the Sun-Blade Tradition · Sharp-Tongued, Brilliant" — small italic Trajan Pro, light cream/gold. Approximately 12pt equivalent.
+
+Decorative ornamental line (exactly 26% from top): Elegant gold and turquoise ornamental filigree divider — Aztec-inspired geometric scrollwork with open-book and sun-disc motifs. Gold (#FFD700) with turquoise (#40E0D0) accents.
+
+Line 6 (exactly 92% from top): "Knowledge is only half of wisdom." — italic Trajan Pro font, centered, cream/white with subtle golden glow, enclosed in elegant quotation marks. Approximately 14pt equivalent.
+
+OVERALL MOOD AND QUALITY:
+
+Intellectually formidable, warm beneath severity, the last guardian of irreplaceable knowledge. Dominant palette: warm amber, midnight-blue, aged gold, and soft turquoise. Amalura must radiate fierce intelligence and authority — beautiful in the way that truth is beautiful, sharp, uncompromising, and essential.
+
+ABSOLUTELY NO oil painting texture. NO watercolor. NO canvas grain. NO painterly edges. PHOTOREALISTIC CINEMATIC DIGITAL ART — sharp, clean, precise, and devastatingly beautiful.

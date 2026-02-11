@@ -1,0 +1,65 @@
+CHARACTER PORTRAIT: CORWEN — THE FIRST FREED
+TYPE: Character Portrait (matching ebook cover quality)
+DIMENSIONS: 1600 x 2400 pixels, 300 DPI, sRGB color profile
+
+---
+
+A breathtaking ultra-high-resolution photorealistic character portrait rendered at 1600x2400 pixels, 300 DPI, in sharp cinematic digital style with advanced volumetric lighting, ray-traced reflections, and subsurface skin scattering. This must look like a $200-million Hollywood movie poster — every surface, every texture, every particle of light rendered with obsessive photographic precision. ABSOLUTELY NO oil painting, NO watercolor, NO painterly brushstrokes, NO soft-focus artistic filters, NO traditional media aesthetic whatsoever. Every pixel must be razor-sharp, hyper-detailed, and cinematically lit.
+
+SUBJECT — LIBERATION PORTRAIT (THE FIRST FREED):
+
+A weathered man of indigenous Mesoamerican descent in his late 30s — Corwen, a farmer from Gracehold and the first person freed from an ash-oath by Neyla — positioned in the lower-center of the image, face centered at approximately 60-75% down from the top. He is captured in the moment after liberation — standing in warm daylight, his eyes wide with the shock of returned consciousness, one hand pressed to his chest where the ash-oath sigil once burned (now a fading scar), the other hand raised before his face, fingers spread, staring at his own hand as though seeing it for the first time. Tears stream down his face — not from pain but from the overwhelming sensation of having a will again. He is the first crack in the Dominion's greatest weapon, and his testimony will change five nations.
+
+FACE — HYPER-DETAILED PHOTOREALISTIC RAW EMOTION:
+
+Corwen's face is ordinary and extraordinary simultaneously — the face of a farmer, a common man, made luminous by the most profound emotional experience possible: the return of self. His bone structure is broad and honest — wide cheekbones, a strong but unremarkable jaw, a forehead lined with years of sun and labor. His skin is sun-darkened brown — the deep, warm brown of someone who has worked outdoors his entire life, weathered with sun-creases and the coarse texture of wind and field work. Photorealistic detail shows every line, every pore, every mark of a life lived in honest labor. His face is gaunt — the ash-oath kept his body functioning but did not feed it well. His cheeks are hollow, his temples sunken.
+
+His eyes are the emotional center — wide, brown, ordinary farmer's eyes now blazing with the returned fire of consciousness. These are not the eyes of a warrior or a scholar — they are the eyes of a man who grew crops and loved his family and had everything stolen by a sigil burned into his chest. And now, impossibly, the theft has been reversed. His eyes are wet, brimming, overflowing — tears of recognition, of returned identity, of the crushing weight of remembering who you are after months of being no one. His expression is not one emotion but all of them — shock, grief, joy, anger, relief, disbelief — the entire spectrum of human experience crashing back into a mind that was emptied and refilled in an instant.
+
+His nose is broad, slightly flattened — a farmer's nose, broken once by a kicked mule. His lips are chapped, dry, parted in a gasp or a whisper — perhaps his own name, remembered. A day's worth of stubble covers his jaw. His face is dirty — dust, sweat, the grime of servitude. But his eyes are clean. His eyes are his.
+
+The ash-oath scar is visible on his chest where his rough-spun shirt is torn open — a circle of pale, healing skin where the sigil once glowed crimson. The scar is fading even as we watch — Neyla's healing work dissolving the last traces.
+
+HAIR — COMMON AND UNKEMPT:
+
+Dark brown, roughly cut — the practical haircut of a farmer, now grown out during months of ash-oath servitude. Uncombed, unwashed, falling across his forehead in lank strands. No decoration, no style — simply human hair on a human head, reclaimed.
+
+CLOTHING — FREED SLAVE'S RAGS:
+
+Corwen wears the rough clothing of an ash-oath laborer — a coarse-spun shirt of undyed cloth, torn at the chest where the sigil was exposed for Neyla's treatment. Rough canvas trousers, frayed and stained. No shoes — ash-oath slaves were not given shoes. His clothing is the uniform of dehumanization, and in this portrait, he is shedding it — pulling the torn shirt away from the healing scar, reclaiming his body.
+
+BACKGROUND — THE GRACEHOLD LIBERATION:
+
+Behind Corwen and slightly out of focus, the courtyard of Gracehold — Helisar's "sanctuary" now exposed for what it truly is. Other freed ash-oath slaves are visible in the background — some standing in the same dazed, tearful state as Corwen, others embracing, others collapsed. Neyla is barely visible — a small figure in pale turquoise kneeling beside another patient, turquoise-gold light glowing from her hands. The warm sunlight of a clear day bathes the scene — inappropriate, almost cruel in its beauty, a perfect day for the exposure of a perfect atrocity.
+
+ATMOSPHERIC EFFECTS:
+
+Warm, golden sunlight dominates — clean, honest daylight, the antithesis of the Dominion's crimson ash-candle glow. The fading ash-oath sigil on Corwen's chest emits a last wisp of crimson energy — dissolving into the clean air, the darkness burning away in sunlight. Dust motes drift in the warm light. The atmosphere is raw, exposed, healing — the first breath after drowning.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+
+Corwen's face must be positioned entirely BELOW the text area and ABOVE the quote at the bottom. His face occupies roughly the 55%-82% vertical zone. The top 40% must contain ONLY background elements. NO part of his face, hair, or body may enter the top 35%.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED:
+
+All text is centered horizontally. All percentages measured from the TOP of the image.
+
+Line 1 (exactly 3% from top): "AZTEC SAMURAI ADVENTURES" — small elegant Trajan Pro font, turquoise color (#40E0D0), letter-spacing 0.15em, approximately 14pt equivalent. Subtle turquoise glow.
+
+Line 2 (exactly 8-16% from top): "CORWEN" — very large, bold Trajan Pro font, gold color (#FFD700) with warm amber glow and subtle embossed quality. Dominant text element. Letter-spacing 0.15em. Approximately 72-80pt equivalent.
+
+Line 3 (exactly 18% from top): "The First Freed" — medium Trajan Pro font, white/cream with subtle golden warmth. Letter-spacing 0.1em. Approximately 24pt equivalent.
+
+Line 4 (exactly 21% from top): "Freed Ash-Oath Survivor" — smaller Trajan Pro font, turquoise color (#40E0D0). Letter-spacing 0.1em. Approximately 16pt equivalent.
+
+Line 5 (exactly 24% from top): "Farmer From Gracehold · First Liberated Witness" — small italic Trajan Pro, light cream/gold. Approximately 12pt equivalent.
+
+Decorative ornamental line (exactly 26% from top): Elegant gold and turquoise ornamental filigree divider — Aztec-inspired geometric scrollwork with broken-chain and sun motifs. Gold (#FFD700) with turquoise (#40E0D0) accents.
+
+Line 6 (exactly 92% from top): "My name is Corwen. I remember now." — italic Trajan Pro font, centered, cream/white with subtle golden glow, enclosed in elegant quotation marks. Approximately 14pt equivalent.
+
+OVERALL MOOD AND QUALITY:
+
+Raw, human, devastatingly emotional — the feeling of watching a soul return to its body. Dominant palette: warm golden sunlight, honest brown earth tones, fading crimson, and turquoise healing light. Corwen must be achingly ordinary — not beautiful, not heroic, just human. And that is what makes this portrait one of the most powerful in the series. The war is fought by heroes. It is fought FOR people like Corwen.
+
+ABSOLUTELY NO oil painting texture. NO watercolor. NO canvas grain. NO painterly edges. PHOTOREALISTIC CINEMATIC DIGITAL ART — sharp, clean, precise, and devastatingly beautiful.

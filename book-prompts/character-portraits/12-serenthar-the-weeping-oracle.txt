@@ -1,0 +1,63 @@
+CHARACTER PORTRAIT: SERENTHAR — THE WEEPING ORACLE
+TYPE: Character Portrait (matching ebook cover quality)
+DIMENSIONS: 1600 x 2400 pixels, 300 DPI, sRGB color profile
+
+---
+
+A breathtaking ultra-high-resolution photorealistic character portrait rendered at 1600x2400 pixels, 300 DPI, in sharp cinematic digital style with advanced volumetric lighting, ray-traced reflections, and subsurface skin scattering. This must look like a $200-million Hollywood movie poster — every surface, every texture, every particle of light rendered with obsessive photographic precision. ABSOLUTELY NO oil painting, NO watercolor, NO painterly brushstrokes, NO soft-focus artistic filters, NO traditional media aesthetic whatsoever. Every pixel must be razor-sharp, hyper-detailed, and cinematically lit.
+
+SUBJECT — TRAGIC ORACLE PORTRAIT (THE WEEPING ONE):
+
+An ancient, ethereal figure of indeterminate heritage — Serenthar, the Weeping Oracle — positioned in the lower-center of the image, face centered at approximately 60-75% down from the top. She appears simultaneously young and impossibly old — her face smooth in places, deeply lined in others, as though time itself cannot decide what to do with her. She is seated on a dark stone floor in a subterranean chamber, her body wrapped in tattered robes, her head slightly bowed, and from her closed eyes, tears of liquid light flow — not water but luminous silver-gold tears that trail down her cheeks and drip from her jaw, each droplet glowing as it falls and dissolving into motes of light before touching the ground. Her hands are folded in her lap, palms upward, as though holding something invisible. She radiates ancient, terrible sorrow — not despair, but the grief of someone who has seen every possible future and cannot close her eyes.
+
+FACE — HYPER-DETAILED PHOTOREALISTIC OTHERWORLDLY BEAUTY:
+
+Serenthar's face is hauntingly beautiful in a way that transcends human aesthetic — alien and ancient yet heartbreakingly vulnerable. Her bone structure is delicate and angular — high, sharp cheekbones that create deep hollows, a narrow jaw tapering to a small pointed chin, a high domed forehead that speaks of vast intelligence. Her skin is pale — not the porcelain of Nightshade but a luminous, almost translucent paleness, as though she has not seen sunlight in centuries. Beneath the surface, faint patterns of light are visible — like veins of liquid gold running beneath her skin, the residual energy of centuries of demon-bond. Her skin shows both youth and age simultaneously — smooth across her cheekbones and forehead, deeply creased around her eyes and mouth, as though different parts of her face age at different rates.
+
+Her eyes — when they open — are her most extraordinary feature. Ember-red irises that glow with their own internal light, like banked coals in a dying fire. The red is layered — deep crimson at the outer ring, transitioning through burnt orange to a core of molten amber near the pupils. These are eyes that see every timeline simultaneously — past, present, and every branching future — and the weight of that vision is written in every fiber of her being. Currently her eyes are closed, tears of luminous light streaming from beneath dark lashes. The tears leave glowing trails down her cheeks — trails of liquid prophecy.
+
+Her nose is thin and sharp — elegant, almost elvish. Her lips are pale, bloodless, slightly parted as though whispering something no one can hear — perhaps the names of futures that will never happen, or the names of people who will not survive. Her expression is the most complex in the series — grief, acceptance, love, and terrible knowledge layered simultaneously. She weeps not from despair but from the impossibility of seeing everything and being unable to change it.
+
+HAIR — ETHEREAL AND FLOWING:
+
+Her hair is extraordinary — once dark, now a complex gradient from dark roots to silver-white tips, as though the color has been slowly drained by centuries of vision. It is very long — falling past her waist — and moves as though submerged in invisible water, drifting in slow, weightless tendrils that defy gravity. The hair catches the glow of her tears, creating luminous highlights of silver and gold throughout. Thin threads of dark energy — remnants of her demon-bond — are visible woven through the strands, pulsing faintly with residual crimson light.
+
+CLOTHING — ANCIENT AND TATTERED:
+
+Serenthar wears the remnants of what were once magnificent ceremonial robes — layers of once-white fabric now grey and tattered, the original embroidery of celestial charts and prophecy symbols still visible but faded to ghost-images. The robes are voluminous, pooling around her on the stone floor. Thin chains of dark iron encircle her wrists — not restraints but reminders, the physical markers of her centuries-long bond to the Great Gate. The chains are broken — snapped links trailing from the shackles, though she has never tried to remove them. Around her neck, a single pendant of dark obsidian in the shape of a keystone — the symbol of the Gate she opened and will ultimately close.
+
+BACKGROUND — THE CHAMBER BENEATH THE PALACE:
+
+Behind Serenthar and slightly out of focus, the deep subterranean chamber beneath the Dominion palace where she has been imprisoned for centuries. Dark stone walls carved with ancient, glowing prophecy-text — words that shift and change as futures branch and collapse. The ceiling is lost in shadow. The floor is polished dark stone, reflecting the glow of her tears in rippling patterns. Faint crimson energy from the nearby Great Gate seeps through cracks in the walls — the gate she opened, straining above. The space is vast, empty, and terrifyingly lonely.
+
+ATMOSPHERIC EFFECTS:
+
+Her luminous tears are the primary light source — silver-gold light that casts soft, ethereal illumination across her face and surroundings. Motes of prophetic light drift upward from fallen teardrops — tiny points of silver and gold floating through the darkness. Faint crimson Gate-energy seeps through wall cracks. The prophecy-text on the walls shifts and glows in response to her presence. The air feels heavy with time — centuries of accumulated futures pressing down like weight.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+
+Serenthar's face must be positioned entirely BELOW the text area and ABOVE the quote at the bottom. Her face occupies roughly the 55%-82% vertical zone. The top 40% must contain ONLY background elements. NO part of her face, hair, or body may enter the top 35%.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED:
+
+All text is centered horizontally. All percentages measured from the TOP of the image.
+
+Line 1 (exactly 3% from top): "AZTEC SAMURAI ADVENTURES" — small elegant Trajan Pro font, turquoise color (#40E0D0), letter-spacing 0.15em, approximately 14pt equivalent. Subtle turquoise glow.
+
+Line 2 (exactly 8-16% from top): "SERENTHAR" — very large, bold Trajan Pro font, gold color (#FFD700) with silver-ember glow and subtle embossed quality. Dominant text element. Letter-spacing 0.12em. Approximately 64-72pt equivalent.
+
+Line 3 (exactly 18% from top): "The Weeping Oracle" — medium Trajan Pro font, white/cream with subtle ember-red warmth. Letter-spacing 0.1em. Approximately 24pt equivalent.
+
+Line 4 (exactly 21% from top): "Demon-Bound Seer" — smaller Trajan Pro font, ember-red/gold color. Letter-spacing 0.1em. Approximately 16pt equivalent.
+
+Line 5 (exactly 24% from top): "Ancient Seer Who Sees All Futures · Weeps Because She Cannot Look Away" — small italic Trajan Pro, light cream/silver. Approximately 12pt equivalent.
+
+Decorative ornamental line (exactly 26% from top): Elegant gold and ember ornamental filigree divider — Aztec-inspired geometric scrollwork with keystone and teardrop motifs. Gold (#FFD700) with ember-red accents.
+
+Line 6 (exactly 92% from top): "Between us, we hold the shape of every possible future." — italic Trajan Pro font, centered, cream/white with subtle silver-gold glow, enclosed in elegant quotation marks. Approximately 14pt equivalent.
+
+OVERALL MOOD AND QUALITY:
+
+Tragic, ethereal, heartbreakingly beautiful — the feeling of witnessing something ancient and sacred that has been suffering in silence for centuries. Dominant palette: deep shadow, luminous silver-gold, ember-red, and translucent pale. Serenthar must be hauntingly, otherworldly beautiful — not human beauty but something older and sadder, beauty that makes you want to weep alongside her.
+
+ABSOLUTELY NO oil painting texture. NO watercolor. NO canvas grain. NO painterly edges. PHOTOREALISTIC CINEMATIC DIGITAL ART — sharp, clean, precise, and devastatingly beautiful.

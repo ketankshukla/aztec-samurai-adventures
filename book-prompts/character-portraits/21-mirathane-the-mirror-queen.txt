@@ -1,0 +1,63 @@
+CHARACTER PORTRAIT: MIRATHANE — THE MIRROR QUEEN
+TYPE: Character Portrait (matching ebook cover quality)
+DIMENSIONS: 1600 x 2400 pixels, 300 DPI, sRGB color profile
+
+---
+
+A breathtaking ultra-high-resolution photorealistic character portrait rendered at 1600x2400 pixels, 300 DPI, in sharp cinematic digital style with advanced volumetric lighting, ray-traced reflections, and subsurface skin scattering. This must look like a $200-million Hollywood movie poster — every surface, every texture, every particle of light rendered with obsessive photographic precision. ABSOLUTELY NO oil painting, NO watercolor, NO painterly brushstrokes, NO soft-focus artistic filters, NO traditional media aesthetic whatsoever. Every pixel must be razor-sharp, hyper-detailed, and cinematically lit.
+
+SUBJECT — SHATTERED GLASS PORTRAIT (THE MIRROR QUEEN):
+
+A hauntingly beautiful woman of indeterminate heritage in her late 20s — Mirathane, the Mirror-Realm assassin — positioned in the lower-center of the image, face centered at approximately 60-75% down from the top. She is captured half-emerged from a massive shattered mirror — her upper body stepping through the fractured glass surface while her lower body remains a reflection, fragmented across dozens of mirror-shards. One hand extends forward, fingers spread, trailing razor-thin threads of silver-white mirror energy. Her other hand holds a mirror-blade — a weapon of crystallized reflection, impossibly sharp, catching and refracting every light source into a dazzling cascade of prismatic shards. She exists between realities — half-real, half-reflection, cold and precise and barely human.
+
+FACE — HYPER-DETAILED PHOTOREALISTIC CRYSTALLINE BEAUTY:
+
+Mirathane's face is beautiful in a way that feels mathematical — perfectly symmetrical, geometrically precise, as though every feature has been calculated to optimal proportions. Her bone structure is sharp and angular — high, blade-thin cheekbones creating severe shadows, a narrow jaw tapering to a pointed chin, a high smooth forehead that seems carved from glass. Her skin is extraordinarily pale — not warm porcelain but cool, almost silver-white, with a faint reflective quality as though her skin contains embedded mirror-particles. In the right light, her skin catches and reflects surrounding colors like polished metal — cool blue from mirror-light, warm amber from reflected flames, creating a prismatic, shifting quality across her features.
+
+Her eyes are the most alien in the series — large, wide, and completely silver-metallic. No visible pupil, no iris distinction — her eyes are solid quicksilver that reflects everything before them in perfect miniature, like two tiny convex mirrors set in her skull. When she focuses on something, the reflections in her eyes sharpen to show exactly what she's looking at — a predator locking onto prey. The demon-bond that created her replaced her human eyes with these mirror-orbs. Beneath the silver surface, if you look closely, the ghost of a frightened child's brown eyes is barely visible — the original Mirathane, imprisoned behind the glass. Her lashes are silver-white, almost metallic, each one catching light individually.
+
+Her eyebrows are thin, precise, silver-touched. Her nose is small and sharp — geometric, crystalline. Her lips are pale, almost colorless, with a faint silver shimmer — currently set in a flat, expressionless line. No emotion. Emotion is inefficiency. Her face shows no warmth, no cruelty, no pleasure, no pain — just cold, geometric certainty. She is beautiful the way a diamond is beautiful — hard, cold, and capable of cutting through anything.
+
+HAIR — SILVER AND GEOMETRIC:
+
+Her hair is extraordinary — once dark, now entirely silver-white, straight and impossibly smooth, falling past her shoulders in a curtain of liquid mercury. Each strand reflects light with metallic precision. The hair moves unnaturally — drifting in slow, geometric patterns that follow mirror-energy currents rather than gravity or wind. Some strands fragment into tiny mirror-shards at their tips — dissolving from hair into glass, the boundary between her physical form and the mirror-realm blurring. The hair creates a halo of shifting silver light around her head.
+
+CLOTHING — MIRROR-REALM ARMOR:
+
+Mirathane wears armor of crystallized mirror — fitted plates of reflective glass-metal that cover her torso, shoulders, and forearms. Each plate is a perfect mirror surface, reflecting and distorting the surrounding environment in fractured images. The armor has no joints or seams visible — it appears grown rather than constructed, as though the mirror-realm itself has armored her. Beneath the mirror-plates, a bodysuit of dark charcoal fabric — close-fitting, silent, designed for assassination. Her feet are bare — pale, silent on any surface, leaving faint frosted footprints that fade in seconds.
+
+BACKGROUND — THE MIRROR-REALM:
+
+Behind Mirathane and slightly out of focus, the terrifying interior of the Mirror-Realm — a dimension of shattered glass. The sky is fragmented — countless mirror-shards of varying sizes float in a void, each one reflecting a different scene from the physical world. Some show cities, some show forests, some show the faces of trapped souls — mouths open in silent screams, eyes wide, preserved forever in glass. The ground is a mosaic of mirror-fragments reflecting an infinity of recursive images — mirrors reflecting mirrors reflecting mirrors, creating a vertigo-inducing depth effect. The space is simultaneously vast and claustrophobic — infinite reflections creating the illusion of endlessness while the glass walls close in.
+
+ATMOSPHERIC EFFECTS:
+
+Silver-white mirror energy permeates everything — cold, sharp, crystalline light that creates harsh highlights and razor-edged shadows. Mirror-shards float and spin slowly through the air, each one catching and throwing light in different directions, creating a dazzling, disorienting constellation of reflections. The air itself seems fragmented — visible distortion lines where mirror-energy bends light. The overall effect is cold, precise, terrifyingly beautiful — a dimension designed for one purpose: to trap and kill.
+
+CRITICAL COMPOSITION RULE — FACE PLACEMENT:
+
+Mirathane's face must be positioned entirely BELOW the text area and ABOVE the quote at the bottom. Her face occupies roughly the 55%-82% vertical zone. The top 40% must contain ONLY background elements. NO part of her face, hair, or body may enter the top 35%.
+
+TEXT — MUST BE RENDERED EXACTLY AS SPECIFIED:
+
+All text is centered horizontally. All percentages measured from the TOP of the image.
+
+Line 1 (exactly 3% from top): "AZTEC SAMURAI ADVENTURES" — small elegant Trajan Pro font, turquoise color (#40E0D0), letter-spacing 0.15em, approximately 14pt equivalent. Subtle turquoise glow.
+
+Line 2 (exactly 8-16% from top): "MIRATHANE" — very large, bold Trajan Pro font, gold color (#FFD700) with cool silver glow and subtle embossed quality. Dominant text element. Letter-spacing 0.12em. Approximately 64-72pt equivalent.
+
+Line 3 (exactly 18% from top): "The Mirror Queen" — medium Trajan Pro font, white/cream with silver-reflective quality. Letter-spacing 0.1em. Approximately 24pt equivalent.
+
+Line 4 (exactly 21% from top): "Mirror-Realm Assassin" — smaller Trajan Pro font, silver-white color. Letter-spacing 0.1em. Approximately 16pt equivalent.
+
+Line 5 (exactly 24% from top): "Demon-Bonded Killer · Strikes Through Reflections · A Child Imprisoned in Glass" — small italic Trajan Pro, light silver/cream. Approximately 12pt equivalent.
+
+Decorative ornamental line (exactly 26% from top): Elegant gold and silver ornamental filigree divider — Aztec-inspired geometric scrollwork with mirror-shard and reflection motifs. Gold (#FFD700) with silver accents.
+
+Line 6 (exactly 92% from top): "The equation requires your death. Nothing personal." — italic Trajan Pro font, centered, cream/white with subtle silver glow, enclosed in elegant quotation marks. Approximately 14pt equivalent.
+
+OVERALL MOOD AND QUALITY:
+
+Cold, crystalline, mathematically terrifying — the feeling of being hunted by geometry itself. Dominant palette: silver-white, cool blue, crystalline reflections, and deep void-black. Mirathane must be hauntingly, inhumanly beautiful — beauty stripped of all warmth, all humanity, leaving only precision and lethality. Beneath it all, a trapped child no one can reach.
+
+ABSOLUTELY NO oil painting texture. NO watercolor. NO canvas grain. NO painterly edges. PHOTOREALISTIC CINEMATIC DIGITAL ART — sharp, clean, precise, and devastatingly beautiful.
