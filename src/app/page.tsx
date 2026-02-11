@@ -1,6 +1,7 @@
 "use client";
 
 import Hero from "@/components/Hero";
+import CharacterGrid from "@/components/CharacterGrid";
 import BooksSection from "@/components/BooksSection";
 import AuthorSection from "@/components/AuthorSection";
 import Footer from "@/components/Footer";
@@ -13,6 +14,7 @@ export default function Home() {
       <div className="min-h-screen bg-obsidian text-foreground">
         <main className="relative">
           <Hero />
+          <CharacterGrid />
           <BooksSection />
           <AuthorSection />
         </main>

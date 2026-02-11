@@ -23,7 +23,7 @@ export default function Hero() {
           {/* Full-width complete series cover */}
           <div className="animate-fadeInUp mb-8">
             <img
-              src="/images/complete-series-cover-landscape.png"
+              src="/images/box-sets/complete-series-cover-landscape.png"
               alt="Aztec Samurai Adventures — The Complete Series"
               className="w-full h-auto rounded-xl shadow-professional border border-white/10"
             />
