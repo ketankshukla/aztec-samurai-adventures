@@ -72,6 +72,29 @@ export default function CharacterModal({
     };
   }, [character, handleKeyDown]);
 
+  // Prevent pinch-zoom gestures on the modal
+  useEffect(() => {
+    if (!character) return;
+    const preventZoom = (e: TouchEvent) => {
+      if (e.touches.length > 1) {
+        e.preventDefault();
+      }
+    };
+    const preventGestureStart = (e: Event) => {
+      e.preventDefault();
+    };
+    document.addEventListener("touchmove", preventZoom, { passive: false });
+    document.addEventListener("gesturestart", preventGestureStart);
+    document.addEventListener("gesturechange", preventGestureStart);
+    document.addEventListener("gestureend", preventGestureStart);
+    return () => {
+      document.removeEventListener("touchmove", preventZoom);
+      document.removeEventListener("gesturestart", preventGestureStart);
+      document.removeEventListener("gesturechange", preventGestureStart);
+      document.removeEventListener("gestureend", preventGestureStart);
+    };
+  }, [character]);
+
   if (!character) return null;
 
   const alignment = alignmentConfig[character.alignment];

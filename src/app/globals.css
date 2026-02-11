@@ -31,12 +31,16 @@ body {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  touch-action: manipulation;
+  touch-action: pan-x pan-y;
+  -ms-touch-action: pan-x pan-y;
   -webkit-text-size-adjust: 100%;
+  overscroll-behavior: none;
 }
 
 html {
   scroll-behavior: smooth;
+  touch-action: pan-x pan-y;
+  -ms-touch-action: pan-x pan-y;
 }
 
 ::selection {
