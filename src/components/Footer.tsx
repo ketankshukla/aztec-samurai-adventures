@@ -33,7 +33,7 @@ export default function Footer() {
                 Aztec Samurai Adventures
               </span>
             </div>
-            <p className="text-cream/40 text-sm leading-relaxed">
+            <p className="text-cream/40 text-base leading-relaxed">
               A twelve-book YA epic fantasy saga of warriors, sorcerers, and the
               blade that carries the light.
             </p>
@@ -41,7 +41,7 @@ export default function Footer() {
 
           {/* Book links - Column 1 */}
           <div>
-            <h4 className="text-cream font-medium text-sm uppercase tracking-widest mb-4">
+            <h4 className="text-cream font-medium text-base uppercase tracking-widest mb-4">
               The Books
             </h4>
             <div className="grid grid-cols-2 gap-1">
@@ -49,7 +49,7 @@ export default function Footer() {
                 <button
                   key={book.id}
                   onClick={() => openBook(index)}
-                  className="text-left text-cream/40 hover:text-turquoise transition-colors text-xs py-1 truncate"
+                  className="text-left text-cream/40 hover:text-turquoise transition-colors text-sm py-1 truncate"
                 >
                   {book.roman}. {book.title}
                 </button>
@@ -59,7 +59,7 @@ export default function Footer() {
 
           {/* Links */}
           <div>
-            <h4 className="text-cream font-medium text-sm uppercase tracking-widest mb-4">
+            <h4 className="text-cream font-medium text-base uppercase tracking-widest mb-4">
               Links
             </h4>
             <div className="space-y-2">
@@ -67,19 +67,19 @@ export default function Footer() {
                 href="https://www.amazon.com"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="block text-cream/40 hover:text-turquoise transition-colors text-sm"
+                className="block text-cream/40 hover:text-turquoise transition-colors text-base"
               >
                 Buy on Amazon
               </a>
               <a
                 href="#books"
-                className="block text-cream/40 hover:text-turquoise transition-colors text-sm"
+                className="block text-cream/40 hover:text-turquoise transition-colors text-base"
               >
                 Browse Books
               </a>
               <a
                 href="#author"
-                className="block text-cream/40 hover:text-turquoise transition-colors text-sm"
+                className="block text-cream/40 hover:text-turquoise transition-colors text-base"
               >
                 About the Author
               </a>
@@ -89,10 +89,10 @@ export default function Footer() {
 
         {/* Copyright */}
         <div className="mt-12 pt-8 border-t border-turquoise/5 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <p className="text-cream/30 text-xs">
+          <p className="text-cream/30 text-sm">
             &copy; {new Date().getFullYear()} Ketan Shukla. All rights reserved.
           </p>
-          <p className="text-cream/20 text-xs italic font-serif">
+          <p className="text-cream/20 text-sm italic font-serif">
             &ldquo;The blade that protects is sharper than the blade that
             conquers.&rdquo;
           </p>

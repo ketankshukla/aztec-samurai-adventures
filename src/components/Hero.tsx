@@ -35,7 +35,7 @@ export default function Hero() {
               href="https://www.amazon.com"
               target="_blank"
               rel="noopener noreferrer"
-              className="btn-amazon inline-flex items-center justify-center gap-3 text-base sm:text-lg px-8 sm:px-10 py-3 sm:py-4"
+              className="btn-amazon inline-flex items-center justify-center gap-3 text-lg sm:text-xl px-8 sm:px-10 py-3 sm:py-4 whitespace-nowrap"
             >
               <ShoppingCart className="w-5 h-5 sm:w-6 sm:h-6" />
               Buy This Series on Amazon

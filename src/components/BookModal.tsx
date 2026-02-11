@@ -100,22 +100,24 @@ export default function BookModal() {
               >
                 {book.act}
               </div>
-              <h2 className="text-2xl sm:text-3xl font-bold font-serif text-cream mb-1">
+              <h2 className="text-2xl sm:text-4xl font-bold font-serif text-cream mb-1">
                 Book {book.roman}: {book.title}
               </h2>
-              <p className="text-cream/50 italic mb-4">{book.subtitle}</p>
+              <p className="text-cream/50 italic text-base mb-4">
+                {book.subtitle}
+              </p>
 
-              <div className="text-cream/40 text-sm mb-4">
+              <div className="text-cream/40 text-base mb-4">
                 <span className="text-turquoise font-medium">Focus:</span>{" "}
                 {book.focusCharacter}
               </div>
 
               {/* Epigraph */}
               <blockquote className="border-l-2 border-turquoise/30 pl-4 mb-6">
-                <p className="text-cream/60 italic font-serif text-sm">
+                <p className="text-cream/60 italic font-serif text-base">
                   &ldquo;{book.epigraph.quote}&rdquo;
                 </p>
-                <cite className="text-turquoise/60 text-xs mt-1 block not-italic">
+                <cite className="text-turquoise/60 text-sm mt-1 block not-italic">
                   — {book.epigraph.author}
                 </cite>
               </blockquote>
@@ -160,7 +162,7 @@ export default function BookModal() {
             <BookOpen className="w-5 h-5 text-turquoise" />
             About This Book
           </h3>
-          <p className="text-cream/60 leading-relaxed text-sm">
+          <p className="text-cream/60 leading-relaxed text-base">
             {book.elaborateDescription}
           </p>
         </div>
@@ -186,10 +188,10 @@ export default function BookModal() {
                   {chapter.number}
                 </span>
                 <div>
-                  <span className="text-cream/70 text-sm font-medium">
+                  <span className="text-cream/70 text-base font-medium">
                     {chapter.title}
                   </span>
-                  <p className="text-cream/40 text-xs mt-0.5 leading-relaxed">
+                  <p className="text-cream/40 text-sm mt-0.5 leading-relaxed">
                     {chapter.summary}
                   </p>
                 </div>

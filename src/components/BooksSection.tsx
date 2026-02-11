@@ -55,10 +55,10 @@ export default function BooksSection() {
                 href="https://www.amazon.com"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="btn-amazon inline-flex items-center justify-center gap-2 text-sm px-8 py-2.5"
+                className="btn-amazon inline-flex items-center justify-center gap-2 text-sm sm:text-base px-6 sm:px-8 py-2.5 sm:py-3 whitespace-nowrap"
               >
-                <ShoppingCart className="w-4 h-4" />
-                Buy This Box Set on Amazon
+                <ShoppingCart className="w-4 h-4 sm:w-5 sm:h-5" />
+                Buy This Box Set
               </a>
             </div>
 
@@ -91,19 +91,19 @@ export default function BooksSection() {
                     </div>
 
                     {/* Buttons */}
-                    <div className="p-3 flex flex-col gap-2">
+                    <div className="p-2 sm:p-3 flex flex-col gap-2">
                       <a
                         href="https://www.amazon.com"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="btn-amazon text-xs py-2 rounded-lg flex items-center justify-center gap-1.5 w-full"
+                        className="btn-amazon text-xs sm:text-sm py-2 rounded-lg flex items-center justify-center gap-1.5 w-full whitespace-nowrap"
                       >
                         <ShoppingCart className="w-3.5 h-3.5" />
-                        Buy This Book on Amazon
+                        Buy This Book
                       </a>
                       <button
                         onClick={() => openBook(bookIndex)}
-                        className="text-xs py-2 rounded-lg border border-turquoise/20 text-turquoise hover:bg-turquoise/10 transition-all duration-300 flex items-center justify-center gap-1.5 w-full"
+                        className="text-xs sm:text-sm py-2 rounded-lg border border-turquoise/20 text-turquoise hover:bg-turquoise/10 transition-all duration-300 flex items-center justify-center gap-1.5 w-full whitespace-nowrap"
                       >
                         <BookOpen className="w-3.5 h-3.5" />
                         Details

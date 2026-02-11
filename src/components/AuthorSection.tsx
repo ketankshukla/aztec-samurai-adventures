@@ -6,7 +6,7 @@ export default function AuthorSection() {
   const stats = [
     { icon: BookOpen, label: "Books", value: "12" },
     { icon: Swords, label: "Chapters", value: "288" },
-    { icon: Users, label: "Characters", value: "20+" },
+    { icon: Users, label: "Characters", value: "30" },
     { icon: Map, label: "Acts", value: "3" },
   ];
 
@@ -39,37 +39,52 @@ export default function AuthorSection() {
               <span className="heading-gradient">Ketan Shukla</span>
             </h2>
 
-            <div className="space-y-4 text-cream/60 leading-relaxed">
+            <div className="space-y-4 text-cream/60 leading-relaxed text-base">
               <p>
-                Ketan Shukla is the author of the{" "}
-                <em>Aztec Samurai Adventures</em> — a twelve-book YA epic
-                fantasy saga that blends Mesoamerican mythology with samurai
-                warrior traditions into a sweeping tale of war, sacrifice, and
-                hope.
+                Ketan Shukla is a writer who loves a good story — whether
+                he&rsquo;s building one from scratch or pulling one apart to see
+                how it works. The <em>Aztec Samurai Adventures</em> is his
+                twelve-book YA epic fantasy saga, blending Mesoamerican
+                mythology with samurai warrior traditions into a tale of war,
+                sacrifice, and hope.
               </p>
               <p>
-                The series follows Itzil, a reluctant warrior who discovers she
-                is the prophesied Blade-Bearer, as she assembles a diverse band
-                of allies — scouts, diplomats, healers, engineers, and duelists
-                — to fight the Dominion, a tyrannical empire that seeks to open
-                the Great Gate and unleash ancient darkness upon the world.
+                This series took years of careful planning and countless
+                rewrites. Thirty characters, each with their own arc. Twelve
+                books, each with twenty-four chapters. Three acts that build on
+                each other from the first page to the last. It was a labour of
+                love — sometimes exhausting, always worth it.
               </p>
               <p>
-                With a cast of over twenty named characters, a meticulously
-                planned three-act structure, and twenty-four chapters per book,
-                the <em>Aztec Samurai Adventures</em> is a saga built on four
-                guiding principles:
-                <strong className="text-turquoise">
-                  {" "}
-                  Continuity, Clarity, Consistency, and Coherency
-                </strong>
-                .
+                When he&rsquo;s not writing fiction, Ketan writes non-fiction
+                series about the ideas that fascinate him. You can find his
+                other work at{" "}
+                <a
+                  href="https://repetition.ketanshukla.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-turquoise hover:text-turquoise-light underline underline-offset-2 transition-colors"
+                >
+                  The Repetition Series
+                </a>{" "}
+                and{" "}
+                <a
+                  href="https://reality.ketanshukla.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-turquoise hover:text-turquoise-light underline underline-offset-2 transition-colors"
+                >
+                  Reality Without Belief
+                </a>
+                . He believes the best writing — fiction or non-fiction — comes
+                from genuine curiosity and the willingness to sit with a problem
+                until it teaches you something.
               </p>
             </div>
 
             {/* Dedication */}
             <div className="mt-8 p-6 glass rounded-xl">
-              <p className="text-cream/50 italic font-serif text-center">
+              <p className="text-cream/50 italic font-serif text-center text-base">
                 &ldquo;For every reader who ever picked up a sword in their
                 imagination and fought for a world worth saving.&rdquo;
               </p>
