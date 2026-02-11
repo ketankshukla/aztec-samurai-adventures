@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useCallback } from "react";
+import { useEffect, useCallback, useRef } from "react";
 import {
   X,
   Swords,
@@ -52,6 +52,15 @@ export default function CharacterModal({
   onPrev,
   onNext,
 }: CharacterModalProps) {
+  const scrollRef = useRef<HTMLDivElement>(null);
+
+  // Scroll to top whenever the character changes
+  useEffect(() => {
+    if (character && scrollRef.current) {
+      scrollRef.current.scrollTop = 0;
+    }
+  }, [character]);
+
   const handleKeyDown = useCallback(
     (e: KeyboardEvent) => {
       if (e.key === "Escape") onClose();
@@ -146,7 +155,10 @@ export default function CharacterModal({
           </button>
 
           {/* Scrollable content */}
-          <div className="overflow-y-auto max-h-[100vh] sm:max-h-[95vh]">
+          <div
+            ref={scrollRef}
+            className="overflow-y-auto max-h-[100vh] sm:max-h-[95vh]"
+          >
             {/* Full character portrait — uncropped */}
             <div className="relative">
               <img
