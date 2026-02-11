@@ -1,12 +1,12 @@
 @import "tailwindcss";
 
 @theme inline {
-  --color-background: #0a0a0a;
+  --color-background: #000000;
   --color-foreground: #e8dcc8;
   --color-turquoise: #40e0d0;
   --color-turquoise-light: #5ef7e7;
   --color-turquoise-dark: #2bb8aa;
-  --color-obsidian: #0a0a0a;
+  --color-obsidian: #000000;
   --color-obsidian-light: #141414;
   --color-obsidian-dark: #050505;
   --color-gold: #c9913b;
@@ -21,11 +21,11 @@
 
 * {
   scrollbar-width: thin;
-  scrollbar-color: #40e0d0 #0a0a0a;
+  scrollbar-color: #40e0d0 #000000;
 }
 
 body {
-  background: #0a0a0a;
+  background: #000000;
   color: var(--color-foreground);
   font-feature-settings: "liga", "kern";
   text-rendering: optimizeLegibility;
@@ -45,7 +45,7 @@ html {
 
 ::selection {
   background: #40e0d0;
-  color: #0a0a0a;
+  color: #000000;
 }
 
 /* Custom animations */
@@ -129,7 +129,7 @@ html {
 }
 
 ::-webkit-scrollbar-track {
-  background: #0a0a0a;
+  background: #000000;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -160,7 +160,7 @@ html {
 }
 
 .gradient-obsidian {
-  background: #0a0a0a;
+  background: #000000;
 }
 
 .gradient-text-turquoise {
