@@ -1,0 +1,38 @@
+IXCHEL AND THE STOLEN SUN
+A 32-Page Children's Picture Book
+
+Written by Ketan Shukla
+Illustrated in 3D Pixar-Inspired Chibi Style
+
+---
+
+STORY SUMMARY:
+In a tiny village nestled between jungle and mountains, a magical sun crystal lights up every morning, keeping the village warm and bright. When a lonely little shadow monkey steals the crystal and runs away, six-year-old Ixchel and her best friend Sol — a baby jaguar cub — set off on an adventure through jungles, rivers, caves, and ancient ruins to bring the sun back home. Along the way, they discover that the monkey wasn't being naughty — he was just lonely and wanted a little light of his own.
+
+TARGET AGE: 3-7 years old
+THEMES: Friendship, empathy, courage, kindness, understanding
+
+---
+
+RECURRING CHARACTERS (use these descriptions for consistency across all 32 prompts):
+
+IXCHEL: A 6-year-old girl with warm brown skin, large expressive dark brown eyes, long black hair in two braids with turquoise beads at the ends, a bright white dress with colorful Aztec geometric patterns in turquoise, gold, and red along the hem and neckline, small brown leather sandals. Chibi proportions — oversized head roughly 1/3 of total body height, small rounded hands. Glossy, smooth 3D rendering.
+
+SOL: A baby jaguar cub with golden-orange fur covered in dark brown rosette spots, oversized bright green eyes, a small pink nose, chubby rounded paws, and a short playful tail. Slightly smaller than Ixchel. Soft fur rendered with individual hair detail. Always cheerful and curious.
+
+COCO: A toucan with a vibrant rainbow-gradient beak (red, orange, yellow, green), glossy black feathers, bright round orange eyes, small and cartoonishly round body. Appears on pages 11-12 only.
+
+SOMBRA (the shadow monkey): A small spider monkey with dark grey-purple fur that shimmers slightly, big sad violet eyes with long lashes, a long curly tail, and tiny delicate hands. Looks more scared and lonely than villainous. Appears from page 23 onward.
+
+---
+
+STYLE NOTES FOR ALL PROMPTS:
+- 3D cartoon illustration, Pixar-inspired chibi style
+- Transparent/white background unless scene requires environment
+- Ultra-high detail, clean edges, smooth glossy textures
+- Large expressive eyes on all characters
+- Warm, inviting color palette
+- No watermarks
+- Square format 1024x1024
+- Text overlay in a warm cream-colored rounded rectangle banner at the bottom
+- Text in playful, rounded children's book font, dark brown color
