@@ -1,0 +1,73 @@
+CHARACTER: NEYLA — THE HEALER
+TYPE: Character Portrait (Social Media / Website / Marketing)
+FORMATS: Instagram Square (1080x1080), Portrait (1080x1350)
+
+===================================================================
+FORMAT A: INSTAGRAM SQUARE (1080 x 1080 pixels, 72-300 DPI, sRGB)
+===================================================================
+
+A cinematic photorealistic character portrait rendered at 1080x1080 pixels with razor-sharp digital precision, advanced volumetric lighting, and ray-traced reflections. ABSOLUTELY NO oil painting, NO watercolor, NO painterly texture. This must look like a still from a $200-million Hollywood fantasy epic — every surface, every texture, every particle of light photographic in quality.
+
+SUBJECT — NEYLA, HEALER OF THE ALLIANCE:
+
+A stunningly beautiful young woman of indigenous Mesoamerican descent in her early 20s, captured from the chest up in a portrait of quiet, radiant power. She faces the viewer at a gentle three-quarter angle, her expression one of profound compassion underlaid with iron resolve — the face of a woman who has held dying people in her arms and refused to let them go. Both hands are raised at chest level, palms upward, cradling a sphere of luminous healing energy — soft turquoise-white light that pulses with visible warmth, casting an ethereal glow upward across her face, throat, and the underside of her jaw. Tiny golden motes of soul-light orbit the sphere like miniature planets. Faint threads of turquoise light — soul-threads, visible only to her — extend from her fingertips into the air around her, connecting to unseen lives.
+
+FACE — HYPER-DETAILED:
+
+Soft, warm beauty — the kind that puts wounded soldiers at ease and makes hardened warriors trust her with their lives. Gently rounded cheekbones with a natural warmth, a slightly softer jawline than Itzil's — more nurturing, less martial, but no less strong. Her warm bronze skin has a luminous inner glow, amplified by the turquoise healing light — she seems to radiate health and vitality. Her eyes are her defining feature — large, deep brown, almost impossibly kind, with an empathetic depth that makes the viewer feel seen and understood. In the healing light, her irises shimmer with threads of turquoise — a sign of her power's permanent mark on her body. Her lashes are long and dark, casting soft shadows. Faint dark circles beneath her eyes speak of exhaustion — she heals others before herself. Her lips are full and gentle, curved in a slight, reassuring smile — the expression of a woman who has learned that presence is more powerful than words. Her nose is small and slightly upturned, adding a youthful softness to her features.
+
+HAIR — HEALER'S PRACTICAL ELEGANCE:
+
+Her hair is long, dark brown with natural auburn highlights that catch the turquoise light, worn in a simple, functional style — a loose braid over her left shoulder, secured with white cotton ties and small turquoise-stone clasps. Several soft tendrils frame her face. A circlet of woven white cotton thread sits across her forehead — the healer's mark of her order, embroidered with tiny turquoise beads in wave patterns. Her hair is clean, well-kept — a healer who maintains hygiene even in war.
+
+CLOTHING AND GEAR — HEALER-WARRIOR:
+
+She wears the layered robes of a field healer — a primary layer of cream-white linen with turquoise embroidery along the hems in flowing water and wave patterns. Over this, a fitted vest of soft grey-blue leather reinforced with thin jade plates at the shoulders and ribs — protection without bulk. A wide belt of woven turquoise-and-cream fabric holds pouches of dried herbs, bandage rolls, and small jade vials of tinctures. Her hands are bare — healers never wear gloves — and her fingers are long, graceful, with short practical nails. A small jade pendant in the shape of a water drop hangs at her throat — her family's pendant, the only thing she has from before the Dominion took them.
+
+BACKGROUND — CINEMATIC ATMOSPHERIC:
+
+Behind her, soft-focused (cinematic bokeh): a field hospital at dawn — rows of canvas tents illuminated from within by soft warm light, silhouettes of resting soldiers, and the first pale golden light of sunrise breaking through distant clouds. The background is gentle, hopeful — a contrast to the other characters' battle-scarred settings. Turquoise healing particles drift throughout the air like luminous pollen, creating a sacred, sanctuary atmosphere.
+
+TEXT (rendered on the image — ALL TEXT MUST APPEAR ABOVE THE CHARACTER'S HEAD in the top 35% of the frame):
+
+Line 1: "AZTEC SAMURAI ADVENTURES" — small Trajan Pro, turquoise (#40E0D0), letter-spacing 0.15em. Subtle glow.
+
+Line 2: [small vertical gap]
+
+Line 3: "NEYLA" — VERY LARGE bold Trajan Pro, white/cream with warm turquoise undertones and subtle embossed quality. This is the DOMINANT text element — it must command the frame. Approximately 80pt equivalent.
+
+Line 4: "THE HEALER" — medium Trajan Pro, gold (#FFD700), letter-spacing 0.15em.
+
+Line 5: [small vertical gap]
+
+Line 6: "Soul-Mender of the Alliance" — small italic Trajan Pro, cream/gold.
+Line 7: "Ash-Oath Breaker · Liberator of the Enslaved" — small Trajan Pro, turquoise (#40E0D0).
+
+Line 8: [small vertical gap]
+
+Line 9: "\"To heal the world, you must first enter the wound.\"" — small italic Trajan Pro, cream with subtle turquoise glow. This is Neyla's defining quote.
+
+All text centered horizontally, positioned in the top 30-35% of the image against the dawn sky above the character's head for maximum readability. All text with subtle dark drop shadow for legibility.
+
+CRITICAL COMPOSITION RULE — TEXT ABOVE HEAD:
+
+ALL text must be rendered in the top 35% of the image. The character's head begins no higher than 38% from the top. The space between the bottom of the text block and the top of the character's head should feel comfortable — not cramped, not distant. The character's face should be roughly centered vertically in the remaining 60% of the image (approximately 50-70% from top).
+
+MOOD: Gentle, luminous, powerful. A healer whose compassion is the most dangerous weapon in the war — radiant turquoise light, dawn warmth, sanctuary peace. Designed to evoke trust and awe — the viewer wants to be healed by her.
+
+ABSOLUTELY NO oil painting, NO watercolor, NO canvas grain. PHOTOREALISTIC CINEMATIC DIGITAL ART — sharp, clean, precise, and hauntingly beautiful.
+
+===================================================================
+FORMAT B: PORTRAIT (1080 x 1350 pixels, 72-300 DPI, sRGB)
+===================================================================
+
+Same subject, clothing, face detail, and atmospheric elements as Format A, but recomposed for the taller portrait ratio. The additional vertical space allows for:
+
+- More atmospheric dawn sky with turquoise healing particles above the text block
+- The character visible from the waist up — revealing the healer's belt with herb pouches and jade vials, the jade-plated vest, and the full embroidered robes
+- The healing sphere more visible with its orbiting golden motes
+- More soul-threads extending from her fingertips into the surrounding air
+
+TEXT layout identical to Format A, positioned in the top 30% of the taller frame. Character's head begins at approximately 33% from top.
+
+MOOD: Same luminous compassion, but with more breathing room — a healer's portrait suitable for a fantasy epic character poster.

@@ -1,0 +1,73 @@
+CHARACTER: MIYAKO — THE EXILE SENSEI
+TYPE: Character Portrait (Social Media / Website / Marketing)
+FORMATS: Instagram Square (1080x1080), Portrait (1080x1350)
+
+===================================================================
+FORMAT A: INSTAGRAM SQUARE (1080 x 1080 pixels, 72-300 DPI, sRGB)
+===================================================================
+
+A cinematic photorealistic character portrait rendered at 1080x1080 pixels with razor-sharp digital precision, advanced volumetric lighting, and ray-traced reflections. ABSOLUTELY NO oil painting, NO watercolor, NO painterly texture. This must look like a still from a $200-million Hollywood fantasy epic — every surface, every texture, every particle of light photographic in quality.
+
+SUBJECT — MIYAKO, EXILE SENSEI OF THE ALLIANCE:
+
+A hauntingly beautiful woman of mixed indigenous Mesoamerican and East Asian descent in her late 30s, captured from the chest up in a portrait of refined, melancholic grace. She is positioned at a slight angle, her head tilted gently downward with a distant, contemplative expression — the look of a woman carrying a lifetime of regret and the quiet determination to make it right. Her right hand is raised before her face, palm outward, fingers extended in a precise martial-arts mudra — and her hand is dissolving at the edges into shadow-step energy, dark indigo-violet smoke peeling away from her fingertips like dark flame, then reforming. She exists at the boundary between solid and shadow — a master of the technique she taught Kaelen. Her left hand rests at her side, relaxed but ready, the fingers of a woman who could kill in the space between heartbeats.
+
+FACE — HYPER-DETAILED:
+
+Elegantly angular beauty that blends Mesoamerican and Japanese heritage — high, delicate cheekbones with a subtle Asian angularity, almond-shaped eyes set beneath arching brows, and a narrow, refined jawline. Her warm bronze skin has a cooler undertone than the younger heroes — olive-bronze, slightly weathered by years of hard living in exile. Fine lines at the corners of her eyes and mouth speak of smiles that were rare and sorrows that were many. Her eyes are dark — nearly black — deep-set, luminous with quiet intelligence and bone-deep sadness. These are the eyes of a woman who abandoned people she loved and has spent every day since reckoning with that choice. In the shadow-step light, her irises show faint violet striations — the mark of decades of shadow-magic use. Her lips are thin, set in a calm line that could become either a gentle smile or a lethal command. Her nose is narrow and straight, with a slight bridge — elegant, precise. A faded scar crosses her right collarbone, mostly hidden by her collar — a memory of the battle that drove her into exile.
+
+HAIR — SENSEI'S DISCIPLINE:
+
+Her hair is jet-black with a single dramatic streak of silver-white originating from her left temple — not age, but the physical cost of deep shadow-step mastery. It is worn in a severe but beautiful style — pulled back tightly from her face and secured in a high topknot with a jade comb, then falling in a smooth, straight curtain to the middle of her back. The style is unmistakably Japanese-influenced — the discipline of a sensei who still maintains the forms even in exile. A few wisps of hair escape at her temples, softening the severity. The silver streak catches the ambient light like a blade of moonlight through dark silk.
+
+CLOTHING AND GEAR — EXILE'S DISCIPLINE:
+
+She wears the understated, functional clothing of someone who has lived in hiding — a dark charcoal-grey kimono-inspired wrap jacket over a fitted black tunic. The jacket is plain but immaculately maintained — the fabric high-quality but deliberately unadorned, the garment of a woman who was once important and chose to disappear. A dark obi-style sash of midnight-blue silk cinches her waist — her one concession to her former life, its silk still holding a faint sheen. Her hands are bare, the knuckles slightly scarred from a lifetime of martial training. At her left hip, a short tanto-style blade in a plain black lacquered sheath — no gold, no jade, just razor-sharp function. A small leather pouch at her right hip contains the few possessions of an exile — herbs, a compass, a folded letter she has never sent.
+
+BACKGROUND — CINEMATIC ATMOSPHERIC:
+
+Behind her, soft-focused (cinematic bokeh): a moonlit bamboo grove — tall, slender stalks of jade-green bamboo creating vertical lines of light and shadow. Silver moonlight filters through the canopy in diagonal shafts, illuminating patches of ground mist. The atmosphere is quiet, still, and deeply Japanese in aesthetic — a sensei's meditation space, a place of solitude and self-discipline. Shadow-step energy wisps drift between the bamboo stalks like dark spirits, and faint turquoise particles shimmer where the moonlight meets the shadows.
+
+TEXT (rendered on the image — ALL TEXT MUST APPEAR ABOVE THE CHARACTER'S HEAD in the top 35% of the frame):
+
+Line 1: "AZTEC SAMURAI ADVENTURES" — small Trajan Pro, turquoise (#40E0D0), letter-spacing 0.15em. Subtle glow.
+
+Line 2: [small vertical gap]
+
+Line 3: "MIYAKO" — VERY LARGE bold Trajan Pro, white/cream with cool silver-violet tones and subtle embossed quality. This is the DOMINANT text element — it must command the frame. Approximately 80pt equivalent.
+
+Line 4: "THE EXILE SENSEI" — medium Trajan Pro, gold (#FFD700), letter-spacing 0.15em.
+
+Line 5: [small vertical gap]
+
+Line 6: "Master of the Shadow-Step" — small italic Trajan Pro, cream/gold.
+Line 7: "Teacher of Kaelen · Seeker of Redemption" — small Trajan Pro, turquoise (#40E0D0).
+
+Line 8: [small vertical gap]
+
+Line 9: "\"I taught you to walk in shadows. Now teach yourself to walk in light.\"" — small italic Trajan Pro, cream with subtle silver glow. This is Miyako's defining quote.
+
+All text centered horizontally, positioned in the top 30-35% of the image against the darker canopy/sky above the character's head for maximum readability. All text with subtle dark drop shadow for legibility.
+
+CRITICAL COMPOSITION RULE — TEXT ABOVE HEAD:
+
+ALL text must be rendered in the top 35% of the image. The character's head begins no higher than 38% from the top. The space between the bottom of the text block and the top of the character's head should feel comfortable — not cramped, not distant. The character's face should be roughly centered vertically in the remaining 60% of the image (approximately 50-70% from top).
+
+MOOD: Melancholic, disciplined, hauntingly beautiful. A master warrior in voluntary exile — moonlight, shadow, and the quiet ache of redemption not yet earned. Silver and indigo-violet dominate. Designed to evoke both sadness and respect — the viewer senses a story of profound loss and impending sacrifice.
+
+ABSOLUTELY NO oil painting, NO watercolor, NO canvas grain. PHOTOREALISTIC CINEMATIC DIGITAL ART — sharp, clean, precise, and hauntingly atmospheric.
+
+===================================================================
+FORMAT B: PORTRAIT (1080 x 1350 pixels, 72-300 DPI, sRGB)
+===================================================================
+
+Same subject, clothing, face detail, and atmospheric elements as Format A, but recomposed for the taller portrait ratio. The additional vertical space allows for:
+
+- More atmospheric bamboo grove and moonlit canopy above the text block
+- The character visible from the waist up — revealing the full kimono wrap, the obi sash, the tanto blade, and the exile's pouch
+- More shadow-step dissolution visible along her silhouette — the edges of her clothing and hair phasing between solid and shadow
+- Deeper bamboo grove perspective with more visible moonlight shafts
+
+TEXT layout identical to Format A, positioned in the top 30% of the taller frame. Character's head begins at approximately 33% from top.
+
+MOOD: Same haunting melancholy, but with more environmental poetry — an exile's portrait suitable for a samurai-drama character poster.

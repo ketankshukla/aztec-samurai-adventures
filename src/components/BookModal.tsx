@@ -101,7 +101,7 @@ export default function BookModal() {
                 {book.act}
               </div>
               <h2 className="text-2xl sm:text-3xl font-bold font-serif text-cream mb-1">
-                {book.title}
+                Book {book.roman}: {book.title}
               </h2>
               <p className="text-cream/50 italic mb-4">{book.subtitle}</p>
 
@@ -170,14 +170,14 @@ export default function BookModal() {
           <h3 className="text-lg font-bold text-cream mb-4">
             Chapters ({book.chapters.length})
           </h3>
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+          <div className="grid grid-cols-1 gap-3">
             {book.chapters.map((chapter) => (
               <div
                 key={chapter.number}
-                className="flex items-center gap-3 py-2 px-3 rounded-lg hover:bg-white/5 transition-colors"
+                className="flex items-start gap-3 py-2 px-3 rounded-lg hover:bg-white/5 transition-colors"
               >
                 <span
-                  className="w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold flex-shrink-0"
+                  className="w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold flex-shrink-0 mt-0.5"
                   style={{
                     backgroundColor: `${book.color}20`,
                     color: book.color,
@@ -185,7 +185,14 @@ export default function BookModal() {
                 >
                   {chapter.number}
                 </span>
-                <span className="text-cream/70 text-sm">{chapter.title}</span>
+                <div>
+                  <span className="text-cream/70 text-sm font-medium">
+                    {chapter.title}
+                  </span>
+                  <p className="text-cream/40 text-xs mt-0.5 leading-relaxed">
+                    {chapter.summary}
+                  </p>
+                </div>
               </div>
             ))}
           </div>

@@ -1,0 +1,73 @@
+CHARACTER: ZARIEL — THE DIPLOMAT
+TYPE: Character Portrait (Social Media / Website / Marketing)
+FORMATS: Instagram Square (1080x1080), Portrait (1080x1350)
+
+===================================================================
+FORMAT A: INSTAGRAM SQUARE (1080 x 1080 pixels, 72-300 DPI, sRGB)
+===================================================================
+
+A cinematic photorealistic character portrait rendered at 1080x1080 pixels with razor-sharp digital precision, advanced volumetric lighting, and ray-traced reflections. ABSOLUTELY NO oil painting, NO watercolor, NO painterly texture. This must look like a still from a $200-million Hollywood fantasy epic — every surface, every texture, every particle of light photographic in quality.
+
+SUBJECT — ZARIEL, DIPLOMAT-SPYMASTER OF THE ALLIANCE:
+
+A magnetically charming young man of indigenous Mesoamerican descent in his mid-20s, captured from the chest up in a portrait of elegant, razor-sharp intellect. He faces the viewer at a polished three-quarter angle — the practiced pose of a man who has spent his life in courts and council chambers, always presenting his best angle. His expression is disarmingly warm — a slight smile that reaches his eyes, the kind of smile that makes you want to trust him completely. But there is something in the precision of that smile, the calculation behind the warmth, that suggests every gesture is chosen. His right hand is raised at chest level, palm up, fingers slightly curled — the gesture of a man mid-sentence, making an irrefutable point. Between his fingers, a faint shimmer of turquoise energy — the subtle magic of persuasion, of words that carry weight.
+
+FACE — HYPER-DETAILED:
+
+Refined, aristocratic beauty — the kind of face that was born for diplomacy. Elegant bone structure with high, sculpted cheekbones, a narrow straight nose, and a jawline that is sharp but not harsh. His warm bronze skin is immaculate — the skin of a man who has never slept rough if he can help it, who maintains himself with the same precision he applies to statecraft. His eyes are his greatest weapon — dark brown, warm, intelligent, with a depth of empathy that could be genuine or could be the finest performance art. Long dark lashes. The eyes of a man who listens not just to what you say, but to what you mean, and to what you're hiding. His smile is disarming — white teeth, a slight dimple in his left cheek, the corners of his eyes creasing with genuine or manufactured warmth. His eyebrows are elegantly groomed — expressive, often raised in polite interest. A tiny gold hoop earring in his left ear — his one personal flourish.
+
+HAIR — COURT ELEGANCE:
+
+His hair is jet-black, impeccably maintained — swept back from his forehead in a smooth, controlled style that catches the light with a healthy sheen. The sides are neatly trimmed, the top longer and combed back with precision. Not a single strand out of place. A thin gold headband — more decorative than functional, etched with diplomatic seal patterns — sits just above his hairline, glinting in the light. His hair signals exactly what he wants it to signal: control, culture, trustworthiness.
+
+CLOTHING AND GEAR — DIPLOMATIC WARRIOR:
+
+He wears the attire of a high-ranking diplomatic envoy — a richly tailored tunic of deep sapphire-blue silk with gold thread embroidery in elaborate geometric patterns along the high collar, cuffs, and front panel. The embroidery depicts the Alliance's sun-disc interwoven with olive branches — symbols of both power and peace. Over the tunic, a short ceremonial half-cape of midnight-blue velvet drapes from his left shoulder, clasped with a gold sun-disc brooch set with a single turquoise cabochon. The fabrics are luxurious and impractical-looking — but beneath the silk, the outline of light body armor is faintly visible. A slim, elegant dagger in a jeweled sheath hangs at his left hip — diplomatic steel, the weapon of a man who fights with words first and blades only when absolutely necessary. A sealed scroll tube of polished brass is tucked into his belt — dispatches, treaties, intelligence reports.
+
+BACKGROUND — CINEMATIC ATMOSPHERIC:
+
+Behind him, soft-focused (cinematic bokeh): the interior of a grand summit hall — towering marble columns carved with intertwined serpent and eagle motifs, warm candlelight from a hundred crystal chandeliers casting a golden glow across polished obsidian-tile floors. The blurred outlines of seated dignitaries and flickering banners suggest a diplomatic event in progress. The lighting is warm, golden, intimate — the light of power brokered in beautiful rooms.
+
+TEXT (rendered on the image — ALL TEXT MUST APPEAR ABOVE THE CHARACTER'S HEAD in the top 35% of the frame):
+
+Line 1: "AZTEC SAMURAI ADVENTURES" — small Trajan Pro, turquoise (#40E0D0), letter-spacing 0.15em. Subtle glow.
+
+Line 2: [small vertical gap]
+
+Line 3: "ZARIEL" — VERY LARGE bold Trajan Pro, white/cream with warm golden tones and subtle embossed quality. This is the DOMINANT text element — it must command the frame. Approximately 80pt equivalent.
+
+Line 4: "THE DIPLOMAT" — medium Trajan Pro, gold (#FFD700), letter-spacing 0.15em.
+
+Line 5: [small vertical gap]
+
+Line 6: "Spymaster & Voice of the Alliance" — small italic Trajan Pro, cream/gold.
+Line 7: "Golden Tongue · Architect of Treaties" — small Trajan Pro, turquoise (#40E0D0).
+
+Line 8: [small vertical gap]
+
+Line 9: "\"The deadliest weapon in any war is not a blade — it is a well-placed word.\"" — small italic Trajan Pro, cream with subtle golden glow. This is Zariel's defining quote.
+
+All text centered horizontally, positioned in the top 30-35% of the image against the darker upper portions of the summit hall above the character's head for maximum readability. All text with subtle dark drop shadow for legibility.
+
+CRITICAL COMPOSITION RULE — TEXT ABOVE HEAD:
+
+ALL text must be rendered in the top 35% of the image. The character's head begins no higher than 38% from the top. The space between the bottom of the text block and the top of the character's head should feel comfortable — not cramped, not distant. The character's face should be roughly centered vertically in the remaining 60% of the image (approximately 50-70% from top).
+
+MOOD: Elegant, magnetic, dangerously charming. A master diplomat in his element — golden candlelight, sapphire silk, the subtle power of a man who can change the course of a war with a single sentence. Designed to intrigue — the viewer wants to hear what he's saying.
+
+ABSOLUTELY NO oil painting, NO watercolor, NO canvas grain. PHOTOREALISTIC CINEMATIC DIGITAL ART — sharp, clean, precise, and irresistibly charismatic.
+
+===================================================================
+FORMAT B: PORTRAIT (1080 x 1350 pixels, 72-300 DPI, sRGB)
+===================================================================
+
+Same subject, clothing, face detail, and atmospheric elements as Format A, but recomposed for the taller portrait ratio. The additional vertical space allows for:
+
+- More atmospheric summit hall architecture — the towering columns, chandeliers, and vaulted ceiling
+- The character visible from the waist up — revealing the full half-cape, the diplomatic dagger, the scroll tube, and the richly embroidered tunic
+- More grandeur in the background — seated dignitaries and candlelight more visible
+- The ceremonial half-cape draping more dramatically from his shoulder
+
+TEXT layout identical to Format A, positioned in the top 30% of the taller frame. Character's head begins at approximately 33% from top.
+
+MOOD: Same elegant magnetism, but with more environmental grandeur — a diplomat's portrait suitable for a political thriller character poster.

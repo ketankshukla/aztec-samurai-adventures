@@ -1,0 +1,73 @@
+CHARACTER: AMALURA — THE LORE-MASTER
+TYPE: Character Portrait (Social Media / Website / Marketing)
+FORMATS: Instagram Square (1080x1080), Portrait (1080x1350)
+
+===================================================================
+FORMAT A: INSTAGRAM SQUARE (1080 x 1080 pixels, 72-300 DPI, sRGB)
+===================================================================
+
+A cinematic photorealistic character portrait rendered at 1080x1080 pixels with razor-sharp digital precision, advanced volumetric lighting, and ray-traced reflections. ABSOLUTELY NO oil painting, NO watercolor, NO painterly texture. This must look like a still from a $200-million Hollywood fantasy epic — every surface, every texture, every particle of light photographic in quality.
+
+SUBJECT — AMALURA, LORE-MASTER OF THE ALLIANCE:
+
+A sharp-featured, commanding elderly woman of indigenous Mesoamerican descent in her early 60s, captured from the chest up in a portrait of piercing intellect and acerbic authority. She faces the viewer at a slight angle with a raised eyebrow and the faintest curl of her lip — the expression of a woman who has already identified three flaws in your argument before you've finished your first sentence. She is unapologetically brilliant and does not suffer fools. In her left hand, she holds an ancient tome — its pages open, glowing faintly with turquoise arcane script that floats off the pages like luminous smoke, the letters hovering in the air between her face and the book. Her right hand is raised with index finger extended — the gesture of a lecturer making a critical point — and from her fingertip, a thin thread of turquoise energy traces a complex glyph pattern in the air, leaving a brief glowing afterimage.
+
+FACE — HYPER-DETAILED:
+
+Sharply intelligent features — the kind of face that makes you check your facts before speaking. Prominent, angular cheekbones, a narrow, aquiline nose that she looks down in judgment, and a jaw that is sharp and decisive. Her warm bronze skin is lined with age — deep thinking furrows between her brows from decades of scholarly concentration, fine lines around her mouth from years of precise, clipped speech. Her eyes are her most formidable feature — dark brown, almost black, blazing with an intellect that borders on terrifying. They are narrow, hawk-like, framed by thin-framed spectacles of jade and gold wire — the lenses slightly magnifying, making her eyes seem even more penetrating. Behind those lenses, her gaze is simultaneously withering and perceptive — the eyes of a woman who has memorized more knowledge than most libraries contain. Her lips are thin, often pursed in evaluation, currently curved in that characteristic expression of someone who finds the universe's mysteries fascinating and its inhabitants disappointing. Her eyebrows are thin, elegantly arched — one perpetually raised in skepticism.
+
+HAIR — SCHOLAR'S AUTHORITY:
+
+Her hair is steel-grey with streaks of remaining black — long, thick, and worn in an elaborate updo secured with multiple jade hairpins and a pair of carved obsidian combs. The style is complex and deliberate — the hair of a woman who believes in precision in all things. A few strands have escaped at her temples — the only sign that she has been too absorbed in her research to notice. The jade hairpins are carved with tiny rune-patterns that match the glowing glyphs — her tools double as her adornments.
+
+CLOTHING AND GEAR — SCHOLAR-WARRIOR:
+
+She wears the layered robes of a senior lore-master — a primary gown of deep midnight-blue fabric with silver thread embroidery along the hems depicting constellations and mathematical formulae in ancient script. Over this, a stiff-collared scholarly overcoat of dark grey wool, buttoned to the throat — practical, authoritative, giving her the bearing of a university chancellor crossed with a war strategist. A heavy pendant hangs at her throat — a silver magnifying glass set within a turquoise-studded bezel, the lens itself faintly enchanted, occasionally flashing with arcane light. A belt of dark leather holds multiple scroll tubes, a jade-cased astrolabe, and a portable ink set. Her hands are long-fingered, elegant, stained with ink at the fingertips — the permanent marks of a lifelong scholar.
+
+BACKGROUND — CINEMATIC ATMOSPHERIC:
+
+Behind her, soft-focused (cinematic bokeh): an immense library archive — floor-to-ceiling shelves of ancient tomes, scrolls, and crystalline data-tablets stretching into the distance. Warm amber candlelight illuminates the nearest shelves, while turquoise arcane light glows from enchanted volumes deeper in the stacks. A large obsidian desk is partially visible, covered in open books, annotated maps, and scattered jade instruments. Floating turquoise glyphs — fragments of active research — hover in the air between the shelves like luminous butterflies.
+
+TEXT (rendered on the image — ALL TEXT MUST APPEAR ABOVE THE CHARACTER'S HEAD in the top 35% of the frame):
+
+Line 1: "AZTEC SAMURAI ADVENTURES" — small Trajan Pro, turquoise (#40E0D0), letter-spacing 0.15em. Subtle glow.
+
+Line 2: [small vertical gap]
+
+Line 3: "AMALURA" — VERY LARGE bold Trajan Pro, white/cream with cool silver-blue tones and subtle embossed quality. This is the DOMINANT text element — it must command the frame. Approximately 80pt equivalent.
+
+Line 4: "THE LORE-MASTER" — medium Trajan Pro, gold (#FFD700), letter-spacing 0.15em.
+
+Line 5: [small vertical gap]
+
+Line 6: "Chief Scholar of the Alliance" — small italic Trajan Pro, cream/gold.
+Line 7: "Keeper of Forbidden Knowledge · Architect of Victory" — small Trajan Pro, turquoise (#40E0D0).
+
+Line 8: [small vertical gap]
+
+Line 9: "\"He took everything I know. But he couldn't take what I understand.\"" — small italic Trajan Pro, cream with subtle silver glow. This is Amalura's defining quote.
+
+All text centered horizontally, positioned in the top 30-35% of the image against the darker upper library shelves above the character's head for maximum readability. All text with subtle dark drop shadow for legibility.
+
+CRITICAL COMPOSITION RULE — TEXT ABOVE HEAD:
+
+ALL text must be rendered in the top 35% of the image. The character's head begins no higher than 38% from the top. The space between the bottom of the text block and the top of the character's head should feel comfortable — not cramped, not distant. The character's face should be roughly centered vertically in the remaining 60% of the image (approximately 50-70% from top).
+
+MOOD: Imperious, brilliant, commanding. The most formidable mind in the war — surrounded by the knowledge that will win or lose everything. Amber candlelight and turquoise arcane glow in scholarly contrast. Designed to convey absolute intellectual authority — the viewer instinctively sits up straighter.
+
+ABSOLUTELY NO oil painting, NO watercolor, NO canvas grain. PHOTOREALISTIC CINEMATIC DIGITAL ART — sharp, clean, precise, and intellectually commanding.
+
+===================================================================
+FORMAT B: PORTRAIT (1080 x 1350 pixels, 72-300 DPI, sRGB)
+===================================================================
+
+Same subject, clothing, face detail, and atmospheric elements as Format A, but recomposed for the taller portrait ratio. The additional vertical space allows for:
+
+- More atmospheric library environment — the towering shelves, floating glyphs, and deeper stacks
+- The character visible from the waist up — revealing the full scholarly overcoat, the belt with scroll tubes and astrolabe, and the ink-stained hands
+- The ancient tome more visible with its floating arcane script
+- More floating turquoise glyphs visible in the library air
+
+TEXT layout identical to Format A, positioned in the top 30% of the taller frame. Character's head begins at approximately 33% from top.
+
+MOOD: Same intellectual authority, but with more environmental grandeur — a scholar's portrait suitable for a fantasy-academia character poster.
