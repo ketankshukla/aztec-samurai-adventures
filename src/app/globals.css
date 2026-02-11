@@ -1,0 +1,228 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: #0a0a0a;
+  --color-foreground: #e8dcc8;
+  --color-turquoise: #40e0d0;
+  --color-turquoise-light: #5ef7e7;
+  --color-turquoise-dark: #2bb8aa;
+  --color-obsidian: #0a0a0a;
+  --color-obsidian-light: #141414;
+  --color-obsidian-dark: #050505;
+  --color-gold: #c9913b;
+  --color-gold-light: #d4a843;
+  --color-crimson: #c0392b;
+  --color-cream: #e8dcc8;
+  --color-amazon-yellow: #ffd814;
+  --color-amazon-yellow-hover: #f7ca00;
+  --font-sans: var(--font-inter);
+  --font-serif: var(--font-garamond);
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #40e0d0 #0a0a0a;
+}
+
+body {
+  background: #0a0a0a;
+  color: var(--color-foreground);
+  font-feature-settings: "liga", "kern";
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+::selection {
+  background: #40e0d0;
+  color: #0a0a0a;
+}
+
+/* Custom animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInScale {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes pulse-glow {
+  0%,
+  100% {
+    box-shadow: 0 0 20px rgba(64, 224, 208, 0.15);
+  }
+  50% {
+    box-shadow: 0 0 40px rgba(64, 224, 208, 0.3);
+  }
+}
+
+.animate-fadeInUp {
+  animation: fadeInUp 0.8s ease-out;
+}
+
+.animate-fadeInScale {
+  animation: fadeInScale 0.6s ease-out;
+}
+
+.animate-shimmer {
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(64, 224, 208, 0.1),
+    transparent
+  );
+  background-size: 200% 100%;
+  animation: shimmer 2s infinite;
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+/* Enhanced scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0a0a0a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(to bottom, #40e0d0, #2bb8aa);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(to bottom, #5ef7e7, #40e0d0);
+}
+
+/* Glass morphism effects */
+.glass {
+  background: rgba(20, 20, 20, 0.6);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(64, 224, 208, 0.1);
+}
+
+.glass-dark {
+  background: rgba(10, 10, 10, 0.8);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(64, 224, 208, 0.15);
+}
+
+/* Professional gradients */
+.gradient-turquoise {
+  background: linear-gradient(135deg, #40e0d0, #5ef7e7, #40e0d0);
+}
+
+.gradient-obsidian {
+  background: #0a0a0a;
+}
+
+.gradient-text-turquoise {
+  background: linear-gradient(135deg, #40e0d0, #5ef7e7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Enhanced shadows */
+.shadow-turquoise {
+  box-shadow: 0 0 40px rgba(64, 224, 208, 0.15);
+}
+
+.shadow-turquoise-lg {
+  box-shadow: 0 0 60px rgba(64, 224, 208, 0.25);
+}
+
+.shadow-professional {
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+}
+
+/* Professional hover effects */
+.hover-lift {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.hover-lift:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 60px rgba(64, 224, 208, 0.2);
+}
+
+/* Serif font utility */
+.font-serif {
+  font-family: var(--font-serif), Georgia, "Times New Roman", serif;
+}
+
+/* Text gradients for headings */
+.heading-gradient {
+  background: linear-gradient(135deg, #e8dcc8, #40e0d0, #e8dcc8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  background-size: 200% 200%;
+  animation: shimmer 3s ease-in-out infinite;
+}
+
+/* Amazon CTA button */
+.btn-amazon {
+  background: linear-gradient(to bottom, #ffd814, #f7ca00);
+  color: #0f1111;
+  font-weight: 700;
+  border-radius: 9999px;
+  padding: 0.75rem 2rem;
+  transition: all 0.2s;
+  border: 1px solid #f2c200;
+  box-shadow: 0 2px 5px rgba(213, 217, 217, 0.2);
+}
+
+.btn-amazon:hover {
+  background: linear-gradient(to bottom, #f7ca00, #e8b800);
+  box-shadow: 0 4px 12px rgba(255, 216, 20, 0.3);
+}
+
+/* Mobile-friendly base */
+@media (max-width: 640px) {
+  html {
+    font-size: 16px;
+    -webkit-text-size-adjust: 100%;
+  }
+}
