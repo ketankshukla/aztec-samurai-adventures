@@ -34,7 +34,7 @@ export const books: Book[] = [
       "The Dominion attacks. A reluctant warrior discovers she is the prophesied Blade-Bearer. She must assemble a team and fight a war she never wanted.",
     elaborateDescription:
       "When Dominion soldiers raid her village and steal the Ember Core — one of seven sacred relics — Itzil, a young warrior-in-training at the Sun-Blade temple, is thrust into a prophecy she doesn't want. Trained by the aging grandmaster Korvain, she must learn to manifest the Sun-Blade, a weapon forged from pure sunlight and conviction. Gathering allies — the cocky scout Kaelen, the glory-seeking duelist Jagren, the quiet engineer Torvane, and the compassionate healer Neyla — Itzil leads her first strike against a Dominion outpost and comes face to face with Nightshade, a blood-magic assassin who offers her a deal she refuses. As Volzentar deploys his beast commander Gravok, the horizon darkens with the shadow of an army that will test everything Itzil believes about leadership, courage, and sacrifice.",
-    coverImage: "/book1-cover.png",
+    coverImage: "/images/book1-cover.png",
     color: "#40e0d0",
     chapters: [
       { number: 1, title: "The Edge of Smoke" },
@@ -78,7 +78,7 @@ export const books: Book[] = [
       "Gravok attacks three cities via mirror-portals. Kaelen goes behind enemy lines to destroy the mirror-anchor. The Dominion's portal engineer Dalrignon is revealed as a butcher.",
     elaborateDescription:
       "Gravok's beast army strikes three cities simultaneously through mirror-portals — shimmering doorways that let his forces appear anywhere. Kaelen infiltrates Dominion territory alone, discovering the portals are powered by crystallized human souls. In the occupied town of Mirravale, he meets Miyako — an exile sensei who teaches him the shadow-step technique. Together they destroy the mirror-anchor, collapsing every portal across the continent. Itzil defeats and captures Gravok, choosing mercy over execution. But in the aftermath, Amalura examines the anchor fragments and goes pale: these devices are older than the Dominion. The enemy is collecting parts to rebuild the Great Gate — a sealed portal to something terrible. A captured officer whispers a name that chills the blood: Serenthar, the Weeping One.",
-    coverImage: "/book2-cover.png",
+    coverImage: "/images/book2-cover.png",
     color: "#6366f1",
     chapters: [
       { number: 1, title: "The Army on the Move" },
@@ -123,7 +123,7 @@ export const books: Book[] = [
       "Zariel attends a summit of neutral nations. He must outmaneuver Pearlvaine, the Dominion's demon-bound diplomat, while Itzil strikes at Helisar's ash-oath factory.",
     elaborateDescription:
       "Diplomacy becomes the battlefield as Zariel faces Pearlvaine — a demon-bound diplomat who doesn't lie but rearranges truths with devastating precision. At the Grand Summit of neutral nations, Zariel needs proof of Dominion atrocities: a freed ash-oath slave to testify. While he works the political arena, Itzil leads a strike against Helisar's 'sanctuary' — actually an ash-oath factory run by a fallen saint whose gentle kindness masks utter monstrosity. The freed slave's testimony devastates Pearlvaine's position, but the demon-diplomat pivots: she holds Zariel's younger sister hostage. Zariel makes the hardest choice of his life — the alliance over his sister's safety. Kaelen's rescue mission succeeds. Three of five neutral nations join the alliance. But Volzentar has been watching through a spy, and he knows every detail of their plans.",
-    coverImage: "/book3-cover.png",
+    coverImage: "/images/book3-cover.png",
     color: "#c9913b",
     chapters: [
       { number: 1, title: "The Golden Tongue" },
@@ -167,7 +167,7 @@ export const books: Book[] = [
       "The allied army attacks Fortress Ashfall and walks into Volzentar's trap. Jagren's glory-seeking shatters as he faces the true cost of war.",
     elaborateDescription:
       "The allied army's offensive against Fortress Ashfall goes too well — because it's a trap. Nightshade seals the retreat with blood-wards. The Ashvanar brothers unleash dark magic. Hundreds die. Jagren, who dreamed of glory, leads a desperate breakout and kills one of the Ashvanar brothers in a brutal duel — the first villain killed. He nearly dies himself, saved only by Neyla's healing. Volzentar arrives in person, offering 'merciful surrender' with terrifyingly logical arguments. Itzil refuses. Serenthar makes her first physical appearance — she predicted the battle's outcome before it began. Torvane engineers a controlled explosion and Skyren provides aerial evacuation, but the alliance loses a third of its army. Two neutral nations are conquered while the heroes were trapped. The boy who wanted glory found horror instead.",
-    coverImage: "/book4-cover.png",
+    coverImage: "/images/book4-cover.png",
     color: "#ef4444",
     chapters: [
       { number: 1, title: "The Jaws of the Trap" },
@@ -212,7 +212,7 @@ export const books: Book[] = [
       "Valdremor takes personal command. Kaelen infiltrates a Dominion stronghold to steal a relic. The enemy is smarter, patient, and always three steps ahead.",
     elaborateDescription:
       "Act II opens with Valdremor — the Architect — taking personal command of Dominion operations. Where Volzentar ruled by charisma and force, Valdremor operates through cold logic and precise strategy. He dispatches forces to seize the fifth relic at Relicara, a sacred cathedral. Kaelen leads the infiltration team while Itzil's forces create a diversion. Rainara, a water-magic wielder freed from Dominion captivity, joins the team and proves devastatingly effective. But Valdremor anticipated every move. The relic is taken by Dominion forces in a surgical strike that makes the heroes' diversion irrelevant. Solkren, a master armorer, begins forging weapons capable of countering Dominion magic. The alliance strengthens even as the enemy coils tighter.",
-    coverImage: "/book5-cover.png",
+    coverImage: "/images/book5-cover.png",
     color: "#22c55e",
     chapters: [
       { number: 1, title: "The Serpent's Plan" },
@@ -256,7 +256,7 @@ export const books: Book[] = [
       "Valdremor launches a devastating attack. Korvain falls in battle. Amalura is captured. The alliance fractures as the team is scattered across the continent.",
     elaborateDescription:
       "Valdremor's precision strikes shatter the allied base in a coordinated assault of obsidian projectiles and dark sorcery. Korvain, the aging grandmaster, fights his last battle — buying time for the evacuation while his old body finally fails him. Nightshade captures Amalura, the alliance's greatest scholar, to extract the location of the remaining relics. The team is scattered into three groups across the continent. Rainara tracks the fragments of her people's water-magic through corrupted rivers. Skyren flies reconnaissance while Korvain clings to life. Neyla makes a breakthrough in reversing ash-oaths. Miyako resolves to fight rather than hide. As the groups struggle to reunite, Helisar expands his ash-oath operations and Serenthar whispers through Amalura's dreams. The long dark has begun.",
-    coverImage: "/book6-cover.png",
+    coverImage: "/images/book6-cover.png",
     color: "#8b5cf6",
     chapters: [
       { number: 1, title: "The Obsidian Sky" },
@@ -300,7 +300,7 @@ export const books: Book[] = [
       "Skyren leads an aerial campaign while Miyako infiltrates Helisar's factory city. The exile sensei makes her final stand. A beloved mentor dies protecting the future.",
     elaborateDescription:
       "Skyren takes center stage as the alliance's aerial operations become critical. Riding her hawk Cielovar, she coordinates reconnaissance and evacuation across the war-torn continent. Meanwhile, Miyako — the exile sensei who taught Kaelen the shadow-step — descends into Helisar's factory city to destroy his ash-oath production from within. Neyla pushes her healing abilities to their limits reversing mass ash-oaths. Helisar is fascinated by Neyla's power and attempts to study her. Miyako's infiltration succeeds, but at a terrible cost: she makes her final stand to protect the team's escape, fulfilling her redemption arc from exile to hero. Her death galvanizes the alliance. As the army mobilizes for the march south, Korvain and Miyako share one last conversation about duty and sacrifice.",
-    coverImage: "/book7.cover.png",
+    coverImage: "/images/book7-cover.png",
     color: "#ec4899",
     chapters: [
       { number: 1, title: "Wings Over War" },
@@ -345,7 +345,7 @@ export const books: Book[] = [
       "The midpoint of the saga. The Sun-Blade shatters. Korvain dies. Itzil hits rock bottom and must decide if she can continue without her mentor, her weapon, or her hope.",
     elaborateDescription:
       "The darkest book of the saga. Racing south to reach an ancient temple that holds the Sunheart — a relic that could turn the war — Itzil confronts Nightshade in a brutal duel. The assassin uses a dark ritual to corrupt the Sun-Blade's light, and the weapon shatters in Itzil's hands. Without her blade, Itzil fights with nothing but her fists and her will. In the aftermath, Korvain — wounded, declining, but still teaching — speaks his last words and dies peacefully in Itzil's arms. This is rock bottom. The blade is broken, the mentor is gone, the army is demoralized. Kaelen's words pierce the darkness: 'You don't need a blade to be who you are.' Solkren notices something in the shattered fragments. Valdremor broadcasts a message offering merciful surrender. The army must decide. Itzil makes a promise at Korvain's pyre: they will march to the Dominion capital and end this war.",
-    coverImage: "/book8-cover.png",
+    coverImage: "/images/book8-cover.png",
     color: "#f59e0b",
     chapters: [
       { number: 1, title: "The Race South" },
@@ -390,7 +390,7 @@ export const books: Book[] = [
       "Solkren reforges the Sun-Blade using the shattered fragments and the memories of every team member. Amalura is rescued. The march to the Dominion capital begins.",
     elaborateDescription:
       "Solkren reveals his secret: he can reforge the Sun-Blade, but not with metal alone. The new blade must be forged from the memories and essence of those who fight beside Itzil. Each team member contributes a memory to the forge — their deepest truth, their reason for fighting. Itzil contributes her memory of Korvain. Kaelen contributes his survivor's guilt. Jagren sacrifices his vanity. Neyla offers her compassion. Rainara burns her rage. In parallel, Kaelen leads a daring rescue mission to extract Amalura from Dominion captivity. The rescue succeeds, but Nightshade's fury is unleashed. The new Sun-Blade is born — different from the original, carrying the weight and warmth of every soul who forged it. Amalura reveals what she learned in captivity: the Great Gate's true nature and the role of the oracle Serenthar. The army marches toward the Dominion capital.",
-    coverImage: "/book9-cover.png",
+    coverImage: "/images/book9-cover.png",
     color: "#f97316",
     chapters: [
       { number: 1, title: "The Armorer's Secret" },
@@ -434,7 +434,7 @@ export const books: Book[] = [
       "Neyla confronts Mirathane, the Mirror Queen, inside a dimension of stolen souls. The liberation campaign begins. The siege of the Dominion capital approaches.",
     elaborateDescription:
       "The allied army begins its liberation campaign, freeing conquered cities as it marches toward the Dominion capital. Valdremor counters with surgical precision, making every mile costly. Mirathane — the Mirror Queen, who traps souls in a dimension of reflections — emerges as a terrifying obstacle. Neyla must enter the mirror dimension to free thousands of enslaved souls, confronting her deepest fears about the limits of healing. Inside the mirror, she discovers that Mirathane is herself a prisoner — trapped by Serenthar centuries ago. Neyla frees her, and the mass liberation weakens the Great Gate's power source. The Dominion begins to fracture as officers defect and supply lines collapse. Rainara heals the poisoned rivers. Skyren scouts the capital's defenses. As the siege preparations begin, Valdremor reveals his final contingency.",
-    coverImage: "/book10-cover.png",
+    coverImage: "/images/book10-cover.png",
     color: "#14b8a6",
     chapters: [
       { number: 1, title: "The Liberation Campaign" },
@@ -479,7 +479,7 @@ export const books: Book[] = [
       "The final battle. The siege of the Dominion capital. Every villain falls. The Great Gate opens. Serenthar walks through. The Starless Crown shatters in a burst of golden light.",
     elaborateDescription:
       "The allied army breaches the Dominion capital's walls. Inside, every remaining villain makes their last stand. Nightshade commands her personal army of shadow-warriors. Itzil defeats her in a duel that costs everything. The Ashvanar brothers fall. Valdremor offers surrender terms — logical, reasonable, and refused. Amalura outmaneuvers him intellectually, destroying his contingency plans one by one. In the palace, Serenthar's true nature is revealed: she is not evil, but ancient, tired, and bound to the Gate by the Starless Crown. She offers the heroes a choice. Volunteers step forward. Dalrignon makes his last stand defending the Gate. The final confrontation: Itzil's Sun-Blade versus Vastrix, the demon commander. The blade blazes with the light of every soul who forged it. Serenthar walks through the Gate and seals it from the other side. The Crown shatters. Dawn breaks.",
-    coverImage: "/book11-cover.png",
+    coverImage: "/images/book11-cover.png",
     color: "#a855f7",
     chapters: [
       { number: 1, title: "The Inner Wall" },
@@ -524,7 +524,7 @@ export const books: Book[] = [
       "The aftermath. Healing, rebuilding, and resolution. Every character finds their peace. The saga closes with a letter to the reader and a single golden shard.",
     elaborateDescription:
       "The final book is a gentle landing after twelve books of war. Every character gets their resolution: Itzil chooses to stay and rebuild rather than rule. Kaelen finds purpose beyond survival. Jagren puts away his dueling blade and chooses to teach. Neyla heals the last ash-oath slaves in a ceremony where thousands speak their names. Rainara cleanses the poisoned rivers. Torvane rebuilds the capital's infrastructure for community, not control. Skyren flies one last reconnaissance — the world is hurt but healing. Solkren forges door hinges instead of weapons. Amalura catalogs the Dominion's knowledge, annotating Valdremor's journals with wry corrections. Even Valdremor finds something like peace in his cell. Time jumps forward — one year, five years, ten years. A new generation of warriors trains at a rebuilt Sun-Blade temple. Itzil and Kaelen watch the sunset. In the final chapter, a young warrior finds a single golden shard in the ruins — warm, pulsing with light. A new blade? A new beginning? The reader decides.",
-    coverImage: "/book12-cover.png",
+    coverImage: "/images/book12-cover.png",
     color: "#eab308",
     chapters: [
       { number: 1, title: "Dawn" },

@@ -25,7 +25,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-3 mb-4">
               <img
-                src="/logo.png"
+                src="/images/logo.png"
                 alt="Aztec Samurai Adventures"
                 className="w-8 h-8 object-contain"
               />

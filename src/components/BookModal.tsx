@@ -121,15 +121,33 @@ export default function BookModal() {
               </blockquote>
 
               {/* Buy buttons */}
-              <div className="flex gap-3">
+              <div className="flex flex-wrap gap-3">
                 <a
                   href="https://www.amazon.com"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="btn-amazon text-sm px-6 py-2 flex items-center gap-2"
+                  className="btn-amazon text-xs px-4 py-2 flex items-center gap-1.5"
                 >
-                  <ShoppingCart className="w-4 h-4" />
-                  Buy on Amazon
+                  <ShoppingCart className="w-3.5 h-3.5" />
+                  Buy This Book
+                </a>
+                <a
+                  href="https://www.amazon.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="btn-amazon text-xs px-4 py-2 flex items-center gap-1.5"
+                >
+                  <ShoppingCart className="w-3.5 h-3.5" />
+                  Buy Box Set
+                </a>
+                <a
+                  href="https://www.amazon.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="btn-amazon text-xs px-4 py-2 flex items-center gap-1.5"
+                >
+                  <ShoppingCart className="w-3.5 h-3.5" />
+                  Buy Complete Series
                 </a>
               </div>
             </div>

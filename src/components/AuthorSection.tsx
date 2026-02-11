@@ -29,7 +29,7 @@ export default function AuthorSection() {
             {/* Author photo */}
             <div className="mb-6">
               <img
-                src="/ketan-shukla.jpeg"
+                src="/images/ketan-shukla.jpeg"
                 alt="Ketan Shukla"
                 className="w-40 h-40 rounded-full object-cover border-2 border-turquoise/30 shadow-turquoise"
               />
