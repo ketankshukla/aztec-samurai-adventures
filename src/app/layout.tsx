@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     "Ketan Shukla",
   ],
   icons: {
-    icon: "/favicon.svg",
+    icon: "/logo.png",
   },
 };
 

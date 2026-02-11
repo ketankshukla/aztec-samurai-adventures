@@ -4,134 +4,122 @@ import { books } from "@/data/books";
 import { useBook } from "@/context/BookContext";
 import { ShoppingCart, BookOpen } from "lucide-react";
 
+const boxSets = [
+  {
+    id: 1,
+    title: "Act I — The Rising",
+    subtitle: "Books 1–4",
+    image: "/box-set-1-landscape.png",
+    bookIndices: [0, 1, 2, 3],
+  },
+  {
+    id: 2,
+    title: "Act II — The Fracture",
+    subtitle: "Books 5–8",
+    image: "/box-set-2-landscape.png",
+    bookIndices: [4, 5, 6, 7],
+  },
+  {
+    id: 3,
+    title: "Act III — The Reckoning",
+    subtitle: "Books 9–12",
+    image: "/box-set-3-landscape.png",
+    bookIndices: [8, 9, 10, 11],
+  },
+];
+
 export default function BooksSection() {
   const { openBook } = useBook();
 
   return (
-    <section id="books" className="relative py-24 sm:py-32">
+    <section id="books" className="relative py-20 sm:py-28">
       {/* Background */}
       <div className="absolute inset-0 bg-gradient-to-b from-obsidian via-obsidian-light to-obsidian" />
       <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,rgba(64,224,208,0.04),transparent_70%)]" />
 
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        {/* Section header */}
-        <div className="text-center mb-16 animate-fadeInUp">
-          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold font-serif mb-4">
-            <span className="heading-gradient">The Twelve Books</span>
-          </h2>
-          <p className="text-cream/50 max-w-2xl mx-auto text-lg">
-            Three acts. Twelve books. Two hundred and eighty-eight chapters.
-            One war that will reshape a world.
-          </p>
-          <div className="mt-6 flex justify-center gap-8 text-sm text-cream/40">
-            <span className="flex items-center gap-2">
-              <span className="w-3 h-3 rounded-full bg-turquoise/60" />
-              Act I — The Rising (Books 1–4)
-            </span>
-            <span className="flex items-center gap-2">
-              <span className="w-3 h-3 rounded-full bg-purple-500/60" />
-              Act II — The Fracture (Books 5–8)
-            </span>
-            <span className="flex items-center gap-2">
-              <span className="w-3 h-3 rounded-full bg-amber-500/60" />
-              Act III — The Reckoning (Books 9–12)
-            </span>
-          </div>
-        </div>
-
-        {/* Books grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-          {books.map((book, index) => (
-            <div
-              key={book.id}
-              className="group glass rounded-xl overflow-hidden hover-lift"
-              style={{
-                animationDelay: `${index * 0.1}s`,
-              }}
-            >
-              {/* Book cover */}
-              <div
-                className="relative aspect-[3/4] overflow-hidden cursor-pointer"
-                onClick={() => openBook(index)}
-              >
-                <div
-                  className="w-full h-full flex flex-col items-center justify-center p-6 text-center transition-all duration-500 group-hover:scale-105"
-                  style={{
-                    background: `linear-gradient(135deg, ${book.color}18, #0a0a0a, ${book.color}10)`,
-                  }}
-                >
-                  <div
-                    className="text-5xl font-serif font-bold mb-3 transition-transform duration-300 group-hover:scale-110"
-                    style={{ color: book.color }}
-                  >
-                    {book.roman}
-                  </div>
-                  <h3 className="text-lg font-bold text-cream mb-1.5">
-                    {book.title}
-                  </h3>
-                  <p className="text-cream/40 text-xs italic mb-3">
-                    {book.subtitle}
-                  </p>
-                  <div
-                    className="px-3 py-1 rounded-full text-[10px] font-medium border"
-                    style={{
-                      borderColor: `${book.color}33`,
-                      color: book.color,
-                    }}
-                  >
-                    {book.focusCharacter}
-                  </div>
-                </div>
-
-                {/* Hover overlay */}
-                <div className="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
-                  <span className="text-turquoise text-sm font-medium flex items-center gap-2">
-                    <BookOpen className="w-4 h-4" />
-                    View Details
-                  </span>
-                </div>
+        {/* Box Sets Row */}
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
+          {boxSets.map((boxSet) => (
+            <div key={boxSet.id} className="flex flex-col">
+              {/* Box set image */}
+              <div className="group rounded-xl overflow-hidden shadow-professional border border-white/10 hover-lift">
+                <img
+                  src={boxSet.image}
+                  alt={`${boxSet.title} — ${boxSet.subtitle}`}
+                  className="w-full h-auto object-cover transition-transform duration-500 group-hover:scale-105"
+                />
               </div>
-
-              {/* Book info */}
-              <div className="p-4">
-                <p className="text-cream/50 text-xs line-clamp-2 mb-4">
-                  {book.description}
-                </p>
-
-                <div className="flex gap-2">
-                  <button
-                    onClick={() => openBook(index)}
-                    className="flex-1 text-xs py-2 rounded-lg border border-turquoise/20 text-turquoise hover:bg-turquoise/10 transition-all duration-300 flex items-center justify-center gap-1.5"
-                  >
-                    <BookOpen className="w-3.5 h-3.5" />
-                    Details
-                  </button>
-                  <a
-                    href="https://www.amazon.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="flex-1 btn-amazon text-xs py-2 rounded-lg flex items-center justify-center gap-1.5"
-                  >
-                    <ShoppingCart className="w-3.5 h-3.5" />
-                    Buy
-                  </a>
-                </div>
+              {/* Buy Box Set button */}
+              <div className="mt-4 text-center">
+                <a
+                  href="https://www.amazon.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="btn-amazon inline-flex items-center justify-center gap-2 text-sm px-6 py-2.5 w-full"
+                >
+                  <ShoppingCart className="w-4 h-4" />
+                  Buy This Box Set on Amazon
+                </a>
               </div>
             </div>
           ))}
         </div>
 
-        {/* Series CTA */}
-        <div className="mt-16 text-center">
-          <a
-            href="https://www.amazon.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="btn-amazon inline-flex items-center gap-3 text-lg px-10 py-4"
-          >
-            <ShoppingCart className="w-6 h-6" />
-            Buy the Complete Series on Amazon
-          </a>
+        {/* Individual Books — grouped under each box set */}
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-12">
+          {boxSets.map((boxSet) => (
+            <div key={boxSet.id} className="flex flex-col gap-6">
+              {boxSet.bookIndices.map((bookIndex) => {
+                const book = books[bookIndex];
+                return (
+                  <div
+                    key={book.id}
+                    className="group glass rounded-xl overflow-hidden hover-lift"
+                  >
+                    {/* Book cover image */}
+                    <div
+                      className="relative overflow-hidden cursor-pointer"
+                      onClick={() => openBook(bookIndex)}
+                    >
+                      <img
+                        src={book.coverImage}
+                        alt={`Book ${book.roman}: ${book.title}`}
+                        className="w-full h-auto object-cover transition-transform duration-500 group-hover:scale-105"
+                      />
+                      {/* Hover overlay */}
+                      <div className="absolute inset-0 bg-black/50 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
+                        <span className="text-turquoise text-sm font-medium flex items-center gap-2">
+                          <BookOpen className="w-4 h-4" />
+                          View Details
+                        </span>
+                      </div>
+                    </div>
+
+                    {/* Buttons */}
+                    <div className="p-4 flex gap-2">
+                      <a
+                        href="https://www.amazon.com"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="flex-1 btn-amazon text-xs py-2.5 rounded-lg flex items-center justify-center gap-1.5"
+                      >
+                        <ShoppingCart className="w-3.5 h-3.5" />
+                        Buy This Book on Amazon
+                      </a>
+                      <button
+                        onClick={() => openBook(bookIndex)}
+                        className="flex-shrink-0 text-xs py-2.5 px-4 rounded-lg border border-turquoise/20 text-turquoise hover:bg-turquoise/10 transition-all duration-300 flex items-center justify-center gap-1.5"
+                      >
+                        <BookOpen className="w-3.5 h-3.5" />
+                        Details
+                      </button>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          ))}
         </div>
       </div>
     </section>

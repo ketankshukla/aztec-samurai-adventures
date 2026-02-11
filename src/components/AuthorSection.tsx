@@ -26,37 +26,52 @@ export default function AuthorSection() {
               </span>
             </div>
 
+            {/* Author photo */}
+            <div className="mb-6">
+              <img
+                src="/ketan-shukla.jpeg"
+                alt="Ketan Shukla"
+                className="w-40 h-40 rounded-full object-cover border-2 border-turquoise/30 shadow-turquoise"
+              />
+            </div>
+
             <h2 className="text-3xl sm:text-4xl font-bold font-serif mb-6">
               <span className="heading-gradient">Ketan Shukla</span>
             </h2>
 
             <div className="space-y-4 text-cream/60 leading-relaxed">
               <p>
-                Ketan Shukla is the author of the <em>Aztec Samurai Adventures</em> — a
-                twelve-book YA epic fantasy saga that blends Mesoamerican mythology with
-                samurai warrior traditions into a sweeping tale of war, sacrifice, and hope.
+                Ketan Shukla is the author of the{" "}
+                <em>Aztec Samurai Adventures</em> — a twelve-book YA epic
+                fantasy saga that blends Mesoamerican mythology with samurai
+                warrior traditions into a sweeping tale of war, sacrifice, and
+                hope.
               </p>
               <p>
-                The series follows Itzil, a reluctant warrior who discovers she is the
-                prophesied Blade-Bearer, as she assembles a diverse band of allies — scouts,
-                diplomats, healers, engineers, and duelists — to fight the Dominion, a
-                tyrannical empire that seeks to open the Great Gate and unleash ancient
-                darkness upon the world.
+                The series follows Itzil, a reluctant warrior who discovers she
+                is the prophesied Blade-Bearer, as she assembles a diverse band
+                of allies — scouts, diplomats, healers, engineers, and duelists
+                — to fight the Dominion, a tyrannical empire that seeks to open
+                the Great Gate and unleash ancient darkness upon the world.
               </p>
               <p>
-                With a cast of over twenty named characters, a meticulously planned
-                three-act structure, and twenty-four chapters per book, the <em>Aztec
-                Samurai Adventures</em> is a saga built on four guiding principles:
-                <strong className="text-turquoise"> Continuity, Clarity, Consistency,
-                and Coherency</strong>.
+                With a cast of over twenty named characters, a meticulously
+                planned three-act structure, and twenty-four chapters per book,
+                the <em>Aztec Samurai Adventures</em> is a saga built on four
+                guiding principles:
+                <strong className="text-turquoise">
+                  {" "}
+                  Continuity, Clarity, Consistency, and Coherency
+                </strong>
+                .
               </p>
             </div>
 
             {/* Dedication */}
             <div className="mt-8 p-6 glass rounded-xl">
               <p className="text-cream/50 italic font-serif text-center">
-                &ldquo;For every reader who ever picked up a sword in their imagination
-                and fought for a world worth saving.&rdquo;
+                &ldquo;For every reader who ever picked up a sword in their
+                imagination and fought for a world worth saving.&rdquo;
               </p>
             </div>
           </div>
@@ -81,35 +96,43 @@ export default function AuthorSection() {
 
             {/* Series structure */}
             <div className="glass rounded-xl p-6">
-              <h3 className="text-lg font-bold text-cream mb-4">Series Structure</h3>
+              <h3 className="text-lg font-bold text-cream mb-4">
+                Series Structure
+              </h3>
               <div className="space-y-4">
                 <div className="flex items-start gap-3">
                   <div className="w-3 h-3 rounded-full bg-turquoise/60 mt-1.5 flex-shrink-0" />
                   <div>
-                    <p className="text-cream font-medium text-sm">Act I — The Rising</p>
+                    <p className="text-cream font-medium text-sm">
+                      Act I — The Rising
+                    </p>
                     <p className="text-cream/40 text-xs">
-                      Books 1–4: Itzil assembles her team, fights the first battles, and
-                      confronts the warlord Volzentar.
+                      Books 1–4: Itzil assembles her team, fights the first
+                      battles, and confronts the warlord Volzentar.
                     </p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
                   <div className="w-3 h-3 rounded-full bg-purple-500/60 mt-1.5 flex-shrink-0" />
                   <div>
-                    <p className="text-cream font-medium text-sm">Act II — The Fracture</p>
+                    <p className="text-cream font-medium text-sm">
+                      Act II — The Fracture
+                    </p>
                     <p className="text-cream/40 text-xs">
-                      Books 5–8: Valdremor the Architect strikes. Mentors fall. The blade
-                      shatters. The darkest hour arrives.
+                      Books 5–8: Valdremor the Architect strikes. Mentors fall.
+                      The blade shatters. The darkest hour arrives.
                     </p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
                   <div className="w-3 h-3 rounded-full bg-amber-500/60 mt-1.5 flex-shrink-0" />
                   <div>
-                    <p className="text-cream font-medium text-sm">Act III — The Reckoning</p>
+                    <p className="text-cream font-medium text-sm">
+                      Act III — The Reckoning
+                    </p>
                     <p className="text-cream/40 text-xs">
-                      Books 9–12: The blade is reforged. The march to the capital. The final
-                      siege. Dawn breaks over a new world.
+                      Books 9–12: The blade is reforged. The march to the
+                      capital. The final siege. Dawn breaks over a new world.
                     </p>
                   </div>
                 </div>

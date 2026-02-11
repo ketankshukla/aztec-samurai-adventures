@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { ArrowUp, Sword } from "lucide-react";
+import { ArrowUp } from "lucide-react";
 import { books } from "@/data/books";
 import { useBook } from "@/context/BookContext";
 
@@ -24,14 +24,18 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <div className="flex items-center gap-3 mb-4">
-              <Sword className="w-6 h-6 text-turquoise" />
+              <img
+                src="/logo.png"
+                alt="Aztec Samurai Adventures"
+                className="w-8 h-8 object-contain"
+              />
               <span className="text-lg font-bold gradient-text-turquoise">
                 Aztec Samurai Adventures
               </span>
             </div>
             <p className="text-cream/40 text-sm leading-relaxed">
-              A twelve-book YA epic fantasy saga of warriors, sorcerers, and
-              the blade that carries the light.
+              A twelve-book YA epic fantasy saga of warriors, sorcerers, and the
+              blade that carries the light.
             </p>
           </div>
 
@@ -89,7 +93,8 @@ export default function Footer() {
             &copy; {new Date().getFullYear()} Ketan Shukla. All rights reserved.
           </p>
           <p className="text-cream/20 text-xs italic font-serif">
-            &ldquo;The blade that protects is sharper than the blade that conquers.&rdquo;
+            &ldquo;The blade that protects is sharper than the blade that
+            conquers.&rdquo;
           </p>
         </div>
       </div>

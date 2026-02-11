@@ -1,12 +1,19 @@
 "use client";
 
 import { useEffect } from "react";
-import { X, ChevronLeft, ChevronRight, ShoppingCart, BookOpen } from "lucide-react";
+import {
+  X,
+  ChevronLeft,
+  ChevronRight,
+  ShoppingCart,
+  BookOpen,
+} from "lucide-react";
 import { books } from "@/data/books";
 import { useBook } from "@/context/BookContext";
 
 export default function BookModal() {
-  const { selectedBookIndex, closeBook, goToNextBook, goToPrevBook } = useBook();
+  const { selectedBookIndex, closeBook, goToNextBook, goToPrevBook } =
+    useBook();
 
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
@@ -74,24 +81,12 @@ export default function BookModal() {
         >
           <div className="flex flex-col sm:flex-row gap-8 items-start">
             {/* Book cover */}
-            <div
-              className="w-40 sm:w-48 aspect-[2/3] rounded-lg shadow-professional flex-shrink-0 flex flex-col items-center justify-center p-4 text-center border border-white/10"
-              style={{
-                background: `linear-gradient(135deg, ${book.color}22, #141414, ${book.color}11)`,
-              }}
-            >
-              <div
-                className="text-4xl font-serif font-bold mb-2"
-                style={{ color: book.color }}
-              >
-                {book.roman}
-              </div>
-              <h3 className="text-sm font-bold text-cream mb-1">
-                {book.title}
-              </h3>
-              <p className="text-cream/40 text-[10px] italic">
-                {book.subtitle}
-              </p>
+            <div className="w-40 sm:w-48 flex-shrink-0">
+              <img
+                src={book.coverImage}
+                alt={`Book ${book.roman}: ${book.title}`}
+                className="w-full h-auto rounded-lg shadow-professional border border-white/10"
+              />
             </div>
 
             {/* Book info */}

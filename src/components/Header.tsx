@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { Menu, X, Sword } from "lucide-react";
+import { Menu, X } from "lucide-react";
 
 export default function Header() {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -23,9 +23,7 @@ export default function Header() {
   return (
     <header
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${
-        isScrolled
-          ? "glass-dark shadow-turquoise py-3"
-          : "bg-transparent py-5"
+        isScrolled ? "glass-dark shadow-turquoise py-2" : "bg-transparent py-4"
       }`}
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -39,10 +37,16 @@ export default function Header() {
               window.scrollTo({ top: 0, behavior: "smooth" });
             }}
           >
-            <Sword className="w-7 h-7 text-turquoise group-hover:text-turquoise-light transition-colors" />
+            <img
+              src="/logo.png"
+              alt="Aztec Samurai Adventures"
+              className="w-10 h-10 object-contain group-hover:scale-110 transition-transform"
+            />
             <span className="text-lg sm:text-xl font-bold tracking-wide">
               <span className="gradient-text-turquoise">AZTEC SAMURAI</span>
-              <span className="text-cream/60 ml-2 hidden sm:inline">ADVENTURES</span>
+              <span className="text-cream/60 ml-2 hidden sm:inline">
+                ADVENTURES
+              </span>
             </span>
           </a>
 
