@@ -1,42 +1,33 @@
 "use client";
 
-import { useState } from "react";
-
-const characters = [
-  { id: 1, name: "Itzil", title: "The Blade Bearer", image: "/images/character-portraits/01-Itzil.png" },
-  { id: 2, name: "Kaelen", title: "The Shadow Scout", image: "/images/character-portraits/02-Kaelen.png" },
-  { id: 3, name: "Volzentar", title: "The Warlord", image: "/images/character-portraits/03-Volzentar.png" },
-  { id: 4, name: "Korvain", title: "The Last Grandmaster", image: "/images/character-portraits/04-Korvain.png" },
-  { id: 5, name: "Nightshade", title: "The Blood Orator", image: "/images/character-portraits/05-Nightshade.png" },
-  { id: 6, name: "Valdremor", title: "The Architect", image: "/images/character-portraits/06-Valdremor.png" },
-  { id: 7, name: "Neyla", title: "The Healer", image: "/images/character-portraits/07-Neyla.png" },
-  { id: 8, name: "Jagren", title: "The Duelist", image: "/images/character-portraits/08-Jagren.png" },
-  { id: 9, name: "Miyako", title: "The Exile Sensei", image: "/images/character-portraits/09-Miyako.png" },
-  { id: 10, name: "Solkren", title: "The Armorer", image: "/images/character-portraits/10-Solkren.png" },
-  { id: 11, name: "Amalura", title: "The Keeper of Lore", image: "/images/character-portraits/11-Amalura.png" },
-  { id: 12, name: "Serenthar", title: "The Weeping Oracle", image: "/images/character-portraits/12-Serenthar.png" },
-  { id: 13, name: "Zariel", title: "The Diplomat", image: "/images/character-portraits/13-Zariel.png" },
-  { id: 14, name: "Rainara", title: "The Water Warrior", image: "/images/character-portraits/14-Rainara.png" },
-  { id: 15, name: "Torvane", title: "The Engineer", image: "/images/character-portraits/15-Torvane.png" },
-  { id: 16, name: "Skyren", title: "The Hawk Rider", image: "/images/character-portraits/16-Skyren.png" },
-  { id: 17, name: "Helisar", title: "The Fallen Saint", image: "/images/character-portraits/17-Helisar.png" },
-  { id: 18, name: "Gravok", title: "The Beast Commander", image: "/images/character-portraits/18-Gravok.png" },
-  { id: 19, name: "Pearlvaine", title: "The Demon Diplomat", image: "/images/character-portraits/19-Pearlvaine.png" },
-  { id: 20, name: "Dalrignon", title: "The Portal Engineer", image: "/images/character-portraits/20-Dalrignon.png" },
-  { id: 21, name: "Mirathane", title: "The Mirror Queen", image: "/images/character-portraits/21-Mirathane.png" },
-  { id: 22, name: "Relicara", title: "The Relic Collector", image: "/images/character-portraits/22-Relicara.png" },
-  { id: 23, name: "Vastrix", title: "The Hunger", image: "/images/character-portraits/23-Vastrix.png" },
-  { id: 24, name: "Essara", title: "The Unbroken", image: "/images/character-portraits/24-Essara.png" },
-  { id: 25, name: "Savren", title: "The Ashvanar Sorcerer", image: "/images/character-portraits/25-Savren.png" },
-  { id: 26, name: "Gravos", title: "The Surviving Ashvanar", image: "/images/character-portraits/26-Gravos.png" },
-  { id: 27, name: "Corwen", title: "The First Freed", image: "/images/character-portraits/27-Corwen.png" },
-  { id: 28, name: "Cielovar", title: "The Golden Hawk", image: "/images/character-portraits/28-Cielovar.png" },
-  { id: 29, name: "Brennan", title: "Thalendor's Attaché", image: "/images/character-portraits/29-Brennan.png" },
-  { id: 30, name: "Sethara", title: "Pyrrath's Commander", image: "/images/character-portraits/30-Sethara.png" },
-];
+import { useState, useCallback } from "react";
+import { characters } from "@/data/characters";
+import CharacterModal from "@/components/CharacterModal";
 
 export default function CharacterGrid() {
   const [hoveredId, setHoveredId] = useState<number | null>(null);
+  const [selectedIndex, setSelectedIndex] = useState<number | null>(null);
+
+  const selectedCharacter =
+    selectedIndex !== null ? characters[selectedIndex] : null;
+
+  const openCharacter = useCallback((index: number) => {
+    setSelectedIndex(index);
+  }, []);
+
+  const closeCharacter = useCallback(() => {
+    setSelectedIndex(null);
+  }, []);
+
+  const goToPrev = useCallback(() => {
+    setSelectedIndex((prev) => (prev !== null && prev > 0 ? prev - 1 : prev));
+  }, []);
+
+  const goToNext = useCallback(() => {
+    setSelectedIndex((prev) =>
+      prev !== null && prev < characters.length - 1 ? prev + 1 : prev
+    );
+  }, []);
 
   return (
     <section className="relative py-0">
@@ -75,7 +66,8 @@ export default function CharacterGrid() {
                       className="text-2xl sm:text-3xl md:text-4xl font-bold font-serif tracking-wide"
                       style={{
                         color: "#FFD700",
-                        textShadow: "0 0 20px rgba(255,215,0,0.3), 0 2px 4px rgba(0,0,0,0.5)",
+                        textShadow:
+                          "0 0 20px rgba(255,215,0,0.3), 0 2px 4px rgba(0,0,0,0.5)",
                       }}
                     >
                       The Characters
@@ -85,7 +77,8 @@ export default function CharacterGrid() {
                       <div
                         className="h-[1px] w-16 sm:w-24"
                         style={{
-                          background: "linear-gradient(to right, transparent, #FFD700)",
+                          background:
+                            "linear-gradient(to right, transparent, #FFD700)",
                         }}
                       />
                       <div className="flex gap-1">
@@ -105,7 +98,8 @@ export default function CharacterGrid() {
                       <div
                         className="h-[1px] w-16 sm:w-24"
                         style={{
-                          background: "linear-gradient(to left, transparent, #FFD700)",
+                          background:
+                            "linear-gradient(to left, transparent, #FFD700)",
                         }}
                       />
                     </div>
@@ -113,12 +107,13 @@ export default function CharacterGrid() {
 
                   {/* 6 rows x 5 columns grid */}
                   <div className="grid grid-cols-3 sm:grid-cols-5 gap-2 sm:gap-3">
-                    {characters.map((character) => (
+                    {characters.map((character, index) => (
                       <div
                         key={character.id}
-                        className="group relative rounded-lg overflow-hidden transition-all duration-300"
+                        className="group relative rounded-lg overflow-hidden transition-all duration-300 cursor-pointer"
                         onMouseEnter={() => setHoveredId(character.id)}
                         onMouseLeave={() => setHoveredId(null)}
+                        onClick={() => openCharacter(index)}
                         style={{
                           boxShadow:
                             hoveredId === character.id
@@ -165,7 +160,8 @@ export default function CharacterGrid() {
                     <div
                       className="h-[1px] w-16 sm:w-24"
                       style={{
-                        background: "linear-gradient(to right, transparent, #FFD700)",
+                        background:
+                          "linear-gradient(to right, transparent, #FFD700)",
                       }}
                     />
                     <div className="flex gap-1">
@@ -185,7 +181,8 @@ export default function CharacterGrid() {
                     <div
                       className="h-[1px] w-16 sm:w-24"
                       style={{
-                        background: "linear-gradient(to left, transparent, #FFD700)",
+                        background:
+                          "linear-gradient(to left, transparent, #FFD700)",
                       }}
                     />
                   </div>
@@ -198,6 +195,12 @@ export default function CharacterGrid() {
           </div>
         </div>
       </div>
+      <CharacterModal
+        character={selectedCharacter}
+        onClose={closeCharacter}
+        onPrev={goToPrev}
+        onNext={goToNext}
+      />
     </section>
   );
 }
