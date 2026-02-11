@@ -52,19 +52,10 @@ $outDoc = Join-Path $outDir "$BookFolder.docx"
 Remove-Item $outMd  -ErrorAction SilentlyContinue
 Remove-Item $outDoc -ErrorAction SilentlyContinue
 
-# --- Page break ---
-$pageBreak = '```{=openxml}' + "`r`n" + '<w:p><w:r><w:br w:type="page"/></w:r></w:p>' + "`r`n" + '```'
-
 # --- Build combined document ---
 $sb = New-Object System.Text.StringBuilder
 
 for ($i = 0; $i -lt $files.Count; $i++) {
-
-  if ($i -gt 0) {
-    [void]$sb.AppendLine("")
-    [void]$sb.AppendLine($pageBreak)
-    [void]$sb.AppendLine("")
-  }
 
   $content = [System.IO.File]::ReadAllText($files[$i].FullName, $utf8NoBom)
 
@@ -77,9 +68,20 @@ for ($i = 0; $i -lt $files.Count; $i++) {
     $num  = [int]$Matches[1]
     $slug = ($Matches[2] -replace '_', ' ')
     $slug = (Get-Culture).TextInfo.ToTitleCase($slug.ToLower())
-    [void]$sb.AppendLine("# Chapter $num - $slug")
+    $heading = "Chapter $num - $slug"
   } else {
-    [void]$sb.AppendLine("# $base")
+    $heading = $base
+  }
+
+  if ($i -gt 0) {
+    # Heading with page-break-before as raw OpenXML — no separate page-break paragraph
+    $safe = $heading -replace '&','&amp;' -replace '<','&lt;' -replace '>','&gt;'
+    [void]$sb.AppendLine("")
+    [void]$sb.AppendLine('``````{=openxml}')
+    [void]$sb.AppendLine("<w:p><w:pPr><w:pStyle w:val=`"Heading1`"/><w:pageBreakBefore/></w:pPr><w:r><w:t>$safe</w:t></w:r></w:p>")
+    [void]$sb.AppendLine('``````')
+  } else {
+    [void]$sb.AppendLine("# $heading")
   }
 
   [void]$sb.AppendLine("")
