@@ -17,6 +17,8 @@ export interface Book {
   coverImage: string;
   chapters: Chapter[];
   color: string;
+  kindleUrl?: string;
+  paperbackUrl?: string;
 }
 
 export const books: Book[] = [

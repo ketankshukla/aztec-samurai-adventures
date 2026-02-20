@@ -2,7 +2,7 @@
 
 import { books } from "@/data/books";
 import { useBook } from "@/context/BookContext";
-import { ShoppingCart, BookOpen } from "lucide-react";
+import { Tablet, BookMarked, BookOpen, Library } from "lucide-react";
 
 const boxSets = [
   {
@@ -49,19 +49,6 @@ export default function BooksSection() {
               />
             </div>
 
-            {/* Buy Box Set button */}
-            <div className="text-center mb-8">
-              <a
-                href="https://www.amazon.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="btn-amazon inline-flex items-center justify-center gap-2 text-sm sm:text-base px-6 sm:px-8 py-2.5 sm:py-3 whitespace-nowrap"
-              >
-                <ShoppingCart className="w-4 h-4 sm:w-5 sm:h-5" />
-                Buy This Box Set
-              </a>
-            </div>
-
             {/* 4 books side by side, aligned with box set above */}
             <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
               {boxSet.bookIndices.map((bookIndex) => {
@@ -93,20 +80,29 @@ export default function BooksSection() {
                     {/* Buttons */}
                     <div className="p-2 sm:p-3 flex flex-col gap-2">
                       <a
-                        href="https://www.amazon.com"
+                        href={book.kindleUrl || "https://www.amazon.com"}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="btn-amazon text-xs sm:text-sm py-2 rounded-lg flex items-center justify-center gap-1.5 w-full whitespace-nowrap"
+                        className="inline-flex items-center justify-center gap-1.5 w-full rounded-lg bg-[#FF9900] py-2 px-3 text-xs sm:text-sm font-bold tracking-wide text-black transition-all duration-200 hover:bg-[#e68a00] active:scale-95"
                       >
-                        <ShoppingCart className="w-3.5 h-3.5" />
-                        Buy This Book
+                        <Tablet className="h-3.5 w-3.5 shrink-0" />
+                        Buy Kindle
+                      </a>
+                      <a
+                        href={book.paperbackUrl || "https://www.amazon.com"}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center justify-center gap-1.5 w-full rounded-lg border border-turquoise/40 bg-turquoise/10 py-2 px-3 text-xs sm:text-sm font-bold tracking-wide text-turquoise transition-all duration-200 hover:bg-turquoise/20 hover:border-turquoise/60 active:scale-95"
+                      >
+                        <BookMarked className="h-3.5 w-3.5 shrink-0" />
+                        Buy Paperback
                       </a>
                       <button
                         onClick={() => openBook(bookIndex)}
-                        className="text-xs sm:text-sm py-2 rounded-lg border border-turquoise/20 text-turquoise hover:bg-turquoise/10 transition-all duration-300 flex items-center justify-center gap-1.5 w-full whitespace-nowrap"
+                        className="flex items-center justify-center gap-1.5 rounded-full border border-turquoise/30 bg-turquoise/5 px-3 py-2 text-xs sm:text-sm font-medium text-turquoise transition-all hover:border-turquoise/60 hover:bg-turquoise/10"
                       >
-                        <BookOpen className="w-3.5 h-3.5" />
-                        Details
+                        <BookOpen className="h-3.5 w-3.5" />
+                        Book Details
                       </button>
                     </div>
                   </div>
@@ -115,6 +111,22 @@ export default function BooksSection() {
             </div>
           </div>
         ))}
+
+        {/* Buy Complete Series */}
+        <div className="text-center mt-12">
+          <p className="font-serif text-xs tracking-[0.25em] uppercase text-turquoise/50 mb-4">
+            Own the complete series
+          </p>
+          <a
+            href="https://www.amazon.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center justify-center gap-3 rounded-lg bg-[#FF9900] px-8 py-3 text-sm font-bold tracking-wide text-black transition-all duration-200 hover:bg-[#e68a00] hover:shadow-lg hover:shadow-[#FF9900]/20 active:scale-95"
+          >
+            <Library className="h-4 w-4 shrink-0" />
+            Buy The Complete Series on Amazon
+          </a>
+        </div>
       </div>
     </section>
   );

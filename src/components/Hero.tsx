@@ -1,6 +1,6 @@
 "use client";
 
-import { ShoppingCart } from "lucide-react";
+import { Library } from "lucide-react";
 
 export default function Hero() {
   return (
@@ -29,16 +29,19 @@ export default function Hero() {
             />
           </div>
 
-          {/* Buy Series button */}
-          <div className="text-center mb-0">
+          {/* Buy Complete Series button */}
+          <div className="text-center">
+            <p className="font-serif text-xs tracking-[0.25em] uppercase text-turquoise/50 mb-4">
+              Own the complete series
+            </p>
             <a
               href="https://www.amazon.com"
               target="_blank"
               rel="noopener noreferrer"
-              className="btn-amazon inline-flex items-center justify-center gap-3 text-lg sm:text-xl px-8 sm:px-10 py-3 sm:py-4 whitespace-nowrap"
+              className="inline-flex items-center justify-center gap-3 rounded-lg bg-[#FF9900] px-8 py-3 text-sm font-bold tracking-wide text-black transition-all duration-200 hover:bg-[#e68a00] hover:shadow-lg hover:shadow-[#FF9900]/20 active:scale-95"
             >
-              <ShoppingCart className="w-5 h-5 sm:w-6 sm:h-6" />
-              Buy This Series on Amazon
+              <Library className="h-4 w-4 shrink-0" />
+              Buy The Complete Series on Amazon
             </a>
           </div>
         </div>

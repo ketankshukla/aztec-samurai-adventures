@@ -1,13 +1,7 @@
 "use client";
 
 import { useEffect, useRef } from "react";
-import {
-  X,
-  ChevronLeft,
-  ChevronRight,
-  ShoppingCart,
-  BookOpen,
-} from "lucide-react";
+import { X, ChevronLeft, ChevronRight, BookOpen } from "lucide-react";
 import { books } from "@/data/books";
 import { useBook } from "@/context/BookContext";
 
@@ -134,37 +128,6 @@ export default function BookModal() {
                     — {book.epigraph.author}
                   </cite>
                 </blockquote>
-
-                {/* Buy buttons */}
-                <div className="flex flex-wrap gap-3">
-                  <a
-                    href="https://www.amazon.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="btn-amazon text-xs px-4 py-2 flex items-center gap-1.5"
-                  >
-                    <ShoppingCart className="w-3.5 h-3.5" />
-                    Buy This Book
-                  </a>
-                  <a
-                    href="https://www.amazon.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="btn-amazon text-xs px-4 py-2 flex items-center gap-1.5"
-                  >
-                    <ShoppingCart className="w-3.5 h-3.5" />
-                    Buy Box Set
-                  </a>
-                  <a
-                    href="https://www.amazon.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="btn-amazon text-xs px-4 py-2 flex items-center gap-1.5"
-                  >
-                    <ShoppingCart className="w-3.5 h-3.5" />
-                    Buy Complete Series
-                  </a>
-                </div>
               </div>
             </div>
           </div>
