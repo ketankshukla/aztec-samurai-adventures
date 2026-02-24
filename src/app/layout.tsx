@@ -54,19 +54,19 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/images/logo.png",
-        width: 512,
-        height: 512,
-        alt: "Aztec Samurai Adventures series logo",
+        url: "/images/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Aztec Samurai Adventures — 12-Book Epic Fantasy Series by Ketan Shukla",
       },
     ],
   },
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
     title: "Aztec Samurai Adventures — 12-Book Epic Fantasy Series",
     description:
       "A twelve-book YA epic fantasy saga spanning 288 chapters. Warriors, sorcerers, demons, and the blade that carries the light. By Ketan Shukla.",
-    images: ["/images/logo.png"],
+    images: ["/images/og-image.png"],
   },
 };
 
