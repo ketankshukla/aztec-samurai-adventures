@@ -40,3 +40,6 @@ next-env.d.ts
 
 # project-specific
 temp-chapters.txt
+
+# video files
+*.mp4
