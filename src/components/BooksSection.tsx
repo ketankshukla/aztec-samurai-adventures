@@ -118,7 +118,7 @@ export default function BooksSection() {
             Own the complete series
           </p>
           <a
-            href="https://www.amazon.com"
+            href="https://www.amazon.com/dp/B0GPDGDV58"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-3 rounded-lg bg-[#FF9900] px-8 py-3 text-sm font-bold tracking-wide text-black transition-all duration-200 hover:bg-[#e68a00] hover:shadow-lg hover:shadow-[#FF9900]/20 active:scale-95"
