@@ -1871,6 +1871,7 @@ export const books: Book[] = [
       "The final book is a gentle landing after twelve books of war. Every character gets their resolution: Itzil chooses to stay and rebuild rather than rule. Kaelen finds purpose beyond survival. Jagren puts away his dueling blade and chooses to teach. Neyla heals the last ash-oath slaves in a ceremony where thousands speak their names. Rainara cleanses the poisoned rivers. Torvane rebuilds the capital's infrastructure for community, not control. Skyren flies one last reconnaissance — the world is hurt but healing. Solkren forges door hinges instead of weapons. Amalura catalogs the Dominion's knowledge, annotating Valdremor's journals with wry corrections. Even Valdremor finds something like peace in his cell. Time jumps forward — one year, five years, ten years. A new generation of warriors trains at a rebuilt Sun-Blade temple. Itzil and Kaelen watch the sunset. In the final chapter, a young warrior finds a single golden shard in the ruins — warm, pulsing with light. A new blade? A new beginning? The reader decides.",
     coverImage: "/images/book-covers/book12-cover.png",
     kindleUrl: "https://www.amazon.com/dp/B0GPNM97PJ",
+    paperbackUrl: "https://www.amazon.com/dp/B0GR9C6CYC",
     color: "#eab308",
     chapters: [
       {
